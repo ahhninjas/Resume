@@ -284,3 +284,59 @@ Intermediate 10+ Years Without Complete Immersion
 
 * * *
 create a link to indeed and ziprecruiter
+
+
+
+### <b><u><center>Contact</b></u></center><br>
+I can be reached in any of the following ways.<br>
+# <u><b><center>Sean Mills</u></center></b>
+<br>
+<u><b><center>Contact Information</u></b>
+<br>
+[Email - mills321@gmail.com](mailto:mills321@gmail.com)
+<br>
+[Skype - mills3211](<a href="skype:mills3211?call">Call Me</a>)
+<br>
+[Skype](<a href="skype:mills3211?call"><img src="/images/call.png"></a>)
+<br>
+[Telegram](/)
+<br>
+[Discord](/)
+<br>
+
+
+Ninja<br>
+[Social Media]()
+- [Twitter]()
+- [YouTube]()
+- [Steemit]()
+- [Minds]()
+- [DTube]()<br>
+
+
+## <b><u><center>Table Of Contents</b></u></center>
+<br>
+![]()
+<br>
+<center>
+<h4 id=”item-one”>[Resume](./)</h4>
+<h4 id=”item-two”>[Music](./)</h4>
+<h4 id=”item-four”>[Bookmarks](./)</h4>
+<h4 id=”item-five”>[Affiliates](./)</h4>
+<h4 id=”item-six”>[Donations](./)</h4>
+</center>
+<br>
+
+## <b><u><center>Healing Projects</b></u></center>
+<br>
+<h4 id=”item-nine”>[Healing Center](./)</h4>
+<h4 id=”item-ten”>[Health Application](./)</h4>
+<br>
+
+## <b><u><center>Services I Provide</b></u></center>
+<br>
+<h4 id=”item-thirteen”>[Home Nirvana Handyman Services](./)</h4>
+<h4 id=”item-fourteen”>[Martial Arts And Fitness Training](./)</h4>
+<h4 id=”item-fifteen”>[Writing](./)</h4>
+<h4 id=”item-sixteen”>[Modeling](./)</h4>
+<br>
