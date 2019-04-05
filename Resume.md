@@ -36,7 +36,7 @@ May 2017 –  November 2018<br>
 * * *
 <div>
 <b><u><center>[Cryptit.io](Cryptit.io)</b></u></center><br>
-<center>![]()</center><br>
+<center>![](/)</center><br>
 - Web application that was designed to encrypt and decrypt files using SHA-256 encryption. SHA-256 is a crack able encryption protocol, but only via quantum computing, or ASIC/GPU cracking techniques.<br>
 - Users are able to privately send communications, documentation, and media around the world via email with an encrypted password required to access it.<br>
 I coded the GitPitch presentation in GitHub Markdown language via GitHub and Atom, and created the initial graphics for the website.
@@ -56,6 +56,7 @@ I coded the GitPitch presentation in GitHub Markdown language via GitHub and Ato
 https://www.facebook.com/austintechlive/videos/1932585736786554/<br>
 https://www.capitalfactory.com/event/factom-blockchain-hackathon/<br>
 https://www.factom.com/blog/factom-hackathon-recap<br>
+
 * * *  
 <b><center><u>USAA South By Southwest (SXSW) Hackathon</u></center><br>
 <center><i><b>Winner of Amazon Web Services (AWS) Rock and Roll Hall of Fame Challenge</center><br>
@@ -81,10 +82,8 @@ New Braunfels, TX<br>
 This was an experiment in creating a scalable business where anyone with UniBIT's, or BitCoins could utilize the space and tools therein to create things.<br>
 Participants would use AutoCad/Corel Draw to write the G-Code (RS-274) required to operate the machinery properly.<br>
 Facility specifically focused on CNC (Computer Numerical Control), lazer etching, milling, lathing, and 3D printing.<br>
-The space also served as a forum for weekly BitCoin meetups to add new members, software developers, potential investors, and partnerships.<br>
-The idea has been spearheaded by Mutuwell Inc, and PresciousPlastic whom are both partnerships of UniBit Labs LLC.<br>
-[Baba Cessi Owner](https://mutuwell.wordpress.com/)<br>
-[Prescious Plastic Jeff Hunt Owner New Braunfels Branch](https://preciousplastic.com/)<br>
+The space also served as a forum for weekly Bitcoin meetups to add new members, software developers, potential investors, and partnerships.<br>
+
 * * *
 Web Developer And Customer Resource Management<br>
 [Insightful Automation](InsightfulAutomation.com)<br>
@@ -99,9 +98,6 @@ Helped facilitate the rapid evolution of business methods to the current methodo
 
 ## <u><b><center>References</b></u>
 <center><b><u>[Philosophy](http://philosophy.okstate.edu/people/faculty)</b></u><br>
-[Doren Recker, Ph.D.](http://philosophy.okstate.edu/people/faculty/20-faculty-directory/205-dr-recker)<br>
-[Eric Reitan, Ph.D.](http://philosophy.okstate.edu/people/faculty/20-faculty-directory/27-eric-reitan)<br>
-[Lawrence Pasternak, Ph.D.](http://philosophy.okstate.edu/people/faculty/20-faculty-directory/24-lawrence-pasternack)<br>
 [Marty Heitz, Ph.D.](http://philosophy.okstate.edu/people/faculty/20-faculty-directory/22-marty-heitz)<br>
 [Rebecca Bensen Cain, Ph.D.](http://philosophy.okstate.edu/people/faculty/20-faculty-directory/19-rebecca-bensen-cain)<br>
 <center><b><u>[Psychology](http://psychology.okstate.edu/people-list/faculty)</b></u><br>
@@ -117,84 +113,71 @@ Helped facilitate the rapid evolution of business methods to the current methodo
 [Adam Higdon](/)<br>
 <center><b><u>Construction</u></b></u><br>
 [Earl Williams](/)<br>
-[Karl Stefansson](/)<br>
+[Karl Stefansson](blindandshutterguys.com/)<br>
 <center><b><u>Music</b></u><br>
 [David Hall](hallmusicproductions.com)<br>
-<center><b><u>BitCoin</b></u><br>
-[Stanley Walter](/)<br>
 <center><b><u>Computer Science</b></u><br>
 [Roy Hodge](https://royhodge.github.io)<br>
 
 
-
-
----
-layout: default
----
-## <u><b><center>Skills</u>
+## <u><b><center>Skills</u><br>
 <br>
-<b>[GitHub And GitHub Desktop](https://devpost.com/ahhninjas)
-<b>GitHub Desktop
+<b>Web Development</b>
+- [GitHub](https://devpost.com/ahhninjas)
+- Atom
 <br>
 [Social Media]()
-- [Instagram]()
-- [Facebook]()
-- [Twitter]()
-- [LinkedIn]()
-- [Tumblr]()
-- [YouTube]()
-- [LinkedIn](
-- [Steemit]()
-- [Minds]()
-- [DTube]()
-- [DSound]()
+- [Instagram](/)
+- [Facebook](/)
+- [Twitter](/)
+- [LinkedIn](/)
+- [Tumblr](/)
+- [YouTube](/)
+- [LinkedIn](/)
+- [Steemit](/)
+- [Minds](/)
+- [DTube](/)
+- [DSound](/)
 
 <b>Social Media Management Systems
-<br>
-[Hootsuite]()
-<br>
-[Buffer]()
+- [Hootsuite](/)
+- [Buffer](/)
 <br>
 
-<b>Quicklink Generation and Analytics
-<br>
-[Bit.ly Quicklinks]()
-<br>
-[Google Analytics]()
-<br>
-[Google AdWords]()
-
-
-<br>
-[WordPress]()
-<br>
-[Dropbox]()
+<b>Quick Link Generation and Analytics
+- [Bit.ly Quick Links](/)
+- [Google Analytics](/)
+- [Google AdWords](/)
 <br>
 
-<b>[Microsoft Office Suite]()
- - [Word]()
- - [Excel]()
- - [Power Point]()
- - [Publisher]()
+
+[WordPress](/)
+[Dropbox](/)
 <br>
 
-<b>[Google Office Suite]()
- - [Google Documents]()
- - [Google Sheets]()
- - [Google Drive]()
+<b>[Microsoft Office Suite](/)
+ - [Word](/)
+ - [Excel](/)
+ - [Power Point](/)
+ - [Publisher](/)
 <br>
 
-<b>Typing Speed</b>
+<b>[Google Office Suite](/)
+- [Google Documents](/)
+- [Google Sheets](/)
+- [Google Drive](/)
 <br>
+
+<b>[Typing Speed](/)</b>
 263 net characters per minute which equals 53 net words per minute.
 <br>
 
 <b>Coding Languages</b>
-  - [HTML](/)
-  - [CSS](/)
-  - [GitHub Markdown](/)
-  - [Markdown](/)
-  <br>
+- [HTML](/)
+- [CSS](/)
+- [GitHub Markdown](/)
+- [Markdown](/)
+<br>
 
 <b>Spanish Proficiency</b>
 <br>
@@ -203,35 +186,27 @@ Intermediate 10+ Years Without Complete Immersion
 
 ## <u><b><center>Social Media Accounts</u>
 <br>
-[Twitter - NinjaInvestments - @NinjaInvestingX](./another-page.html)<br>
-[Facebook - ](./another-page.html)
+- [Twitter - NinjaInvestments - @NinjaInvestingX](./another-page.html)
 <br>
-[LinkedIn - ](./another-page.html)
-<br>
-[YouTube - ](./another-page.html)
-<br>
-[Twitch - ](./another-page.html)
-<br>
-[StreamLabs - ](./another-page.html)
-<br>
-[Patreon - ](./another-page.html)
-<br>
-[DTube - ](./another-page.html)
-<br>
-[Steemit - ](./another-page.html)
-<br>
-[BitChute - ](./another-page.html)
-<br>
+- [Facebook - ](/)
+- [LinkedIn - ](/)
+- [YouTube - ](/)
+- [Twitch - ](/)
+- [StreamLabs - ](/)
+- [Patreon - ](/)
+- [DTube - ](/)
+- [Steemit - ](/)
+- [BitChute - ](/)
+- [Minds](/)<br>
 
 * * *
 ## <u><b><center>Bucket List</u></b></center>
 1. [ ] Create a family
 1. [ ] Live entirely off of investments, or annuities
-1. [ ] Create an advanced healing center
-1. [ ] Find path to off world planets
+1. [ ] Create a healing center
+1. [ ] Find path off world
 1. [ ] Create a mobile health application
 1. [ ] Create a stream of $5000 passive monthly income
-1. [ ] Find a way to financial freedom
 <br>
 
 * * *
@@ -244,15 +219,14 @@ Intermediate 10+ Years Without Complete Immersion
 <b>Web Development</b><br>
 1. [ ] [Hootsuite Certifications](/)
 1. [ ] [Buffer Certifications](/)
-1. [ ] [Commercial Drivers License](/)
-1. [ ] [Captains License](/)
+1. [ ] [Google AdWords](/)
+1. [ ] [YouTube Certification](/)
 <b>Other</b>
 1. [ ] [Skydiving License](/)
 1. [ ] [Real Estate License](/)
 1. [ ] [SCUBA License](/)
-1. [ ] [Insightful Automation Infusionsoft Certification](/)
 1. [ ] [Notary License](/)
-1. [ ] [Makerbot Certification](https://store.makerbot.com/training/makerbot-university-online/)
+1. [ ] [MakerBot Certification](https://store.makerbot.com/training/makerbot-university-online/)
 <br>
 * * *
 ## <u><b><center>General Goals list
@@ -264,7 +238,6 @@ Intermediate 10+ Years Without Complete Immersion
 1. [ ] Fly A Plane To The Entrance To The Hallow Earth [L](/)
 1. [ ] Live Completely Free Financially Via Passive Income Streams, Annuities and Investing [g](/)
 1. [ ] Create off grid housing [Link](/)
-1. [ ] Create a Healing Center [Le](/)
 1. [ ] Travel to Antarctic via boat or bush plane [Link](/)
 1. [ ] Travel to Antarctica via boat or bush plane [Link](/)
 1. [ ] See the northern lights [Link](/)
@@ -283,10 +256,6 @@ Intermediate 10+ Years Without Complete Immersion
 <br>
 
 * * *
-create a link to indeed and ziprecruiter
-
-
-
 ### <b><u><center>Contact</b></u></center><br>
 I can be reached in any of the following ways.<br>
 # <u><b><center>Sean Mills</u></center></b>
@@ -304,39 +273,4 @@ I can be reached in any of the following ways.<br>
 [Discord](/)
 <br>
 
-
-Ninja<br>
-[Social Media]()
-- [Twitter]()
-- [YouTube]()
-- [Steemit]()
-- [Minds]()
-- [DTube]()<br>
-
-
-## <b><u><center>Table Of Contents</b></u></center>
-<br>
-![]()
-<br>
-<center>
-<h4 id=”item-one”>[Resume](./)</h4>
-<h4 id=”item-two”>[Music](./)</h4>
-<h4 id=”item-four”>[Bookmarks](./)</h4>
-<h4 id=”item-five”>[Affiliates](./)</h4>
-<h4 id=”item-six”>[Donations](./)</h4>
-</center>
-<br>
-
-## <b><u><center>Healing Projects</b></u></center>
-<br>
-<h4 id=”item-nine”>[Healing Center](./)</h4>
-<h4 id=”item-ten”>[Health Application](./)</h4>
-<br>
-
-## <b><u><center>Services I Provide</b></u></center>
-<br>
-<h4 id=”item-thirteen”>[Home Nirvana Handyman Services](./)</h4>
-<h4 id=”item-fourteen”>[Martial Arts And Fitness Training](./)</h4>
-<h4 id=”item-fifteen”>[Writing](./)</h4>
-<h4 id=”item-sixteen”>[Modeling](./)</h4>
-<br>
+create a link to indeed and ziprecruiter
