@@ -3,12 +3,63 @@ layout: default
 ---
 Download resume pdf link
 contact form linked to mailchimp
+create links to videos on monster x camp info on youtube for martial arts resume
+create links to heading ids in each section
+[Education](#Education-1)
+[Experience](#Experience)
+[Hackathon](#Hackathon)
+[References](#References)
+[Bucket List](#BucketList)
+[Skills](#Skills)
+[Top Of Page](#Top)
+https://www.southlakecarroll.edu/Page/350
+
+https://www.dragonyouthfootball.net/page/show/3312857-dragon-youth-football-camp-powered-by-fasst-performance
+
+https://www.youtube.com/watch?v=icsLCkkPfic
+
+[Greg McElroy](/)
+[Riley Dodge](/)
+(https://www.dragonyouthfootball.net/page/show/3312854-dragon-football-camps-by-coach-dodge)
+[Dragon Maker](/)
+(https://www.youtube.com/watch?v=CDREf79kd_0)
+[Carroll Dragon Workout](/)
+(https://www.youtube.com/watch?v=icsLCkkPfic)
+(https://www.performancecourse.com/)
+
+[Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)
+
+[College For Kids](/)
+
+[UNT Soccer Camp](https://www.meangreensoccercamps.com/)
+
+Solana club tennis camps
+
+[Carroll Ice Hockey Camp](/)
+
+[Boxing Camp](/)
+Coach Khru Ty
+
+[Combat Shooting Course](/)
+
+[Adam's Course](/)
+
+[Gram Staining](/)
+[Microscope](/)
+[Compound Microscope](/)
+[Scientific Method](/)
+
+skills to add to the list
+apple ipod
+meta tags
+msn mail
+
 
 ## <b><u><center>Sean Mills</b></u></center>
 <center>[Email: mills321@gmail.com](mailto:mills321@gmail.com)</center>
 <center>[Skype: mills3211](<a href="skype:mills3211?call">Call Me</a>)</center><br>
 * * *
-### <u><b><center>Education</u></b></center><br>
+### <u><b><center>[Education](#Education1)</u></b></center><br>
 <b>[Oklahoma State University, Stillwater, Oklahoma](http://okstate.edu)</b><br>
 - [B.A. Philosophy 2010](http://philosophy.okstate.edu/)<br>
 - [B.A. Psychology 2010](http://psychology.okstate.edu/)<br>
@@ -31,7 +82,7 @@ contact form linked to mailchimp
 <b><center>[Cryptit.io](http://Cryptit.io)</b></center><br>
 
 * * *
-#### <b><u><center>Hackathon Participation</b></u></center><br>
+#### <b><u><center>Hackathon Participation</b></u></center>{#Hackathon}<br>
 <b><center><u>Factom Hackathon</u></b></center><br>
 Participant<br>
 Solution: Use of blockchain to improve shipping, tracking, verification, and identification of products via a paperless system.<br>
@@ -44,8 +95,8 @@ Media Coverage<br>
 - [Factom](https://www.factom.com/blog/factom-hackathon-recap)<br>
 
 * * *  
-<u><b><center>South By Southwest Hackathon</u></b></center><br>
-<center><u><b>Winner of Amazon Web Services (AWS) Rock and Roll Hall of Fame Challenge</u></b></center><br>
+<u><b><center>South By Southwest Hackathon 2018</u></b></center><br>
+<center><u><b>Winner of Amazon Web Services Rock and Roll Hall of Fame Challenge</u></b></center><br>
 Solution: Use of blockchain for a voting application.<br>
 Application Name: [Rock The Poll](http://rockthepoll.com)<br>
 Feb 2018<br>
@@ -62,7 +113,7 @@ Web Developer and Groundskeeper<br>
 Web Developer, And Customer Resource Management<br>
 [Insightful Automation](http://www.InsightfulAutomation.com)<br>
 * * *
-## <u><b><center>References</b></u></center><br>
+## <u><b><center>References</b></u></center>{#References}<br>
 <center><b><u>[Philosophy](http://philosophy.okstate.edu/people/faculty)</b></u></center><br>
 [Marty Heitz, Ph.D.](http://philosophy.okstate.edu/people/faculty/20-faculty-directory/22-marty-heitz)<br>
 [Rebecca Bensen Cain, Ph.D.](http://philosophy.okstate.edu/people/faculty/20-faculty-directory/19-rebecca-bensen-cain)<br>
@@ -101,11 +152,11 @@ Web Developer, And Customer Resource Management<br>
 [Paul Pinson](/)
 [Jeremy Trojeck](/)<br>
 
-## <u><b><center>Skills</u></b></center><br>
+## <u><b><center>Skills</u></b></center><br> {#SKills}
 
 <b>Web Development Tools and Platforms</b>
 - [GitHub](https://github.com/ahhninjas)
-- [GitPitch](https://gitpitch.com//)
+- [GitPitch](https://gitpitch.com/)
 - [Atom](https://atom.io/)
 - [Wix](https://www.wix.com/)
 - [WordPress](https://wordpress.com/)<br>
@@ -130,52 +181,60 @@ Web Developer, And Customer Resource Management<br>
 - [BitChute](/)<br>
 
 <b>[Messenger Applications](/)</b>
+- [Slack](https://slack.com/)
+- [Discord](https://discordapp.com/)
 - [Google Voice](https://www./)
-- [Telegram](/)
-- [KIK Messenger](/)
-- [Signal Messenger](/)
-- [Whatsapp Messenger](/)
-- [Facebook Messenger](/)
-- [Wickr.Me Messenger](/)
-- [Skype](/)
-- [SnapChat](/)
-- [SnapChat Geolocations](/)<br>
+- [Telegram](https://telegram.org/)
+- [KIK](https://www.kik.com/)
+- [Signal](https://signal.org/)
+- [Whatsapp](https://www.whatsapp.com/)
+- [Messenger](https://www.messenger.com/)
+- [Wickr.Me](https://wickr.com/home/)
+- [Skype](https://www.skype.com/en/)
+- [SnapChat](https://www.snapchat.com/)
+- [Trillian](https://www.trillian.im/)
+- [MeetFranz](https://meetfranz.com/)<br>
 
 <b>Payment Processors</b>
 - [Bank Transfers](/)
-- [PayPal](/)
-- [Venmo](/)
-- [Cash App](/)
-- [Western Union](/)
-- [LocalBitcoins](/)<br>
+- [PayPal](https://www.paypal.com/us/webapps/mpp/home)
+- [Venmo](https://venmo.com/)
+- [Cash Application](https://cash.app/)
+- [Western Union](https://www.westernunion.com/us/en/home.html)
+- [LocalBitcoins](https://localbitcoins.com/)
+- [Zelle](https://www.zellepay.com/)<br>
 
 <b>Cryptocurrency Payments</b>
-- [Bitcoin](/)
-- [Litecoin](/)
-- [Ethereum](/)
-- [Multisig Wallet](/)
-- [Cryptocurrency Digital Wallets](/)
+- [Bitcoin](https://bitcoin.org/en/)
+- [Litecoin](https://litecoin.org/)
+- [Ethereum](https://ethereum.org/)
+- [Multisignature Wallet](https://en.wikipedia.org/wiki/Multisignature)
+- [Cryptocurrency Wallet](https://en.wikipedia.org/wiki/Cryptocurrency_wallet)
 - [Cryptocurrency Hard Wallet](www.trezor.it/)<br>
 
 <b>Physical Payment</b>
-- [Bartering, Haggling or Trade](/)
-- [Zelle](/)
-- [Square](/)
-- [Money Order](/)
-- [Credit Card](/)
-- [Personal Check](/)
-- [Cash](/)<br>
+- [Bargaining](https://en.wikipedia.org/wiki/Bargaining)
+- [Bartering](https://en.wikipedia.org/wiki/Barter)
+- [Trade](https://en.wikipedia.org/wiki/Trade)
+- [Square](https://squareup.com/us/en)
+- [Money Order](https://en.wikipedia.org/wiki/Money_order)
+- [Credit Card](https://en.wikipedia.org/wiki/Credit_card)
+- [Debit Card](https://en.wikipedia.org/wiki/Debit_card)
+- [Personal Check](https://en.wikipedia.org/wiki/Cheque)
+- [Cash](https://en.wikipedia.org/wiki/Cash)<br>
 
 <b>Communication Skills</b>
-- Phone
-- [Cold Calling](/)
-- [Neuro Linguistic Processing](/)<br>
+- [Cold Calling](https://en.wikipedia.org/wiki/Cold_calling/)
+- [Neuro Linguistic Processing](https://en.wikipedia.org/wiki/Neuro-linguistic_programming/)<br>
 
 <b>Financial Skills</b>
-- [Bookkeeping](/)
-- [Life Insurance](/)
-- [Tax Laws](/)
-- [Freshbooks](https://www./)<br>
+- [Bookkeeping](https://en.wikipedia.org/wiki/Bookkeeping/)
+- [Life Insurance](https://txapps.texas.gov/NASApp/tdi/TdiARManager/)
+- [Tax Laws](https://www.irs.gov/forms-pubs/about-publication-17)
+- [Freshbooks](https://www.freshbooks.com/)<br>
+
+- [Multi Level Marketing](https://en.wikipedia.org/wiki/Multi-level_marketing)
+- [Primerica](http://www.primerica.com/public/)
 
 <b>[National Forensic League](https://www.speechanddebate.org/)</b>
 - [Domestic Extemporaneous Speaking](https://en.wikipedia.org/wiki/United_States_Extemporaneous_Speaking)
@@ -188,20 +247,22 @@ Web Developer, And Customer Resource Management<br>
 - [Contention Analysis And Rebuttal](/)<br>
 
 <b>Volunteering</b>
-- Carroll Dragon Football Camp Assistant Coach
-- Performance Course Assistant
-- Carroll Dragon Debate Team Judge And Event Management
-- Morris Dido Church Event Planning And Web Development
--
--
+- [Carroll Dragon Debate Team Judge And Event Management](/)
+- [Carroll Dragon Football Camp Assistant Coach](/)
+- [Performance Course Assistant](https://www.performancecourse.com/)
+- [Morris Dido Church Event Planning And Web Development](http://didoumc.org/)
+- [Float Fest Cleanup](https://floatfest.net/help-us-help-you-to-keeptheriverclean/)
+- [San Marcos River Cleanup Day](https://www.facebook.com/GreatTexasRiverCleanUp/) 2 Years
+- [Altrusa International Silent Auction Raffle Sales](https://www.altrusa.org/) 4 Years
 
 
+spelling bee 4 years
 
 National Forensics League State Champions 2006
 Oklahoma State University Philosophy Club
 
 Golden Gloves
-Amateur Cage Fight
+Amateur Cage Fights
 
 <b>Marketing And Sales</b>
 - Farm Stand Sales
@@ -232,14 +293,14 @@ relaxation
 massage
 emf health
 
-cargo Transportation
+Cargo Transportation
 
-stock market game winner
+The Stock Market Game Winner 3rd Place 2004 (https://www.stockmarketgame.org/)
 
 <b>Bitcoin Gambling Applications</b>
-- Nitrogen Sports
-- Betcoin
-- Gambling Casino
+- [Nitrogen Sports](/)
+- [Betcoin](/)
+- [Gambling Casino](/)
 
 <b>Coaching Skill</b>
 - Martial Arts
@@ -261,33 +322,36 @@ stock market game winner
 - Body Building<br>
 
 <b>Construction Tool Knowledge</b>
-- Reciprocating Saw
-- Circular Saw
-- Table Saw
-- Chain Saw
-- Sledgehammer
-- Hammer
-- Screw Gun
-- Drill
-- Screwdriver
-- Wrench
-- Sockets
-- Nail Gun
-- Trowel
-- Caulk Gun
-- Push Lawn Mower
-- Mechanical Blade Mover
-- Edger
-- Weed Eater
+- [Hammer](/)
+- [Sledgehammer](/)
+- [Chain Saw](/)
+- [Table Saw](/)
+- [Circular Saw](/)
+- [Reciprocating Saw](/)
+- [Lawn Mower](https://en.wikipedia.org/wiki/Lawn_mower)
+- [Edger](/)
+- [Weed Eater](/)
+- [Caulk Gun](/)
+- [Trowel](/)
+- [Nail Gun](/)
+- [Sockets](/)
+- [Wrench](/)
+- [Screwdriver](/)
+- [Drill](/)
+- [Screw Gun](/)<br>
 
 <b>Construction And Landscaping Vehicle Knowledge</b>
-- SkyTrek
-- Bobcat
-- Lighting Lift
-- Zero Turn Lawn Mower
-- Riding Lawn Mower
-- Gator
-- Golf Cart
+- [Telescopic Handler](https://en.wikipedia.org/wiki/Telescopic_handler)
+- [Bobcat](https://en.wikipedia.org/wiki/Bobcat_Company)
+- [Forklift](https://en.wikipedia.org/wiki/Forklift)
+- [Loader](https://en.wikipedia.org/wiki/Loader_(equipment))
+- [Aerial Work Platform](https://en.wikipedia.org/wiki/Aerial_work_platform)
+- [Zero Turn Lawn Mower](https://en.wikipedia.org/wiki/Zero-turn_mower)
+- [Riding Lawn Mower](https://en.wikipedia.org/wiki/Riding_mower)
+- [Gator](https://en.wikipedia.org/wiki/John_Deere_Gator)
+- [Golf Cart](https://en.wikipedia.org/wiki/Golf_cart)
+- [Lift Table](https://en.wikipedia.org/wiki/Lift_table)
+- [Tractor](https://en.wikipedia.org/wiki/Tractor)<br>
 
 <b>Marksmanship</b>
 - Weber
@@ -302,19 +366,11 @@ stock market game winner
 - Automatic Rifle Proficiency
 - Handgun Proficiency
 
-
-
-pheonixredux
-
 cooking
 culinary
 inventory Control
-
- product fulfillment
- shipping and fulfillment
-
- prescription pills
- xenoestrogens
+prescription pills
+xenoestrogens
 
 <b>Esports</b>
 - [Star Wars Knights Of The Old Republic](https://www./)
@@ -330,20 +386,20 @@ inventory Control
 - [Organization](https://www./)
 - [Critical Thinking](https://www./)<br>
 
-<b>Linux</b>
+<b>Operating System</b>
+- [Microsoft Windows XP, Vista, 7, 8, 10](https://en.wikipedia.org/wiki/Microsoft_Windows)
 - [Tails](https://tails.boum.org/)
-- [Debian Linux](https://www./)
-- [Kali](https://www./)<br>
+- [Kali Linux](https://www.kali.org/)
+- [Debian Linux](https://www.debian.org/)
+- [MacOS](/)
+- [Android](https://en.wikipedia.org/wiki/Android_(operating_system))
+- [IOS](https://en.wikipedia.org/wiki/IOS)<br>
+
 
 - [MannaBase](/)
-- [etherscan](/)
-- [ethplorer](/)
-- [shapeshift](/)
-- [swift](/)
-- [blockchain explorer](/)
-
-winner of stock market Game
-
+- [Etherscan](/)
+- [Shapeshift](/)
+- [Swift](/)
 - [DuoLingo](/)
 
 <b>Social Media Management Systems</b>
@@ -354,8 +410,6 @@ winner of stock market Game
 - [Bit.ly Quick Links](https://www./)
 - [Google Analytics](https://www./)
 - [Google AdWords](https://www./)<br>
-
-<b>Other Skills</b>
 
 <b>Health</b>
 - Personal Training
@@ -379,7 +433,6 @@ Nutrition
 Exercise
 Fitness
 Flexibility
-
 
 Supplementation
 Apple Cider Vinegar
@@ -407,29 +460,20 @@ Coconut Oil
 - [Security](/)
 - [Brazilian Ju Jitsu](/)
 
-
-Putty
-Trillian
-Aol instatnt Messenger
-blogging
-
-Tumblr
-MySpace
-Zynga
-FourSquare
-Evernote
-
-
-
-Volunteering
-san marcos river cleanup day 2 Years
-Altrusa Volunteering For Womens Silent Auction Raffle Sales 4 years
-
+- [](/)
+- [](/)
+- [](/)
+- [](/)
+- [](/)
+- [](/)
+- [](/)
+- [](/)
+- [Blogging](/)
+- [MySpace](https://myspace.com/)
+- [Tumblr](https://www.tumblr.com/)
 
 Christmas Light Installation
 Christmas Tree Setup
-
-Morris Dido Event Planning
 
 state debate team champipons 2006
 
@@ -444,8 +488,6 @@ excipients
 nootropics
 ODT training
 
-
-- [Infogram](https://www./)
 - [Search Engine Optimization](https://www./)
 - [Meta Tags](https://www./)
 - [Keywords](https://www./)
@@ -458,23 +500,29 @@ neuro Linguistic processing skills
 <b>Music</b>
 - [Guitar](https://www./)
 - [Voice](/)
-- [Pandora](https://www./)
-- [Soundcloud](https://www./)
+- [Pandora](https://www.pandora.com/)
+- [Soundcloud](https://soundcloud.com/)
 - [Spotify](https://www./)
 - [Guitar Tabs](https://www./)
 - [Fruity Loops 7](https://www./)<br>
 
 <b>BitCoin Wallets</b>
-- [Metamask](https://www./)
+- [MetaMask](https://metamask.io/)
 - [Electrum Wallet](https://www./)
-- [Waves Wallet](https://www./)
-- [MyEtherWallet](https://www./)<br>
+- [Waves Wallet](https://waveswallet.io/)[1](/)[2](/)
+- [MyEtherWallet](https://www.myetherwallet.com/)<br>
+
+
+https://en.wikipedia.org/wiki/The_Pirate_Bay)
+https://wavesplatform.com/products-wallet
+https://wavesplatform.com/
 
 <b>BitCoin Technical Analysis Tools</b>
-- [Blockfolio](https://www./)
-- [Technical Analysis](https://www./)
+- [Blockfolio](https://blockfolio.com/)
+- [Technical Analysis](https://en.wikipedia.org/wiki/Technical_analysis)
 
 <b>BitCoin Exchanges</b>
+This is a list of the exchanges that I trade on. They do not require a [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network) in order to do business with them.
 - [Binance](https://www.binance.com/)
 - [HitBTC](https://www.HitBTC.com/)
 - [Kukoin](https://www.kukoin.com/)
@@ -500,7 +548,7 @@ neuro Linguistic processing skills
 - [Burning CD, DVDs, and Blu Rays](https://www./)
 - Hardware Installation And Troubleshooting
 - Software Installation And Troubleshooting
-- VHS to DVD conversion
+- VHS to DVD Conversion
 - VHS to Blue Ray Conversion
 - Computer Maintenance<br>
 
@@ -512,23 +560,23 @@ Wifi Security
 
 - [GasBuddy](https://www./)
 
-[Mozilla Addons](https://en.wikipedia.org/wiki/Category:Firefox_add-ons)
+<b>[Mozilla Addons](https://en.wikipedia.org/wiki/Category:Firefox_add-ons)</b>
 - [Adblock Plus](https://www./)
-- [AdBlocker Ultimate](https://www./)
+- [AdBlocker Ultimate](https://addons.mozilla.org/en-US/firefox/addon/adblocker-ultimate/)
 - [adblockingfiltersetp](https://www./)
-- [Bookmark Deduplicator](https://www./)
+- [Bookmark Deduplicator](https://addons.mozilla.org/en-US/firefox/addon/bookmark-dupes/)
 - [Element Hiding Helper For Adblock Plus](https://www./)
 - [Firebug](https://getfirebug.com/)
 - [Ghostery](https://www.ghostery.com/)
 - [LastPass](https://www.lastpass.com/)
-- [MetaMask](https://metamask.io/)
-- [NoScript](https://www./)
+- [NoScript](https://noscript.net/)
 - [Redirect Remover](https://www./)
 - [RefControl](http://www.stardrifter.org/refcontrol/)
 - [RequestPolicy](https://www./)
 - [Tamper Data](https://www./)
 - [Video DownloadHelper](https://www./)
 - [YouTube AdBlocker](https://www./)
+- [HTTPS Everywhere](https://en.wikipedia.org/wiki/HTTPS_Everywhere)
 
 
 Home Theater Installation
@@ -542,22 +590,20 @@ Painting
 Transcription Software
 Voice Recorder
 
+Sha256 Encryption
 
-Windows Media Player
-Quicktime Media Player
-VLC Media Player
-KazaaLite Codec Pack
+<b>Media Players</b>
+- [Microsoft Windows Media Player](https://www.microsoft.com/en-us/download/windows-media-player-details.aspx)
+- [Apple QuickTime Media Player](/)
+- [Media Player Classic](/)
+- [VLC Media Player](/)
+- [K-Lite Codec Pack](/)
 
+Itunes
 
-
-
-
-
-Malware Removal
-Spyware Removal
-Windows Defender
-Phishing https://en.wikipedia.org/wiki/
-Clickbait https://en.wikipedia.org/wiki/Clickbait
+- [Windows Defender](/)
+- [Phishing](https://en.wikipedia.org/wiki/)
+- [Clickbait](https://en.wikipedia.org/wiki/Clickbait)
 - [Trojan Horse](https://en.wikipedia.org/wiki/Trojan_horse_(computing))
 
 <b>Intuitive Abilities</b>
@@ -567,47 +613,37 @@ Clickbait https://en.wikipedia.org/wiki/Clickbait
 - [Feng Shui](https://www./)
 - [Crystals](https://www./)
 
-
-- Network Security
-- Virtual Private Server
-
-<b>Anti Malware</b>
-- [Malwarebytes](https://www./)
-- [Spybot Search And Destroy](https://www./)<br>
-
+- [NextDoor](/)
 
 - [Trailer Pulling](https://www./)
-- [Ryver](https://www./)
-- [TeamWork](https://www./)
-- [Binaural Beats](https://www./)
-- [Discord](https://www.discord.com/)
+
+- [SAAS](https://en.wikipedia.org/wiki/Software_as_a_service)
+- [Ryver](https://ryver.com/)
+- [TeamWork](https://www.teamwork.com/)
+- [Binaural Beats](https://en.wikipedia.org/wiki/Beat_(acoustics))
 
 
 <b>Graphic Design</b>
 - [Microsoft Paint](https://jspaint.app/#local:5e6997fc590f8)
+- [Infogram](https://www./)
 
+<b>Shipping And Receiving</b>
 
-
-Shipping And Receiving
-
-
-
-
+- [SnapChat Geofilters](https://www.snapchat.com/l/en-gb/on-demand/)
 - [Cam Studio](https://www./)
 - [Dropbox](https://www.dropbox.com/)
 - [Mozilla Firefox Cloud](https://www./)
-- [Slack](https://www.slack.com/)
 - [AirBNB](https://www.airbnb.com/)
 - [Uber](https://www.uber.com/)
 - [Lyft](https://www.lyft.com/)
-- [Pinterest](https://www.Pinterest.com/)
-- [Ccleaner](https://www./)
+- [Pinterest](https://www.pinterest.com/)
+- [Ccleaner](https://www.ccleaner.com/)
 - [WinRAR](https://www.winrar.com/)
 - [MagicISO](https://www.magiciso.com/)
 - [Sweet Home 3D](https://www./)
 - [Command Prompt](https://www./)
 - [Ebay](https://www.ebay.com/)
-- [Adobe Photoshop](https://www./)
+- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 - [Join.me](https://www.join.me/)
 - [Jing](https://www.techsmith.com/screen-capture.html)
 - [Amazon Reseller](https://www./)
@@ -620,9 +656,10 @@ Shipping And Receiving
 - [Hotmail](https://www.hotmail.com/)
 - [Tutanota](https://www.tutanota.com/)
 - [Mozilla Thunderbird](https://www./)
-- [Microsoft Outlook](https://www./)<br>
+- [Microsoft Outlook](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook)<br>
 
 <b>Internet Browsers</b>
+- [Chromium](https://www.chromium.org/)
 - [Mozilla Firefox](https://www.mozilla.org/en-US/)
 - [Google Chrome](https://www.google.com/chrome/b/)
 - [Internet Explorer](https://www.microsoft.com/en-us/download/internet-explorer.aspx)
@@ -645,18 +682,16 @@ Shipping And Receiving
 - [Proxy Server](https://en.wikipedia.org/wiki/Proxy_server)
 - [Tor](https://www.torproject.org/)
 - [Orbot: Proxy With TOR](https://play.google.com/store/apps/details?id=org.torproject.android)<br>
-- [Virtual Private Network](https://www./)
+- [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)
 - [Vidalia](https://en.wikipedia.org/wiki/Vidalia_(software))
-
-
-https://en.wikipedia.org/wiki/HTTPS_Everywhere
-https://play.google.com/store/apps/developer?id=The+Tor+Project
-
+- [Virtual Private Server](/)
 - [Onion Routing](https://en.wikipedia.org/wiki/Onion_routing)
-Encryption
-.onion Domains
-https://en.wikipedia.org/wiki/.onion
-TOR Browser For Android<br>
+- [Encryption](https://en.wikipedia.org/wiki/Encryption)
+- [.onion](https://en.wikipedia.org/wiki/.onion)
+- [TOR Browser For Android](https://play.google.com/store/apps/developer?id=The+Tor+Project)<br>
+
+
+[POP Email Accounts](/)
 
 <b>[IP Blocking](https://www./)</b>
 - [PeerGuardian](http://www.phoenixlabs.org/)
@@ -668,9 +703,9 @@ TOR Browser For Android<br>
 - [Google Authenticator](https://en.wikipedia.org/wiki/Google_Authenticator)<br>
 
 <b>Investigative Skills</b>
-- Reverse Phone Lookup(https://www.reversephonelookup.com/)
-- Reverse Image Lookup(https://support.google.com/websearch/answer/1325808?co=GENIE.Platform%3DAndroid&hl=en)
-- Public Records Research(https://publicrecords.directory/)<br>
+- [Reverse Phone Lookup](https://www.reversephonelookup.com/)
+- [Reverse Image Lookup](https://support.google.com/websearch/answer/1325808?co=GENIE.Platform%3DAndroid&hl=en)
+- [Public Records Research](https://publicrecords.directory/)<br>
 
 <b>Torrenting</b>
 - [muTorrent](https://www.mutorrent.com/)
@@ -683,86 +718,94 @@ TOR Browser For Android<br>
 - [LimeWire](https://en.wikipedia.org/wiki/LimeWire)<br>
 
 <b>Torrent Distribution And Maintenance</b>
-- [ThePirateBay](https://en.wikipedia.org/wiki/The_Pirate_Bay/)
+- [ThePirateBay](https://thepiratebay.org/) [1](https://en.wikipedia.org/wiki/The_Pirate_Bay)
 - [KickAssTorrents](https://www.kat.se/)<br>
 
+- [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System)
+- [Proxy Server](https://en.wikipedia.org/wiki/Proxy_server)
 
-https://en.wikipedia.org/wiki/%CE%9CTorrent
-https://en.wikipedia.org/wiki/Transmission_(BitTorrent_client)
-https://en.wikipedia.org/wiki/Microsoft_Windows
-https://en.wikipedia.org/wiki/Android_(operating_system)
-https://en.wikipedia.org/wiki/IOS
-https://en.wikipedia.org/wiki/RARBG
-https://en.wikipedia.org/wiki/Linux
-https://en.wikipedia.org/wiki/Anonymous_P2P
-https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing
-https://en.wikipedia.org/wiki/Objective-C
-https://en.wikipedia.org/wiki/YIFY
-https://en.wikipedia.org/wiki/Demonoid
-https://en.wikipedia.org/wiki/1337x
-https://en.wikipedia.org/wiki/IsoHunt
-https://en.wikipedia.org/wiki/KickassTorrents
-https://en.wikipedia.org/wiki/Virtual_private_network
-
-https://en.wikipedia.org/wiki/InterPlanetary_File_System
-https://en.wikipedia.org/wiki/Private_peer-to-peer
-https://en.wikipedia.org/wiki/Proxy_server
-https://en.wikipedia.org/wiki/Java_(programming_language)
-[PuTTY](https://en.wikipedia.org/wiki/PuTTY)
-(https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing)
-(https://en.wikipedia.org/wiki/C%2B%2B)
+- [PuTTY](https://en.wikipedia.org/wiki/PuTTY)
+- [Peer To Peer File Sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing)
 
 <b>Mining</b>
 - [NiceHash Miner](www.nicehash.com/)
 - [MinerGate](http://bit.ly/Miner_GateX/)
 - [GPU Mining](/)
-- [ETHos](/)<br>
+- [ETHos](/)
+- [Mining Pools](/)
+- [Cloud Mining](/)<br>
 
 <b>Streaming</b>
 - [StreamLabs](https://www.streamlabs.com/)
 - [Twitch](https://www.twitch.com/)
 - [Mixer](https://www.mixer.com/)
 - [YouTube](https://www.youtube.com/)
-- [OBS Studio](https://www./)<br>
+- [OBS Studio](https://obsproject.com/)<br>
 
 <b>Customer Resource Management</b>
-- [Infusionsoft](https://www./)
-- [MailChimp](www.mailchimp.com/)<br>
+- [Infusionsoft](https://keap.com/infusionsoft)
+- [MailChimp](https://mailchimp.com/)<br>
 
-<b>[Microsoft Office Suite](https://www./)</b>
-- [Microsoft Word](https://www./)
-- [Microsoft Excel](https://www./)
-- [Microsoft Power Point](https://www./)
-- [Microsoft Publisher](https://www./)<br>
-
-
-Microsoft One Drive
+<b>[Microsoft Products](https://www./)</b>
+- [Microsoft Word](https://products.office.com/en-us/word)
+- [Microsoft Excel](https://products.office.com/en-us/excel)
+- [Microsoft Power Point](https://products.office.com/en-us/powerpoint)
+- [Microsoft Publisher](https://products.office.com/en-us/publisher)
+- [Microsoft One Drive](https://products.office.com/en-us/onedrive-for-business/online-cloud-storage)<br>
 
 <b>[Google Suite](https://gsuite.google.com/features/)</b>
-I can use the Goog
-- [Google Cloud]
+- [Google Cloud](/)
 - [Google Drive](https://www.google.com/drive/)
 - [Google Docs](https://www.google.com/docs/about/)
 - [Google Sheets](https://www.google.com/sheets/about/)
 - [Google Forms](https://www.google.com/forms/about/)
 - [Google Slides](https://www.google.com/slides/about/)<br>
+- [Google Charts](https://developers.google.com/chart/)
+- [Google Mail](https://gsuite.google.com/products/gmail/)
+- [Google Meet](https://gsuite.google.com/products/meet/)
+- [Google Chat](https://gsuite.google.com/products/chat/)
+- [Google Calendar](https://gsuite.google.com/products/calendar/)
+- [Google Keep](https://gsuite.google.com/products/keep/)
+- [Google Maps](https://cloud.google.com/maps-platform/products/)
+- [Google Places](https://cloud.google.com/maps-platform/places/)
+- [Google Routes](https://cloud.google.com/maps-platform/routes/)
+- [Google Identity Protection](https://developers.google.com/identity/)
+
+
+
+
+[](/)
+[](/)
+[](/)
+[](/)
+[](/)
+[](/)
+[](/)
+[](/)
+[](/)
+[](https://gsuite.google.com/products/gsuite-training/)
+
+[Computer Science 1113](http://catalog.okstate.edu/search/?P=CS%201113)
+PDF
 
 <b>[Typing Speed](https://www./)</b>
 - 263 net characters per minute which equals 53 net words per minute.<br>
 
-<b>[Coding Languages](https://www./)</b><br>
+<b>Coding Languages</b>
+- [C++](https://en.wikipedia.org/wiki/C%2B%2B)
 - [HTML](https://www./)
-- [CSS](https://www./)
-- [GitHub Markdown](https://www./)
-- [Markdown](https://www./)
+- [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+- [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Markdown](https://www.markdownguide.org/)
 - [Bootstrap](https://www./)
+- [Java](https://en.wikipedia.org/wiki/Java_(programming_language))
 - [Boiler Plates](https://www.)<br>
 
 <b>Spanish Proficiency</b><br>
 - Intermediate 10+ Years Without Complete Immersion<br>
 
 * * *
-## <u><b><center>Bucket List</u></b></center><br>
+## <u><b><center>Bucket List</u></b></center><br> {#BucketList}
 1. [ ] Create a family
 1. [ ] Live entirely off of investments, or annuities
 1. [ ] Create a healing center
@@ -858,7 +901,6 @@ Create a page that specifically sells my writings or media for money
 
 Photography
 
-
 - [Medium](https://www.medium.com/)
 - [Quora](https://www.quora.com)
 
@@ -873,8 +915,6 @@ Photography
 - [EventBrite](https://www.evenbrite.com/)<br>
 
 
-
-
 - [Google Places](/)
 - [Google Keep](.)
 - [TeamViewer](https://www./)
@@ -887,7 +927,7 @@ Physical
 [LetGo](https://www.letgo.com/)
 [OfferUp](https://www.offerup.com/)
 [WordPress](https://www.Wordpress.com/)
-[Craigslist](https://www.craighslist.com/)<br>
+[Craigslist](https://www.craigslist.com/)<br>
 
 Digital
 [Odesk](https://www.odesk.com/)
@@ -898,21 +938,21 @@ weight cutting via water and calories
 - wet sauna
 - dry sauna
 
-float fest cleanup in san Marcos and martindale at edd fish Camp
+[Skillshare](/)
 
-Skillshare
-
-copy and paste all of the indeed skills<br>
+copy and paste all of the indeed skills
 update text descriptions of the jobs from the indeed edits
 
 wifi connectivity and frequency blocking issues Troubleshooting
 
 smart tv
 
-<b>Antivirus Software<b>
-- [Norton Antivirus](https:///)
+<b>Antivirus And Antimalware Software<b>
+- [Norton Antivirus](https://us.norton.com/antivirus)
 - [Lavasoft Zone Alarm](https://www.zonealarm.com/)
-- [Kaspersky](https:///)<br>
+- [Kaspersky](https://usa.kaspersky.com/)
+- [Malwarebytes](https://www.malwarebytes.com/)
+- [Spybot Search And Destroy](https://www.safer-networking.org/compare-spybot-editions/)<br>
 
 <b>Map Software</b>
 - [Google Maps](https://www./)
@@ -923,18 +963,29 @@ smart tv
 - Blogs
 - Business Websites
 - Personal Recommendations
-- [Yelp](https://yelp.com/)
-- [Trip Advisor](https://tripadvisor.com/)
+- [Yelp](https://www.yelp.com/)
+- [Trip Advisor](https://www.tripadvisor.com/)
 
 
-
-- [Google Play Store](https://www./)
-- [Mobile Hotspots](https://www./)
-- [Eth Explorer](https://www./)
-- [Blockchain Explorer](https://www./)
-- [IFTTT](https://www.ifttt.com/)
+- [Google Play Store](https://play.google.com/store?hl=en)
+- [Eth Explorer](https://ethplorer.io/)
+- [Blockchain Explorer](https://www.blockchain.com/explorer)
+- [IFTTT](https://ifttt.com/)
 - [Square](https://www./)
 - [Reddit](https://www.reddit.com/)
+- [TradeBlock](https://tradeblock.com/)
 
+MegaDownload
 
-megadownload
+https://en.wikipedia.org/wiki/Vuze
+https://en.wikipedia.org/wiki/Microsoft_Paint
+https://en.wikipedia.org/wiki/Software_as_a_service
+Acrobat Reader
+https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html
+
+Disqus
+
+https://2019.www.torproject.org/docs/android.html.en
+https://en.wikipedia.org/wiki/Windows_Defender
+
+https://2019.www.torproject.org/index.html.en
