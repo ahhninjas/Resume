@@ -171,7 +171,7 @@ Web Developer, And Customer Resource Management<br>
 <b>Social Media</b>
 - [Instagram](https://www.instagram.com/)
 - [Facebook](https://www.facebook.com/)
-- [Twitter - NinjaInvestments - @NinjaInvestingX](./another-page.html)
+- [Twitter - NinjaInvestments - @NinjaInvestingX](https://twitter.com/NinjaInvestingX)
 - [Tumblr](https://www.tumblr.com/)
 - [YouTube](https://www.youtube.com/)
 - [LinkedIn](https://www.linkedin.com/)
@@ -180,8 +180,7 @@ Web Developer, And Customer Resource Management<br>
 <b>Blockchain Social Media</b>
 - [Steemit](https://www.steemit.com/)
 - [Minds](https://www.minds.com/)
-- [DTube](/)
-- [DSound](/)
+- [DTube](https://d.tube/#!/login)
 - [BitChute](/)
 - [Vimm.tv](/)
 - [Minds](/)
@@ -499,16 +498,15 @@ ODT training
 - [Hash Tags](https://www./)
 - [Tagging](https://www./)
 
-neuro Linguistic processing skills
-
 <b>Music</b>
-- [Guitar](https://www./)
-- [Voice](/)
+- [Guitar](https://en.wikipedia.org/wiki/Acoustic_guitar)
+- [Voice](https://en.wikipedia.org/wiki/Vocal_pedagogy)
 - [Pandora](https://www.pandora.com/)
 - [Soundcloud](https://soundcloud.com/)
-- [Spotify](https://www./)
-- [Guitar Tabs](https://www./)
-- [Fruity Loops 7](https://www./)<br>
+- [DSound](https://dsound.audio/#!/feed)
+- [Spotify](https://www.spotify.com/us/)
+- [Guitar Tablature](https://en.wikipedia.org/wiki/Tablature)
+- [Fruity Loops Studio](https://www.image-line.com/flstudio/)<br>
 
 <b>BitCoin Wallets</b>
 - [MetaMask](https://metamask.io/)
@@ -606,20 +604,10 @@ Itunes
 - [Trojan Horse](https://en.wikipedia.org/wiki/Trojan_horse_(computing))
 
 <b>Intuitive Abilities</b>
-- [Tarot](https://www./)
-- [Western Astrology](https://www./)
-- [Sidereal Astrology](https://www./)
-- [Feng Shui](https://www./)
-- [Crystals](https://www./)
-
-- [NextDoor](/)
-
-- [Trailer Pulling](https://www./)
-- [TeamViewer](https://www./)
-- [SAAS](https://en.wikipedia.org/wiki/Software_as_a_service)
-- [Ryver](https://ryver.com/)
-- [TeamWork](https://www.teamwork.com/)
-- [Binaural Beats](https://en.wikipedia.org/wiki/Beat_(acoustics))<br>
+- [Western Astrology](https://en.wikipedia.org/wiki/Western_astrology)
+- [Sidereal Astrology](https://en.wikipedia.org/wiki/Sidereal_and_tropical_astrology)
+- [Feng Shui](https://en.wikipedia.org/wiki/Feng_shui)
+- [Crystals](https://en.wikipedia.org/wiki/Crystal)<br>
 
 <b>Graphic Design</b>
 - [Microsoft Paint](https://jspaint.app/#local:5e6997fc590f8) [1](https://en.wikipedia.org/wiki/Microsoft_Paint)
@@ -645,29 +633,35 @@ Itunes
 - [Join.me](https://www.join.me/)
 - [Jing](https://www.techsmith.com/screen-capture.html)
 - [Amazon Reseller](https://www./)
+- [NextDoor](https://nextdoor.com/)
+- [Trailer Pulling](https://www./)
+- [TeamViewer](https://www./)
+- [Ryver](https://ryver.com/)
+- [TeamWork](https://www.teamwork.com/)
+- [Binaural Beats](https://en.wikipedia.org/wiki/Beat_(acoustics))
+- [POP Email Accounts](/)
 
-
-
-
-
-
-[Mozilla]()
-https://www.mozilla.org/en-US/firefox/accounts/
-https://en.wikipedia.org/wiki/Firefox_Sync
-
-Geno Pierce
+<b>[Mozilla Products](https://support.mozilla.org/en-US/products)</b>
+- [Firefox](https://www.mozilla.org/en-US/)
+- [Firefox For Android](https://www.mozilla.org/en-US/firefox/mobile/)
+- [Firefox Focus](https://www.mozilla.org/en-US/firefox/mobile/)
+- [Firefox Focus For Android](https://www.mozilla.org/en-US/firefox/mobile/)
+- [Firefox Accounts](https://www.mozilla.org/en-US/firefox/accounts/)
+- [Firefox Sync](https://en.wikipedia.org/wiki/Firefox_Sync)
+- [Firefox Send](https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card)
+- [Firefox Lockbox](https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card)
+- [Thunderbird](https://www.thunderbird.net/)]()
+- [Firebug](https://web.archive.org/web/20120330103011/http://getfirebug.com/)
 
 <b>Email</b>
 - [ProtonMail](https://www.protonmail.com/)
+- [Tutanota](https://www.tutanota.com/)
 - [Yahoo](https://www.yahoo.com/)
 - [MSN](https://www.msn.com/)
-- [Hotmail](https://www.hotmail.com/)
-- [Tutanota](https://www.tutanota.com/)
-- [Mozilla Thunderbird](https://www.thunderbird.net/)<br>
+- [Hotmail](https://www.hotmail.com/)<br>
 
 <b>Internet Browsers</b>
 - [Chromium](https://www.chromium.org/)
-- [Mozilla Firefox](https://www.mozilla.org/en-US/)
 - [Google Chrome](https://www.google.com/chrome/b/)
 - [Brave Browser](https://brave.com/)
 - [Beaker Browser](https://beakerbrowser.com/)
@@ -694,9 +688,6 @@ Geno Pierce
 - [Encryption](https://en.wikipedia.org/wiki/Encryption)
 - [.onion](https://en.wikipedia.org/wiki/.onion)
 - [TOR Browser For Android](https://play.google.com/store/apps/developer?id=The+Tor+Project)<br>
-
-
-[POP Email Accounts](/)
 
 <b>[IP Blocking](https://www./)</b>
 - [PeerGuardian](http://www.phoenixlabs.org/)
