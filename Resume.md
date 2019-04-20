@@ -5,17 +5,32 @@ Download resume pdf link
 contact form linked to mailchimp
 create links to videos on monster x camp info on youtube for martial arts resume
 create links to heading ids in each section
-[Education](#Education-1)
-[Experience](#Experience)
-[Hackathon](#Hackathon)
-[References](#References)
-[Bucket List](#BucketList)
-[Skills](#Skills)
-[Top Of Page](#Top)
+move hackathons to awards indeed
+move football to awards indeed
+add national forensicds leage to certifications club and license
+psi chi to resume
+arnold air society
+philosophy club<br>
+
+
+[Education](#Education)<br>
+[Experience](#Experience)<br>
+[Hackathon](#Hackathons)<br>
+[References](#References)<br>
+[Bucket List](#BucketList)<br>
+[Skills](#Skills)<br>
+[Top Of Page](#Top)<br>
+https://www.naturalreaders.com/
+https://www.thecut.com/article/whats-your-humor-style.html
+
+You have a mostly affiliative sense of humor.
+Everyone's sense of humor is a mix of all four styles, but yours leans most heavily toward affiliative, meaning you're good at cracking jokes and trading banter to build connections with other people.
+
+mbti ENTJ
+add monster x camp videos
+
 https://www.southlakecarroll.edu/Page/350
-
 https://www.dragonyouthfootball.net/page/show/3312857-dragon-youth-football-camp-powered-by-fasst-performance
-
 https://www.youtube.com/watch?v=icsLCkkPfic
 
 [Greg McElroy](/)
@@ -59,7 +74,7 @@ msn mail
 <center>[Email: mills321@gmail.com](mailto:mills321@gmail.com)</center>
 <center>[Skype: mills3211](<a href="skype:mills3211?call">Call Me</a>)</center><br>
 * * *
-### <u><b><center>[Education](#Education1)</u></b></center><br>
+### <u><b><center>Education</u></b></center><br>
 <b>[Oklahoma State University, Stillwater, Oklahoma](http://okstate.edu)</b><br>
 - [B.A. Philosophy 2010](http://philosophy.okstate.edu/)<br>
 - [B.A. Psychology 2010](http://psychology.okstate.edu/)<br>
@@ -82,7 +97,7 @@ msn mail
 <b><center>[Cryptit.io](http://Cryptit.io)</b></center><br>
 
 * * *
-#### <b><u><center>Hackathon Participation</b></u></center>{#Hackathon}<br>
+#### <b><u><center>Hackathon Participation</b></u></center><br>
 <b><center><u>Factom Hackathon</u></b></center><br>
 Participant<br>
 Solution: Use of blockchain to improve shipping, tracking, verification, and identification of products via a paperless system.<br>
@@ -113,7 +128,7 @@ Web Developer and Groundskeeper<br>
 Web Developer, And Customer Resource Management<br>
 [Insightful Automation](http://www.InsightfulAutomation.com)<br>
 * * *
-## <u><b><center>References</b></u></center>{#References}<br>
+## <u><b><center>References</b></u></center><br>
 <center><b><u>[Philosophy](http://philosophy.okstate.edu/people/faculty)</b></u></center><br>
 [Marty Heitz, Ph.D.](http://philosophy.okstate.edu/people/faculty/20-faculty-directory/22-marty-heitz)<br>
 [Rebecca Bensen Cain, Ph.D.](http://philosophy.okstate.edu/people/faculty/20-faculty-directory/19-rebecca-bensen-cain)<br>
@@ -152,7 +167,7 @@ Web Developer, And Customer Resource Management<br>
 [Paul Pinson](/)
 [Jeremy Trojeck](/)<br>
 
-## <u><b><center>Skills</u></b></center><br> {#SKills}
+## <u><b><center>Skills</u></b></center><br>
 
 <b>Web Development Tools and Platforms</b>
 - [GitHub](https://github.com/ahhninjas)
@@ -464,16 +479,13 @@ Coconut Oil
 - [](/)
 - [](/)
 - [](/)
-- [](/)
-- [](/)
+- [Christmas Light Installation](/)
+- [Christmas Tree Setup](/)
 - [](/)
 - [](/)
 - [Blogging](/)
 - [MySpace](https://myspace.com/)
 - [Tumblr](https://www.tumblr.com/)
-
-Christmas Light Installation
-Christmas Tree Setup
 
 state debate team champipons 2006
 
@@ -512,10 +524,9 @@ neuro Linguistic processing skills
 - [Waves Wallet](https://waveswallet.io/)[1](/)[2](/)
 - [MyEtherWallet](https://www.myetherwallet.com/)<br>
 
-
-https://en.wikipedia.org/wiki/The_Pirate_Bay)
-https://wavesplatform.com/products-wallet
-https://wavesplatform.com/
+[](https://wavesplatform.com/)
+[](https://en.wikipedia.org/wiki/The_Pirate_Bay)
+[](https://wavesplatform.com/products-wallet)
 
 <b>BitCoin Technical Analysis Tools</b>
 - [Blockfolio](https://blockfolio.com/)
@@ -593,7 +604,6 @@ Voice Recorder
 Sha256 Encryption
 
 <b>Media Players</b>
-- [Microsoft Windows Media Player](https://www.microsoft.com/en-us/download/windows-media-player-details.aspx)
 - [Apple QuickTime Media Player](/)
 - [Media Player Classic](/)
 - [VLC Media Player](/)
@@ -620,17 +630,16 @@ Itunes
 - [SAAS](https://en.wikipedia.org/wiki/Software_as_a_service)
 - [Ryver](https://ryver.com/)
 - [TeamWork](https://www.teamwork.com/)
-- [Binaural Beats](https://en.wikipedia.org/wiki/Beat_(acoustics))
-
+- [Binaural Beats](https://en.wikipedia.org/wiki/Beat_(acoustics))<br>
 
 <b>Graphic Design</b>
-- [Microsoft Paint](https://jspaint.app/#local:5e6997fc590f8)
-- [Infogram](https://www./)
+- [Microsoft Paint](https://jspaint.app/#local:5e6997fc590f8) [1](https://en.wikipedia.org/wiki/Microsoft_Paint)
+- [Infogram](https://infogram.com/)<br>
 
 <b>Shipping And Receiving</b>
 
 - [SnapChat Geofilters](https://www.snapchat.com/l/en-gb/on-demand/)
-- [Cam Studio](https://www./)
+- [Cam Studio](https://camstudio.org/)
 - [Dropbox](https://www.dropbox.com/)
 - [Mozilla Firefox Cloud](https://www./)
 - [AirBNB](https://www.airbnb.com/)
@@ -640,7 +649,7 @@ Itunes
 - [Ccleaner](https://www.ccleaner.com/)
 - [WinRAR](https://www.winrar.com/)
 - [MagicISO](https://www.magiciso.com/)
-- [Sweet Home 3D](https://www./)
+- [Sweet Home 3D](www.sweethome3d.com)
 - [Command Prompt](https://www./)
 - [Ebay](https://www.ebay.com/)
 - [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
@@ -648,22 +657,23 @@ Itunes
 - [Jing](https://www.techsmith.com/screen-capture.html)
 - [Amazon Reseller](https://www./)
 
+https://www.mozilla.org/en-US/firefox/accounts/
+https://en.wikipedia.org/wiki/Firefox_Sync
+
+Geno Pierce
+
 <b>Email</b>
-- [GMail](https://www.gmail.com/)
 - [ProtonMail](https://www.protonmail.com/)
 - [Yahoo](https://www.yahoo.com/)
 - [MSN](https://www.msn.com/)
 - [Hotmail](https://www.hotmail.com/)
 - [Tutanota](https://www.tutanota.com/)
-- [Mozilla Thunderbird](https://www./)
-- [Microsoft Outlook](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook)<br>
+- [Mozilla Thunderbird](https://www.thunderbird.net/)<br>
 
 <b>Internet Browsers</b>
 - [Chromium](https://www.chromium.org/)
 - [Mozilla Firefox](https://www.mozilla.org/en-US/)
 - [Google Chrome](https://www.google.com/chrome/b/)
-- [Internet Explorer](https://www.microsoft.com/en-us/download/internet-explorer.aspx)
-- [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)
 - [Brave Browser](https://brave.com/)
 - [Beaker Browser](https://beakerbrowser.com/)
 - [Safari](https://www.apple.com/safari/)
@@ -747,11 +757,15 @@ Itunes
 - [MailChimp](https://mailchimp.com/)<br>
 
 <b>[Microsoft Products](https://www./)</b>
+- [Microsoft Internet Explorer](https://www.microsoft.com/en-us/download/internet-explorer.aspx)
+- [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)
+- [Microsoft Windows Media Player](https://www.microsoft.com/en-us/download/windows-media-player-details.aspx)
 - [Microsoft Word](https://products.office.com/en-us/word)
 - [Microsoft Excel](https://products.office.com/en-us/excel)
 - [Microsoft Power Point](https://products.office.com/en-us/powerpoint)
 - [Microsoft Publisher](https://products.office.com/en-us/publisher)
-- [Microsoft One Drive](https://products.office.com/en-us/onedrive-for-business/online-cloud-storage)<br>
+- [Microsoft One Drive](https://products.office.com/en-us/onedrive-for-business/online-cloud-storage)
+- [Microsoft Outlook](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook)<br>
 
 <b>[Google Suite](https://gsuite.google.com/features/)</b>
 - [Google Cloud](/)
@@ -978,7 +992,7 @@ smart tv
 MegaDownload
 
 https://en.wikipedia.org/wiki/Vuze
-https://en.wikipedia.org/wiki/Microsoft_Paint
+
 https://en.wikipedia.org/wiki/Software_as_a_service
 Acrobat Reader
 https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html
