@@ -17,13 +17,17 @@ philosophy club<br>
 [Experience](#Experience)<br>
 [Hackathon](#Hackathons)<br>
 [References](#References)<br>
-[Bucket List](#BucketList)<br>
+[Bucket List](#Bucket List)<br>
 [Skills](#Skills)<br>
+[Desired Skills](#Desired Skills)<br>
 [Top Of Page](#Top)<br>
-https://www.naturalreaders.com/
-https://www.thecut.com/article/whats-your-humor-style.html
 
-You have a mostly affiliative sense of humor.
+
+
+[Natural Readers](https://www.naturalreaders.com/)
+(https://www.thecut.com/article/whats-your-humor-style.html)
+
+[You have a mostly affiliative sense of humor.](https://www.thecut.com/article/whats-your-humor-style.html)
 Everyone's sense of humor is a mix of all four styles, but yours leans most heavily toward affiliative, meaning you're good at cracking jokes and trading banter to build connections with other people.
 
 mbti ENTJ
@@ -33,42 +37,30 @@ https://www.southlakecarroll.edu/Page/350
 https://www.dragonyouthfootball.net/page/show/3312857-dragon-youth-football-camp-powered-by-fasst-performance
 https://www.youtube.com/watch?v=icsLCkkPfic
 
-[Greg McElroy](/)
-[Riley Dodge](/)
+[Greg McElroy](/)<br>
+[Riley Dodge](/)<br>
 (https://www.dragonyouthfootball.net/page/show/3312854-dragon-football-camps-by-coach-dodge)
-[Dragon Maker](/)
+[Dragon Maker](/)<br>
 (https://www.youtube.com/watch?v=CDREf79kd_0)
-[Carroll Dragon Workout](/)
+[Carroll Dragon Workout](/)<br>
 (https://www.youtube.com/watch?v=icsLCkkPfic)
-(https://www.performancecourse.com/)
 
 [Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)
-
-[College For Kids](/)
-
+[College For Kids](/)<br>
 [UNT Soccer Camp](https://www.meangreensoccercamps.com/)
+Solana Club Tennis Camps<br>
+[Carroll Ice Hockey Camp](/)<br>
+[Boxing Camp](/)<br>
+Coach Khru Ty<br>
+[Combat Shooting Course](/)<br>
+[Performance Course](https://www.performancecourse.com/)<br>
+[Gram Staining](/)<br>
+[Microscope](/)<br>
+[Compound Microscope](/)<br>
+[Scientific Method](/)<br>
 
-Solana club tennis camps
-
-[Carroll Ice Hockey Camp](/)
-
-[Boxing Camp](/)
-Coach Khru Ty
-
-[Combat Shooting Course](/)
-
-[Adam's Course](/)
-
-[Gram Staining](/)
-[Microscope](/)
-[Compound Microscope](/)
-[Scientific Method](/)
-
-skills to add to the list
-apple ipod
-meta tags
-msn mail
-
+apple ipod<br>
+meta tags<br>
 
 ## <b><u><center>Sean Mills</b></u></center>
 <center>[Email: mills321@gmail.com](mailto:mills321@gmail.com)</center>
@@ -563,13 +555,10 @@ This is a list of the exchanges that I trade on. They do not require a [Virtual 
 - VHS to Blue Ray Conversion
 - Computer Maintenance<br>
 
-Networking
-Local Area Networking
-Wifi Networks
-Wifi Security
-
-
-- [GasBuddy](https://www./)
+<b>[Networking](/)</b>
+- [Local Area Networking](/)
+- [Wifi Networks And Connectivity](/)
+- [Wifi Security](/)
 
 <b>[Mozilla Addons](https://en.wikipedia.org/wiki/Category:Firefox_add-ons)</b>
 - [Adblock Plus](https://www./)
@@ -626,7 +615,7 @@ Itunes
 - [NextDoor](/)
 
 - [Trailer Pulling](https://www./)
-
+- [TeamViewer](https://www./)
 - [SAAS](https://en.wikipedia.org/wiki/Software_as_a_service)
 - [Ryver](https://ryver.com/)
 - [TeamWork](https://www.teamwork.com/)
@@ -657,6 +646,12 @@ Itunes
 - [Jing](https://www.techsmith.com/screen-capture.html)
 - [Amazon Reseller](https://www./)
 
+
+
+
+
+
+[Mozilla]()
 https://www.mozilla.org/en-US/firefox/accounts/
 https://en.wikipedia.org/wiki/Firefox_Sync
 
@@ -720,7 +715,7 @@ Geno Pierce
 <b>Torrenting</b>
 - [muTorrent](https://www.mutorrent.com/)
 - [Deluge](https://www.deluge.com/)
-- [Vuze](https://www.vuze.com/)
+- [Vuze](https://www.vuze.com/)[1](https://en.wikipedia.org/wiki/Vuze)
 - [Transmission](https://transmissionbt.com/)
 - [Kazaa Lite](https://www.kazaa.com/)
 - [Napster](https://www.napster.com/)
@@ -756,7 +751,7 @@ Geno Pierce
 - [Infusionsoft](https://keap.com/infusionsoft)
 - [MailChimp](https://mailchimp.com/)<br>
 
-<b>[Microsoft Products](https://www./)</b>
+<b>[Microsoft Suite](https://www./)</b>
 - [Microsoft Internet Explorer](https://www.microsoft.com/en-us/download/internet-explorer.aspx)
 - [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)
 - [Microsoft Windows Media Player](https://www.microsoft.com/en-us/download/windows-media-player-details.aspx)
@@ -773,7 +768,7 @@ Geno Pierce
 - [Google Docs](https://www.google.com/docs/about/)
 - [Google Sheets](https://www.google.com/sheets/about/)
 - [Google Forms](https://www.google.com/forms/about/)
-- [Google Slides](https://www.google.com/slides/about/)<br>
+- [Google Slides](https://www.google.com/slides/about/)
 - [Google Charts](https://developers.google.com/chart/)
 - [Google Mail](https://gsuite.google.com/products/gmail/)
 - [Google Meet](https://gsuite.google.com/products/meet/)
@@ -783,24 +778,9 @@ Geno Pierce
 - [Google Maps](https://cloud.google.com/maps-platform/products/)
 - [Google Places](https://cloud.google.com/maps-platform/places/)
 - [Google Routes](https://cloud.google.com/maps-platform/routes/)
-- [Google Identity Protection](https://developers.google.com/identity/)
-
-
-
-
-[](/)
-[](/)
-[](/)
-[](/)
-[](/)
-[](/)
-[](/)
-[](/)
-[](/)
-[](https://gsuite.google.com/products/gsuite-training/)
+- [Google Identity Protection](https://developers.google.com/identity/)<br>
 
 [Computer Science 1113](http://catalog.okstate.edu/search/?P=CS%201113)
-PDF
 
 <b>[Typing Speed](https://www./)</b>
 - 263 net characters per minute which equals 53 net words per minute.<br>
@@ -819,7 +799,7 @@ PDF
 - Intermediate 10+ Years Without Complete Immersion<br>
 
 * * *
-## <u><b><center>Bucket List</u></b></center><br> {#BucketList}
+## <u><b><center>Bucket List</u></b></center><br>
 1. [ ] Create a family
 1. [ ] Live entirely off of investments, or annuities
 1. [ ] Create a healing center
@@ -828,7 +808,7 @@ PDF
 1. [ ] Create a stream of $5000 passive monthly income<br>
 * * *
 
-#### <u><b><center>Desired Skills For The Future</u></b></center>
+#### <u><b><center>Desired Skills</u></b></center>
 <b>Transportation</b>
 1. [ ] [Pilots License](https://www./)
 1. [ ] [Motorcycle License](https://www./)
@@ -838,8 +818,9 @@ PDF
 <b>Web Development</b>
 1. [ ] [Hootsuite Certifications](https://www.hootsuite.com/)
 1. [ ] [Buffer Certifications](https://www.buffer.com/)
-1. [ ] [Google AdWords](https://www./)
-1. [ ] [YouTube Certification](https://www./)<br>
+1. [ ] [Google AdWords](https://support.google.com/google-ads/answer/9029201?hl=en)
+1. [ ] [YouTube Certification](https://support.google.com/youtube/answer/6145895?hl=en&ref_topic=6145903)
+1. [ ] [Google suite Training](https://gsuite.google.com/products/gsuite-training/)<br>
 
 <b>Other</b>
 1. [ ] [Skydiving License](/)
@@ -854,17 +835,17 @@ PDF
 1. [ ] [Win a Golden Gloves](/)
 1. [ ] [Run a marathon](/)
 1. [ ] [Hike In The Himalayan Mountains ](/)
-1. [ ] Fly A Plane To The Entrance To The Hallow Earth [L](/)
-1. [ ] Live Completely Free Financially Via Passive Income Streams, Annuities and Investing [g](/)
-1. [ ] Create off grid housing [Link](/)
-1. [ ] [Travel to Antarctic via boat or bush plane ](/)
-1. [ ] Travel to Antarctica via boat or bush plane [Link](/)
+1. [ ] [Fly A Plane To The Entrance To The Hallow Earth](/)
+1. [ ] [Live Completely Free Financially Via Passive Income Streams, Annuities and Investing](/)
+1. [ ] [Create off grid housing](/)
+1. [ ] [Travel to Antarctic via boat or bush plane](/)
+1. [ ] [Travel to Antarctica via boat or bush plane](/)
 1. [ ] [See the northern lights](/)
 1. [ ] [See Area 51](/)
 1. [ ] [Go off planet](/)
 1. [ ] [Be On A Gameshow](/)
 
-## <u><b><center>Financial Goals list</u></b></center>
+## <u><b><center>Financial Goals</u></b></center>
 1. [ ] [Ability to work anywhere on the planet to earn money](/)
 
 * * *
@@ -878,8 +859,9 @@ include j tiger and monster x as citations
 Create a page that specifically sells my writings or media for money
 
 <b>Metal Illnesses</b>
-- DSM
+- [Diagnostic Statistician's Manual - DSM](/)
 - [Alcoholism](/)
+- [Down Syndrome](/)
 - [Parkinson's Disease](/)
 - [Stimulant Addiction](/)
 - [Depressants Addiction](/)
@@ -912,7 +894,6 @@ Create a page that specifically sells my writings or media for money
 - Dog Shaving
 - Cat Boarding<br>
 
-
 Photography
 
 - [Medium](https://www.medium.com/)
@@ -928,20 +909,12 @@ Photography
 - [Meetup](https://www.meetup.com/)
 - [EventBrite](https://www.evenbrite.com/)<br>
 
-
-- [Google Places](/)
-- [Google Keep](.)
-- [TeamViewer](https://www./)
-- [LetGo](https://www./)
-- [Craigslist](https://www./)
-
-
-Markets To Offer Skillsets
+<b>Markets To Offer Skillsets</b>
 Physical
-[LetGo](https://www.letgo.com/)
-[OfferUp](https://www.offerup.com/)
-[WordPress](https://www.Wordpress.com/)
-[Craigslist](https://www.craigslist.com/)<br>
+- [LetGo](https://www.letgo.com/)
+- [OfferUp](https://www.offerup.com/)
+- [WordPress](https://www.Wordpress.com/)
+- [Craigslist](https://www.craigslist.com/)<br>
 
 Digital
 [Odesk](https://www.odesk.com/)
@@ -952,12 +925,10 @@ weight cutting via water and calories
 - wet sauna
 - dry sauna
 
-[Skillshare](/)
-
+- [Skillshare](https://www.skillshare.com/?via=header)
+- [GasBuddy](https://www./)
 copy and paste all of the indeed skills
 update text descriptions of the jobs from the indeed edits
-
-wifi connectivity and frequency blocking issues Troubleshooting
 
 smart tv
 
@@ -989,15 +960,12 @@ smart tv
 - [Reddit](https://www.reddit.com/)
 - [TradeBlock](https://tradeblock.com/)
 
-MegaDownload
+- [MegaDownload](Megandowload.com)
 
-https://en.wikipedia.org/wiki/Vuze
+[Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service)
+[Adobe Acrobat Reader](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
 
-https://en.wikipedia.org/wiki/Software_as_a_service
-Acrobat Reader
-https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html
-
-Disqus
+[Disqus](https://disqus.com)
 
 https://2019.www.torproject.org/docs/android.html.en
 https://en.wikipedia.org/wiki/Windows_Defender
