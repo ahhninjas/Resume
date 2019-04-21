@@ -47,19 +47,18 @@ https://www.youtube.com/watch?v=icsLCkkPfic
 Solana Club Tennis Camps<br>
 [Carroll Ice Hockey Camp](/)<br>
 [Boxing Camp](/)<br>
-[Kru Ty Pilgrim](https://www.muskogeephoenix.com/mma/image_59974b7f-cedb-5ebf-9f94-295c2b8c0dc7.html)
-[Kru Billy Clark](https://www.muskogeephoenix.com/mma/image_59974b7f-cedb-5ebf-9f94-295c2b8c0dc7.html)<br>
+
 [Combat Shooting Course](/)<br>
 [Performance Course](https://www.performancecourse.com/)<br>
 [Gram Staining](/)<br>
 [Microscope](/)<br>
 [Compound Microscope](/)<br>
 [Scientific Method](/)<br>
-
 apple ipod<br>
 meta tags<br>
 
 ## <b><u><center>Sean Mills</b></u></center>
+<center>[Download A More Detailed Copy of My Resume](SEan-Mills.pdf)</center>
 <center>[Email: mills321@gmail.com](mailto:mills321@gmail.com)</center>
 <center>[Skype: mills3211](<a href="skype:mills3211?call">Call Me</a>)</center><br>
 * * *
@@ -545,25 +544,13 @@ This is a list of the exchanges that I trade on. They do not require a [Virtual 
 - [Tamper Data](https://www./)
 - [Video DownloadHelper](https://www./)
 - [YouTube AdBlocker](https://www./)
-- [HTTPS Everywhere](https://en.wikipedia.org/wiki/HTTPS_Everywhere)
-
-
-[Home Theater Installation]()
-[Surround Sound Speaker Installation]()
-
-[Concrete]()
-[Mixing Mud]()
-[Pouring Mud]()
-[Painting](https://en.wikipedia.org/wiki/House_painter_and_decorator)
-https://en.wikipedia.org/wiki/Paint_roller
-[Transcription Software]()
-[Voice Recorder]()
+- [HTTPS Everywhere](https://en.wikipedia.org/wiki/HTTPS_Everywhere)<br>
 
 <b>Media Players</b>
 - [Apple QuickTime Media Player](/)
 - [Media Player Classic](/)
 - [VLC Media Player](/)
-- [K-Lite Codec Pack](/)
+- [K-Lite Codec Pack](/)<br>
 
 [Itunes]
 
@@ -587,7 +574,6 @@ https://en.wikipedia.org/wiki/Paint_roller
 - [SnapChat Geofilters](https://www.snapchat.com/l/en-gb/on-demand/)
 - [Cam Studio](https://camstudio.org/)
 - [Dropbox](https://www.dropbox.com/)
-- [Mozilla Firefox Cloud](https://www./)
 - [AirBNB](https://www.airbnb.com/)
 - [Uber](https://www.uber.com/)
 - [Lyft](https://www.lyft.com/)
@@ -618,7 +604,7 @@ https://en.wikipedia.org/wiki/Paint_roller
 - [Firefox Sync](https://en.wikipedia.org/wiki/Firefox_Sync)
 - [Firefox Send](https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card)
 - [Firefox Lockbox](https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card)
-- [Thunderbird](https://www.thunderbird.net/)]()
+- [Thunderbird](https://www.thunderbird.net/)
 - [Firebug](https://web.archive.org/web/20120330103011/http://getfirebug.com/)
 
 <b>Email</b>
@@ -636,6 +622,8 @@ https://en.wikipedia.org/wiki/Paint_roller
 - [Safari](https://www.apple.com/safari/)
 - [Samsung Android Browser](https://www.samsung.com/global/galaxy/apps/samsung-internet/)
 - [Tor Browser](https://2019.www.torproject.org/index.html.en)
+- [Tor Browser For Android](https://2019.www.torproject.org/docs/android.html.en), [1]((https://play.google.com/store/apps/developer?id=The+Tor+Project))
+- [Tor Project](https://2019.www.torproject.org/index.html.en)
 - [Orfox](/)<br>
 
 <b>Internet Connectivity Troubleshooting</b>
@@ -648,26 +636,22 @@ https://en.wikipedia.org/wiki/Paint_roller
 - [Dark Net](https://en.wikipedia.org/wiki/Darknet)
 - [Proxy Server](https://en.wikipedia.org/wiki/Proxy_server)
 - [Tor](https://www.torproject.org/)
-- [Orbot: Proxy With TOR](https://play.google.com/store/apps/details?id=org.torproject.android)<br>
+- [Orbot: Proxy With TOR](https://play.google.com/store/apps/details?id=org.torproject.android)
 - [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)
-- [Vidalia](https://en.wikipedia.org/wiki/Vidalia_(software))
 - [Virtual Private Server](/)
+- [Vidalia](https://en.wikipedia.org/wiki/Vidalia_(software))
 - [Onion Routing](https://en.wikipedia.org/wiki/Onion_routing)
 - [Encryption](https://en.wikipedia.org/wiki/Encryption)
-- [.onion](https://en.wikipedia.org/wiki/.onion)
-- [TOR Browser For Android](https://play.google.com/store/apps/developer?id=The+Tor+Project)<br>
+- [.onion](https://en.wikipedia.org/wiki/.onion)<br>
 
 <b>[IP Blocking](https://www./)</b>
 - [PeerGuardian](http://www.phoenixlabs.org/)
 - [PeerBlock](https://peerblock.en.uptodown.com/windows)
 - [Block Lists and Black Listing](https://en.wikipedia.org/wiki/Blacklist_(computing))<br>
 
-<b>[2FA Authentication Tools](/)</b>
+<b>[2FA Authentication Tools](https://en.wikipedia.org/wiki/Multi-factor_authentication)</b>
 - [Authy](https://www.authy.com/)<br>
-- [Google Authenticator](https://en.wikipedia.org/wiki/Google_Authenticator)<br>https://www.google.com/landing/2step/
-https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=en
-
-
+- [Google Authenticator](https://en.wikipedia.org/wiki/Google_Authenticator), [1](https://www.google.com/landing/2step/), [2](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=en)<br>
 
 <b>Investigative Skills</b>
 - [Reverse Phone Lookup](https://www.reversephonelookup.com/)
@@ -677,7 +661,7 @@ https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&h
 <b>Torrenting</b>
 - [muTorrent](https://www.mutorrent.com/)
 - [Deluge](https://www.deluge.com/)
-- [Vuze](https://www.vuze.com/)[1](https://en.wikipedia.org/wiki/Vuze)
+- [Vuze](https://www.vuze.com/), [1](https://en.wikipedia.org/wiki/Vuze)
 - [Transmission](https://transmissionbt.com/)
 - [Kazaa Lite](https://www.kazaa.com/)
 - [Napster](https://www.napster.com/)
@@ -685,7 +669,7 @@ https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&h
 - [LimeWire](https://en.wikipedia.org/wiki/LimeWire)<br>
 
 <b>Torrent Distribution And Maintenance</b>
-- [ThePirateBay](https://thepiratebay.org/) [1](https://en.wikipedia.org/wiki/The_Pirate_Bay)
+- [ThePirateBay](https://thepiratebay.org/), [1](https://en.wikipedia.org/wiki/The_Pirate_Bay)
 - [KickAssTorrents](https://www.kat.se/)<br>
 
 - [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System)
@@ -726,7 +710,7 @@ https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&h
 - [Windows Defender](https://en.wikipedia.org/wiki/Windows_Defender)<br>
 
 <b>[Google Suite And Products](https://gsuite.google.com/features/)</b>
-<b>[Google Suite](https://gsuite.google.com/features/)</b>
+- [Google Suite](https://gsuite.google.com/features/)
 - [Google Cloud](/)
 - [Google Drive](https://www.google.com/drive/)
 - [Google Docs](https://www.google.com/docs/about/)
@@ -742,7 +726,8 @@ https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&h
 - [Google Maps](https://cloud.google.com/maps-platform/products/)
 - [Google Places](https://cloud.google.com/maps-platform/places/)
 - [Google Routes](https://cloud.google.com/maps-platform/routes/)
-- [Google Identity Protection](https://developers.google.com/identity/)<br>
+- [Google Identity Protection](https://developers.google.com/identity/)
+- [Google Hangouts](/)<br>
 
 <b>[Typing Speed](https://www./)</b>
 - 263 net characters per minute which equals 53 net words per minute.<br>
@@ -815,11 +800,6 @@ https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&h
 1. [Download Link To Excel Document With All Items](/)
 1. [Link To Amazon Profile With All Wish List Items](/)<br>
 
-Create a social media management page for a service
-include j tiger and monster x as citations
-
-Create a page that specifically sells my writings or media for money
-
 <b>Metal Illnesses</b>
 - [Diagnostic Statistician's Manual - DSM](/)
 - [Alcoholism](/)
@@ -836,25 +816,25 @@ Create a page that specifically sells my writings or media for money
 - Various Types of Other Physical Disabilities<br>
 
 <b>Psychological Skills</b>
-- Body Language Analysis
-- Social Engineering
-- Lie Detection
-- Investigation And Tracking
-- Chemical Inebriation Detection
-- Empathic Abilities
-- Negotiation and Compromise
-- Understanding Both Sides
-- Conflict Resolution
-- Neuro Linguistic Processing
-- In Home Caretaker<br>
+- [Body Language Analysis]()
+- [Social Engineering]()
+- [Lie Detection]()
+- [Investigation And Tracking]()
+- [Chemical Inebriation Detection]()
+- [Empathic Abilities]()
+- [Negotiation and Compromise]()
+- [Understanding Both Sides]()
+- [Conflict Resolution]()
+- [Neuro Linguistic Processing]()
+- [In Home Caretaker]()<br>
 
 <b>Animal Training And Boarding</b>
-- Dogs
-- Clicker Training
-- Classical Conditioning Techniques
-- Dog Boarding
-- Dog Shaving
-- Cat Boarding<br>
+- [Dogs]
+- [Clicker Training]
+- [Classical Conditioning Techniques]
+- [Dog Boarding]
+- [Dog Shaving]
+- [Cat Boarding]<br>
 
 Photography
 
@@ -882,18 +862,6 @@ Digital
 [Odesk](https://www.odesk.com/)
 [Elance](https://www.elance.com/)
 
-weight management
-weight cutting via water and calories
-- wet sauna
-- dry sauna
-
-- [Skillshare](https://www.skillshare.com/?via=header)
-- [GasBuddy](https://www./)
-copy and paste all of the indeed skills
-update text descriptions of the jobs from the indeed edits
-
-smart tv
-
 <b>Antivirus And Antimalware Software<b>
 - [Norton Antivirus](https://us.norton.com/antivirus)
 - [Lavasoft Zone Alarm](https://www.zonealarm.com/)
@@ -911,18 +879,38 @@ smart tv
 - Business Websites
 - Personal Recommendations
 - [Yelp](https://www.yelp.com/)
-- [Trip Advisor](https://www.tripadvisor.com/)
-
+- [Trip Advisor](https://www.tripadvisor.com/)<br>
 
 - [Google Play Store](https://play.google.com/store?hl=en)
 - [IFTTT](https://ifttt.com/)
 - [Square](https://www./)
 - [Reddit](https://www.reddit.com/)
 - [MegaDownload](Megandowload.com)
+- [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service)
+- [Adobe Acrobat Reader](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
 
-[Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service)
-[Adobe Acrobat Reader](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
+[Weight Management]()
+[weight cutting via water and calories]
+- [Wet Sauna]()
+- [Dry Sauna]()
 
-https://2019.www.torproject.org/docs/android.html.en
+- [Skillshare](https://www.skillshare.com/?via=header)
+- [GasBuddy](https://www./)
+copy and paste all of the indeed skills
+update text descriptions of the jobs from the indeed edits
 
-https://2019.www.torproject.org/index.html.en
+[smart TV Setup]()
+
+Create a social media management page for a service
+include j tiger and monster x as citations
+Create a page that specifically sells my writings or media for money
+
+[Home Theater Installation]()
+[Surround Sound Speaker Installation]()
+[Concrete]()
+[Mixing Mud]()
+[Pouring Mud]()
+[Painting](https://en.wikipedia.org/wiki/House_painter_and_decorator)
+https://en.wikipedia.org/wiki/Paint_roller
+[Transcription Software]()
+[Voice Recorder]()
