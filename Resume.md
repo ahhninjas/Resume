@@ -1,14 +1,6 @@
 ---
 layout: default
 ---
-[Download My Resume](/)
-Create links to videos on monster x camp info on youtube for
-Create links to heading ids in each section
-Move hackathons and football accomplishments to awards
-[Psi Chi](https://www.psichi.org)
-[Arnold Air Society](https://aas-sw.org/)
-[Philosophy Club: Friends of the Forums](https://philosophy.okstate.edu/undergraduate/philosophy-club)<br>
-
 [RSS](https://en.wikipedia.org/wiki/RSS)
 [Education](#Education)<br>
 [Experience](#Experience)<br>
@@ -19,36 +11,34 @@ Move hackathons and football accomplishments to awards
 [Desired Skills](#Desired Skills)<br>
 [Top Of Page](#Top)<br>
 
-[Natural Readers](https://www.naturalreaders.com/)<br>
-[Sense Of Humor](https://www.thecut.com/article/whats-your-humor-style.html)<br>
-Everyone's sense of humor is a mix of all four styles, but yours leans most heavily toward affiliative, meaning you're good at cracking jokes and trading banter to build connections with other people.<br>
-[Meyer's Briggs Psychological Profile](https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/)<br>
-ENTJ: Extroverted, Intuitive, Thinking, Judging<br>
-
-
+[Natural Readers](https://www.naturalreaders.com/)
 
 https://www.southlakecarroll.edu/Page/350
 https://www.dragonyouthfootball.net/page/show/3312857-dragon-youth-football-camp-powered-by-fasst-performance
 https://www.youtube.com/watch?v=icsLCkkPfic
-[Garrett Hartley](https://en.wikipedia.org/wiki/Garrett_Hartley)<br>
-[Justin Drescher](https://en.wikipedia.org/wiki/Justin_Drescher)<br>
-[Chase Daniel](https://en.wikipedia.org/wiki/Chase_Daniel)<br>
-[Greg McElroy](https://en.wikipedia.org/wiki/Greg_McElroy)<br>
-[Riley Dodge](https://en.wikipedia.org/wiki/Riley_Dodge)<br>
-[Dragon Maker](https://www.youtube.com/watch?v=CDREf79kd_0)<br>
+
+
+
+[Greg McElroy](/)<br>
+[Riley Dodge](https://www.dragonyouthfootball.net/page/show/3312854-dragon-football-camps-by-coach-dodge)
+[Dragon Maker](https://www.youtube.com/watch?v=CDREf79kd_0)
 [Carroll Dragon Workout](https://www.youtube.com/watch?v=icsLCkkPfic)<br>
 
-[Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)<br>
-[College For Kids](https://www.tccd.edu/academics/cie/lifelong-learning/youth-programs/college-for-kids/)<br>
+
+[Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)
+[College For Kids](/)<br>
 [UNT Soccer Camp](https://www.meangreensoccercamps.com/)
 [Carroll Ice Hockey Camp](/)<br>
-[Kru Ty Pilgrim Boxing Camp](/)<br>
-[Combat Shooting Course](https://diazma.com)<br>
+[Boxing Camp](/)<br>
+[Diaz Martial Arts Combat Shooting Course](/)<br>
+
 [Performance Course](https://www.performancecourse.com/)<br>
 
+[Gram Staining](/)<br>
+[Microscope](/)<br>
 
 ## <b><u><center>Sean Mills</b></u></center>
-<center>[Download A More Detailed Copy of My Resume](SEan-Mills.pdf)</center>
+<center>[Download A More Detailed Copy of My Resume](Sean-Mills.pdf)</center>
 <center>[Email: mills321@gmail.com](mailto:mills321@gmail.com)</center>
 <center>[Skype: mills3211](<a href="skype:mills3211?call">Call Me</a>)</center><br>
 * * *
@@ -94,13 +84,13 @@ Solution: Use of blockchain for a voting application.<br>
 Application Name: [Rock The Poll](http://rockthepoll.com)<br>
 Feb 2018<br>
 [Capital Factory, Austin, Texas](https://www.capitalfactory.com)<br>
-The following links are to the solution that was developed for Amazon Web Services and USAA. Each team only had twenty four hours to build their solution.<br>
+The following links are to the solution that was developed for Amazon Web Services and USAA. Each team only had twenty four hours to build their solution. The application is now being considered as the new music tabulation software of the Rock and Roll Hall of Fame and South By Southwest<br>
 - [SXSW Hackathon: Pictures Of The Event](https://photos.google.com/share/AF1QipNy_yxkZhSyFSeF48Vu8E2ANVZvyt9S_zY-F0tP9ZIOlIHXEIbPQR2fAvacr5Egow?key=NHhxS3dqV1RWbGlsY2s3YVlWanc3RW5SWE95c1ZR)
 - [The Rock And Roll Poll: The Devpost Description Of Application](https://devpost.com/software/the-rock-and-roll-poll)
 - [Vote Module](http://votemodule.com)
 - [Rock The Poll: Vote For Your Favorite Artist](http://www.rockthepoll.com)<br>
 * * *
-Web Developer and Groundskeeper<br>
+Web Developer<br>
 [Space Lab Maker's Space](http://www.Spacelab.io)<br>
 * * *
 Web Developer, And Customer Resource Management<br>
@@ -114,9 +104,9 @@ Web Developer, And Customer Resource Management<br>
 <center><b><u>[Psychology](http://psychology.okstate.edu/people-list/faculty)</b></u></center><br>
 [Celinda Reese-Melancon, Ph.D.](https://www.memoryandcognitiveaginglab.com/)<br>
 [Charles Abramson Ph.D.](http://charlesabramson.wixsite.com/abramsonlab/principle-investigator)<br>
-[John M Chaney Ph.D.](http://pedsbehavioralhealth.wixsite.com/osu-ppbh-lab)<br>
-[Shelia M. Kennison, Ph.D.](http://sheliakennison.wixsite.com/cognitivesciencelab)<br>
-[Maureen A. Sullivan, Ph.D.](https://childbehaviorlab.weebly.com/)<br>
+[John Chaney Ph.D.](http://pedsbehavioralhealth.wixsite.com/osu-ppbh-lab)<br>
+[Shelia Kennison, Ph.D.](http://sheliakennison.wixsite.com/cognitivesciencelab)<br>
+[Maureen Sullivan, Ph.D.](https://childbehaviorlab.weebly.com/)<br>
 [Paul Hansmann, Ph.D.](/)<br>
 
 <center><b><u>United States Air Force</b></u></center><br>
@@ -134,14 +124,14 @@ Web Developer, And Customer Resource Management<br>
 [David Hall](http://hallmusicproductions.com/) - Hall Music Productions<br>
 
 <center><b><u>Computer Science</b></u></center><br>
-[Roy Hodge](https://royhodge.github.io) - Certified Bitcoin Professional<br>
+[Roy Hodge](https://royhodge.github.io) - Certified Bitcoin Professional and Blockchain  Developer<br>
 
-<center><b><u>National Forensic League</b></u></center><br>
-[Dixie Waldo](https://books.google.com/books?id=AwgrpoWfJDoC&pg=PA46&lpg=PA46&dq=dixie+waldo+forensics+team&source=bl&ots=auf133AbR3&sig=ACfU3U0Gxux4RJ0cCxMQv1YCsp-ltqyC1Q&hl=en&sa=X&ved=2ahUKEwi_2dGan9_hAhUDWq0KHWwbAHwQ6AEwB3oECAgQAQ#v=onepage&q=dixie%20waldo%20forensics%20team&f=false) - Forensics Team Teacher
-[Diane Forbes](/) - Forensics Team Teacher<br>
+<center><b><u>Southlake Carroll National Forensic League</b></u></center><br>
+[Dixie Waldo](https://books.google.com/books?id=AwgrpoWfJDoC&pg=PA46&lpg=PA46&dq=dixie+waldo+forensics+team&source=bl&ots=auf133AbR3&sig=ACfU3U0Gxux4RJ0cCxMQv1YCsp-ltqyC1Q&hl=en&sa=X&ved=2ahUKEwi_2dGan9_hAhUDWq0KHWwbAHwQ6AEwB3oECAgQAQ#v=onepage&q=dixie%20waldo%20forensics%20team&f=false) - Southlake Carroll Dragon Forensics Team Teacher
+[Diane Forbes](/) - Southlake Carroll Dragon Forensics Team Teacher<br>
 
-<center><b><u>Carroll Dragon Football</b></u></center><br>
-[Todd Dodge](/) - Head Coach of the Southlake Carroll Dragon Football program
+<center><b><u>Southlake Carroll Dragon Football</b></u></center><br>
+[Todd Dodge](/) - Head Coach
 [Paul Pinson](/)
 [Jeremy Trojeck](/)<br>
 
@@ -151,7 +141,6 @@ Web Developer, And Customer Resource Management<br>
 - [GitHub](https://github.com/ahhninjas)
 - [GitPitch](https://gitpitch.com/)
 - [Atom](https://atom.io/)
-- [Wix](https://www.wix.com/)
 - [WordPress](https://wordpress.com/)<br>
 
 <b>Social Media</b>
@@ -161,7 +150,12 @@ Web Developer, And Customer Resource Management<br>
 - [Tumblr](https://www.tumblr.com/)
 - [YouTube](https://www.youtube.com/)
 - [LinkedIn](https://www.linkedin.com/)
-- [Mastadon](https://mastodon.social/about)
+- [Search Engine Optimization](https://www./)
+- [Meta Tags](https://www./)
+- [Keywords](https://www./)
+- [Tags](https://www./)
+- [Hash Tags](https://www./)
+- [Tagging](https://www./)
 
 <b>Blockchain Social Media</b>
 - [Steemit](https://www.steemit.com/)
@@ -170,37 +164,29 @@ Web Developer, And Customer Resource Management<br>
 - [BitChute](https://www.bitchute.com/)
 - [Vimm.tv](https://www.vimm.tv/)<br>
 
-<b>Messenger Applications</b>
+<b>[Messenger Applications](/)</b>
 - [Slack](https://slack.com/)
 - [Discord](https://discordapp.com/)
-- [Google Voice](https://www./)
 - [Telegram](https://telegram.org/)
 - [KIK](https://www.kik.com/)
 - [Signal](https://signal.org/)
-- [Whatsapp](https://www.whatsapp.com/)
-- [Messenger](https://www.messenger.com/)
 - [Wickr.Me](https://wickr.com/home/)
 - [Skype](https://www.skype.com/en/)
-- [SnapChat](https://www.snapchat.com/)
-- [Trillian](https://www.trillian.im/)
-- [MeetFranz](https://meetfranz.com/)<br>
+- [SnapChat](https://www.snapchat.com/)<br>
 
 <b>Payment Processors</b>
 - [Bank Transfers](/)
 - [PayPal](https://www.paypal.com/us/webapps/mpp/home)
-- [Venmo](https://venmo.com/)
-- [Cash Application](https://cash.app/)
 - [Western Union](https://www.westernunion.com/us/en/home.html)
 - [LocalBitcoins](https://localbitcoins.com/)
 - [Zelle](https://www.zellepay.com/)
-- [Bitcoin Transfer](/)<br>
+- [Square](https://squareup.com/us/en)<br>
 
 <b>Cryptocurrency Payments</b>
 - [Bitcoin](https://bitcoin.org/en/)
 - [Litecoin](https://litecoin.org/)
 - [Ethereum](https://ethereum.org/)
 - [Multisignature Wallet](https://en.wikipedia.org/wiki/Multisignature)
-- [Cryptocurrency Wallet](https://en.wikipedia.org/wiki/Cryptocurrency_wallet)
 - [Cryptocurrency Hard Wallet](www.trezor.it/)<br>
 - [MannaBase](https://mannabase.com/?ref=Pa8TfHrMM4)
 - [Shapeshift](https://shapeshift.io/#/coins)
@@ -210,28 +196,17 @@ Web Developer, And Customer Resource Management<br>
 - [Eth Explorer](https://ethplorer.io/)
 - [Blockchain Explorer](https://www.blockchain.com/explorer)
 
-<b>Physical Payment</b>
-- [Bargaining](https://en.wikipedia.org/wiki/Bargaining)
-- [Bartering](https://en.wikipedia.org/wiki/Barter)
-- [Trade](https://en.wikipedia.org/wiki/Trade)
-- [Square](https://squareup.com/us/en)
-- [Money Order](https://en.wikipedia.org/wiki/Money_order)
-- [Credit Card](https://en.wikipedia.org/wiki/Credit_card)
-- [Debit Card](https://en.wikipedia.org/wiki/Debit_card)
-- [Personal Check](https://en.wikipedia.org/wiki/Cheque)
-- [Cash](https://en.wikipedia.org/wiki/Cash)<br>
-
-<b>Communication Skills</b>
-- [Neuro Linguistic Processing](https://en.wikipedia.org/wiki/Neuro-linguistic_programming/)<br>
-
 <b>Financial Skills</b>
 - [Bookkeeping](https://en.wikipedia.org/wiki/Bookkeeping/)
 - [Life Insurance](https://txapps.texas.gov/NASApp/tdi/TdiARManager/)
-- [Tax](https://www.irs.gov/forms-pubs/about-publication-17)
-- [Freshbooks](https://www.freshbooks.com/)
-- [Bookeeping](/)<br>
+- [Tax Laws](https://www.irs.gov/forms-pubs/about-publication-17)
+- [Freshbooks](https://www.freshbooks.com/)<br>
+
+
+- [Primerica](http://www.primerica.com/public/)
 
 <b>[National Forensic League](https://www.speechanddebate.org/)</b>
+- State Debate Team Champions 2006
 - [Domestic Extemporaneous Speaking](https://en.wikipedia.org/wiki/United_States_Extemporaneous_Speaking)
 - [Foreign Extemporaneous Speaking](https://en.wikipedia.org/wiki/Foreign_Extemporaneous_Speaking)
 - [Lincoln Douglas Debate](https://en.wikipedia.org/wiki/Foreign_Extemporaneous_Speaking)
@@ -242,6 +217,7 @@ Web Developer, And Customer Resource Management<br>
 - [Contention Analysis And Rebuttal](/)<br>
 
 <b>Volunteering</b>
+- [Southside Church Food Distribution](/)
 - [Carroll Dragon Debate Team Judge And Event Management](/)
 - [Carroll Dragon Football Camp Assistant Coach](/)
 - [Performance Course Assistant](https://www.performancecourse.com/)
@@ -253,18 +229,18 @@ Web Developer, And Customer Resource Management<br>
 
 spelling bee 4 years
 
-National Forensics League State Champions 2006
-Oklahoma State University Philosophy Club
+[National Forensics League State Champions 2006](/)
+[Oklahoma State University Philosophy Club](/)
 
 [Golden Gloves](https://en.wikipedia.org/wiki/Golden_Gloves)
-Amateur Cage Fights
+[Amateur Cage Fights](/)
 
 <b>[Marketing](https://en.wikipedia.org/wiki/Marketing)</b>
-- [Social Media Marketing]()
+- [Social Media Marketing](/)
 - [Advertising](https://en.wikipedia.org/wiki/Advertising)
-- [Branding]()
+- [Branding](/)
 - [Canvassing](https://en.wikipedia.org/wiki/Canvassing)
-- [Flyer Distribution](https://en.wikipedia.org/wiki/Flyer_(pamphlet))
+- [Flyer Distribution](https://en.wikipedia.org/wiki/Flyer_(pamphlet)
 
 <b>Sales(https://en.wikipedia.org/wiki/Sales)</b>
 - [Cold Calling](https://en.wikipedia.org/wiki/Cold_calling/)
@@ -275,9 +251,12 @@ Amateur Cage Fights
 - [Solicitation](https://en.wikipedia.org/wiki/Solicitation)<br>
 
 
+
+
+
 - [Driver Installation And Update](https://en.wikipedia.org/wiki/Device_driver)
 - [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS)
-(https://en.wikipedia.org/wiki/Smartphone)
+- [Smartphone](https://en.wikipedia.org/wiki/Smartphone)
 
 <b>[Product Sales And Distribution](https://en.wikipedia.org/wiki/Goods_and_services)</b>
 - Garage and Estate Sales
@@ -286,20 +265,13 @@ Amateur Cage Fights
 - [LetGo](/)
 - [Craigslist](https://www.craigslist.org/about/sites)<br>
 
-<b>Animal Work</b>
-- Animal Boarding And Sitting
-- Animal Care
-- Dogs and Cats<br>
-
 <b>Psychological Profile</b>
-- Meyers Briggs Institute MBTI ENTJ Extroverted Intuitive Thinking Judging
-- Humor Style Affiliative
+- Meyers Briggs Institute [MBTI](/) - [ENTJ](/) - Extroverted Intuitive Thinking Judging
+- Sense of Humor - [Affiliative](https://www.thecut.com/article/whats-your-humor-style.html)
+Everyone's sense of humor is a mix of all four styles, but yours leans most heavily toward affiliative, meaning you're good at cracking jokes and trading banter to build connections with other people.
 
-[relaxation]
-[massage]
-[emf health]
 
-[Cargo Transportation]
+[Cargo Transportation](/)
 
 [The Stock Market Game Winner 3rd Place 2004](https://www.stockmarketgame.org/)
 
@@ -308,17 +280,13 @@ Amateur Cage Fights
 - [Betcoin](/)
 - [Gambling Casino](/)
 
-<b>Coaching Skill</b>
-- Martial Arts
+<b>Physical Education Coaching Skills</b>
+- Martial Arts: Boxing, Kickboxing, Krav Maga, Taekwondo
 - Football Techniques
-- Outdoor Soccer Techniques
-- Indoor Soccer Techniques
-- Goalkeeper Techniques
-- Inline Hockey Techniques
-- Ice Hockey Techniques
+- Soccer Techniques
+- Hockey Techniques
 - Ice Skating Techniques
-- Running Technique
-- Cross Country/Long Distance Running
+- Running Techniques
 - Agility Drills
 - Strength Training
 - Conditioning Training
@@ -360,39 +328,21 @@ Amateur Cage Fights
 - [Tractor](https://en.wikipedia.org/wiki/Tractor)<br>
 
 <b>ESports</b>
-- [Star Wars: Knights Of The Old Republic](https://www./)
-- [GunBound](http://gunbound.softnyx.net/)
 - [Heroes of the Storm](https://heroesofthestorm.com/en-us/)
 - [League Of Legends](https://play.na.leagueoflegends.com/en_US)
-- [Diablo 3](https://us.diablo3.com)
 - [Fortnite](https://www.epicgames.com/fortnite/en-US/buy-now/battle-royale)
-- [StarCraft 2](https://www./)
-- [Warcraft 3 Frozen Throne](https://www./)
 - [Overwatch](https://playoverwatch.com/en-us/)
-- [HearthStone](https://playhearthstone.com/en-us/)
-- [Starcraft](https://starcraft.com/en-us/)
-
-<b>General Overall Psychological Skills</b>
-- [Organization](https://www./)
-- [Critical Thinking](https://www./)<br>
+- [HearthStone](https://playhearthstone.com/en-us/)<br>
 
 <b>[Operating System](https://en.wikipedia.org/wiki/Operating_system)</b>
-- [Operating System Installation](https://www./)
 - [Microsoft Windows XP, Vista, 7, 8, 10](https://en.wikipedia.org/wiki/Microsoft_Windows)
 - [Tails](https://tails.boum.org/)
-- [Kali Linux](https://www.kali.org/)
-- [Debian Linux](https://www.debian.org/)
-- [Unbuntu Linux](https://www.ubuntu.com)
-- [MacOS](https://en.wikipedia.org/wiki/MacOS)
-- [Android](https://en.wikipedia.org/wiki/Android_(operating_system)), [1]((https://www.android.com/)
-- [IOS](https://en.wikipedia.org/wiki/IOS)<br>
+- [Android](https://en.wikipedia.org/wiki/Android_(operating_system))<br>
 
 <b>Social Media Management Systems</b>
 - [Hootsuite](https://www.hootsuite.com/)
 - [Buffer](https://www.buffer.com/)
-- [Disqus](https://disqus.com)
-[Feedburner](https://www.feedburner.com)
-[RSS]<br>
+- [Disqus](https://disqus.com)<br>
 
 <b>Quick Link Generation and Analytics</b>
 - [Bit.ly Quick Links](https://www./)
@@ -410,8 +360,6 @@ Amateur Cage Fights
 - AED
 - Nutrition
 
-Military
-- Leadership
 
 [Vitamins]
 [Supplementation]
@@ -438,55 +386,37 @@ Military
 [Grass Fed Meats]()
 [Coconut Oil]()
 
-inventory Control
-prescription pills
-xenoestrogens
+
 - [DuoLingo](/)
-
 - [Blogging](/)
-- [MySpace](https://myspace.com/)
-- [Tumblr](https://www.tumblr.com/)
 
-state debate team champipons 2006
 
 write a health book for kindle and website resale
-
-speak with rachel bernard
 
 [Juicing]
 [Workout]
 [Excipients]
-ODT training]()
-
-- [Search Engine Optimization](https://www./)
-- [Meta Tags](https://www./)
-- [Keywords](https://www./)
-- [Tags](https://www./)
-- [Hash Tags](https://www./)
-- [Tagging](https://www./)
+[ODT training]()
 
 <b>Music</b>
 - [Guitar](https://en.wikipedia.org/wiki/Acoustic_guitar)
 - [Voice](https://en.wikipedia.org/wiki/Vocal_pedagogy)
-- [Pandora](https://www.pandora.com/)
-- [Soundcloud](https://soundcloud.com/)
-- [DSound](https://dsound.audio/#!/feed)
-- [Spotify](https://www.spotify.com/us/)
 - [Guitar Tablature](https://en.wikipedia.org/wiki/Tablature)
 - [Fruity Loops Studio](https://www.image-line.com/flstudio/)<br>
 
 <b>BitCoin Wallets</b>
 - [MetaMask](https://metamask.io/)
-- [Electrum Wallet](https://www./)
+- [Electrum](https://www./)
 - [Waves Wallet](https://waveswallet.io/)[1](https://wavesplatform.com/products-wallet)[2](https://wavesplatform.com/)
-- [MyEtherWallet](https://www.myetherwallet.com/)<br>
+- [MyEtherWallet](https://www.myetherwallet.com/)
+- [FreeWallet](/)
+- [Coinbase Wallet](/)<br>
 
 <b>BitCoin Technical Analysis Tools</b>
 - [Blockfolio](https://blockfolio.com/)
 - [Technical Analysis](https://en.wikipedia.org/wiki/Technical_analysis)
 
 <b>BitCoin Exchanges</b>
-This is a list of the exchanges that I trade on. They do not require a [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network) in order to do business with them.
 - [Binance](https://www.binance.com/)
 - [HitBTC](https://www.HitBTC.com/)
 - [Kukoin](https://www.kukoin.com/)
@@ -539,12 +469,9 @@ This is a list of the exchanges that I trade on. They do not require a [Virtual 
 - [HTTPS Everywhere](https://en.wikipedia.org/wiki/HTTPS_Everywhere)<br>
 
 <b>Media Players</b>
-- [Apple QuickTime Media Player](/)
 - [Media Player Classic](/)
-- [VLC Media Player](/)
 - [K-Lite Codec Pack](/)<br>
 
-[Itunes]
 
 - [Windows Defender](/)
 - [Phishing](https://en.wikipedia.org/wiki/)
@@ -563,14 +490,6 @@ This is a list of the exchanges that I trade on. They do not require a [Virtual 
 
 <b>Shipping And Receiving</b>
 
-
-
-
-
-ORGANIZE THESE
-- [IPod](/)
-- [Gram Staining](/)
-- [Microscopy](/)
 - [SnapChat Geofilters](https://www.snapchat.com/l/en-gb/on-demand/)
 - [Cam Studio](https://camstudio.org/)
 - [Dropbox](https://www.dropbox.com/)
@@ -593,8 +512,7 @@ ORGANIZE THESE
 - [Ryver](https://ryver.com/)
 - [TeamWork](https://www.teamwork.com/)
 - [Binaural Beats](https://en.wikipedia.org/wiki/Beat_(acoustics))
-- [POP Email Accounts](https://en.wikipedia.org/wiki/Post_Office_Protocol)
-- [Meta Tags](https://en.wikipedia.org/wiki/Meta_element)<br>
+- [POP Email Accounts](/)
 
 <b>[Mozilla Products](https://support.mozilla.org/en-US/products)</b>
 - [Firefox](https://www.mozilla.org/en-US/)
@@ -609,23 +527,14 @@ ORGANIZE THESE
 - [Firebug](https://web.archive.org/web/20120330103011/http://getfirebug.com/)
 
 <b>Email</b>
-- [ProtonMail](https://www.protonmail.com/)
-- [Tutanota](https://www.tutanota.com/)
-- [Yahoo](https://www.yahoo.com/)
-- [MSN](https://www.msn.com/)
-- [Hotmail](https://www.hotmail.com/)<br>
+- [ProtonMail](https://www.protonmail.com/)<br>
 
 <b>Internet Browsers</b>
 - [Chromium](https://www.chromium.org/)
 - [Google Chrome](https://www.google.com/chrome/b/)
 - [Brave Browser](https://brave.com/)
-- [Beaker Browser](https://beakerbrowser.com/)
-- [Safari](https://www.apple.com/safari/)
-- [Samsung Android Browser](https://www.samsung.com/global/galaxy/apps/samsung-internet/)
 - [Tor Browser](https://2019.www.torproject.org/index.html.en)
 - [Tor Browser For Android](https://2019.www.torproject.org/docs/android.html.en), [1]((https://play.google.com/store/apps/developer?id=The+Tor+Project))
-- [Tor Project](https://2019.www.torproject.org/index.html.en)
-- [Orfox](/)<br>
 
 <b>Internet Connectivity Troubleshooting</b>
 - [SpeedTest](https://www.speedtest.net/)
@@ -660,25 +569,10 @@ ORGANIZE THESE
 - [Public Records Research](https://publicrecords.directory/)<br>
 
 <b>Torrenting</b>
-- [muTorrent](https://www.mutorrent.com/)
-- [Deluge](https://www.deluge.com/)
-- [Vuze](https://www.vuze.com/), [1](https://en.wikipedia.org/wiki/Vuze)
-- [Transmission](https://transmissionbt.com/)
-- [Kazaa Lite](https://www.kazaa.com/)
-- [Napster](https://www.napster.com/)
-- [BitTorrent](https://www.bittorrent.com/)
-- [LimeWire](https://en.wikipedia.org/wiki/LimeWire)<br>
-
-<b>Torrent Distribution And Maintenance</b>
-- [Peer To Peer File Sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing)
+- [Deluge](https://www.deluge.com/)<br>
 - [ThePirateBay](https://thepiratebay.org/), [1](https://en.wikipedia.org/wiki/The_Pirate_Bay)
 - [KickAssTorrents](https://www.kat.se/)<br>
-
-
-
-
-
-
+- [Peer To Peer File Sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing)
 
 
 - [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System)
@@ -688,8 +582,8 @@ ORGANIZE THESE
 <b>Mining</b>
 - [NiceHash Miner](www.nicehash.com/)
 - [MinerGate](http://bit.ly/Miner_GateX/)
-- [GPU Mining](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units)
 - [ETHos](https://www.ethos.io/)
+- [GPU Mining](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units)
 - [Mining Pools](https://en.wikipedia.org/wiki/Mining_pool)
 - [Cloud Mining](https://en.wikipedia.org/wiki/Cloud_mining)<br>
 
@@ -714,7 +608,8 @@ ORGANIZE THESE
 - [Microsoft Publisher](https://products.office.com/en-us/publisher)
 - [Microsoft One Drive](https://products.office.com/en-us/onedrive-for-business/online-cloud-storage)
 - [Microsoft Outlook](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook)
-- [Windows Defender](https://en.wikipedia.org/wiki/Windows_Defender)<br>
+- [Windows Defender](https://en.wikipedia.org/wiki/Windows_Defender)
+- [Windows Media Player](/)<br>
 
 <b>[Google Suite And Products](https://gsuite.google.com/features/)</b>
 - [Google Suite](https://gsuite.google.com/features/)
@@ -734,7 +629,8 @@ ORGANIZE THESE
 - [Google Places](https://cloud.google.com/maps-platform/places/)
 - [Google Routes](https://cloud.google.com/maps-platform/routes/)
 - [Google Identity Protection](https://developers.google.com/identity/)
-- [Google Hangouts](/)<br>
+- [Google Hangouts](/)
+- [Google Voice](/)<br>
 
 <b>[Typing Speed](https://www./)</b>
 - 263 net characters per minute which equals 53 net words per minute.<br>
@@ -750,54 +646,43 @@ ORGANIZE THESE
 - [Boiler Plates](https://en.wikipedia.org/wiki/Boilerplate_code)<br>
 
 <b>Spanish Proficiency</b><br>
-- Intermediate 10+ Years Without Complete Immersion<br>
+- Intermediate Proficiency: 10+ Years Without Complete Immersion<br>
 
 * * *
 ## <u><b><center>Bucket List</u></b></center><br>
-1. [ ] Create a family
-1. [ ] Live entirely off of investments, or annuities
-1. [ ] Create a healing center
-1. [ ] Find path off world
-1. [ ] Create a mobile health application to deter mental illness
-1. [ ] Create a stream of $5000 passive monthly income<br>
-* * *
 
 #### <u><b><center>Desired Skills</u></b></center>
 <b>Transportation</b>
 1. [ ] [Pilots License](https://www./)
 1. [ ] [Motorcycle License](https://www./)
 1. [ ] [Commercial Drivers License](https://www./)
-1. [ ] [Captains License](https://www./)<br>
+1. [ ] [Captains License](https://www./)
+1. [ ] [Drone License](https://www./)
+1. [ ] [Skydiving License](/)
+1. [ ] [SCUBA License](/)<br>
 
 <b>Web Development</b>
 1. [ ] [Hootsuite Certifications](https://www.hootsuite.com/)
 1. [ ] [Buffer Certifications](https://www.buffer.com/)
 1. [ ] [Google AdWords](https://support.google.com/google-ads/answer/9029201?hl=en)
 1. [ ] [YouTube Certification](https://support.google.com/youtube/answer/6145895?hl=en&ref_topic=6145903)
-1. [ ] [Google suite Training](https://gsuite.google.com/products/gsuite-training/)<br>
+1. [ ] [Google Suite Training](https://gsuite.google.com/products/gsuite-training/)
+1. [ ] [HubSpot Training](https://gsuite.google.com/products/gsuite-training/)<br>
 
 <b>Other</b>
-1. [ ] [Skydiving License](/)
 1. [ ] [Real Estate License](/)
-1. [ ] [SCUBA License](/)
 1. [ ] [Notary License](/)
-1. [ ] [MakerBot Certification](https://store.makerbot.com/training/makerbot-university-online/)<br>
+1. [ ] [MakerBot Certification](https://store.makerbot.com/training/makerbot-university-online/)
+1. [ ] [Welding Certification](/)<br>
 * * *
 ## <u><b><center>General Goals list</u></b></center>
-1. [ ] [Win a boxing title](/)
-1. [ ] [Win a kickboxing title ](/)
-1. [ ] [Win a Golden Gloves](/)
+1. [ ] [Win a boxing or kickboxing title](/)
 1. [ ] [Run a marathon](/)
-1. [ ] [Hike In The Himalayan Mountains ](/)
+1. [ ] [Hike In The Himalayan Mountains](/)
 1. [ ] [Fly A Plane To The Entrance To The Hallow Earth](/)
-1. [ ] [Live Completely Free Financially Via Passive Income Streams, Annuities and Investing](/)
 1. [ ] [Create off grid housing](/)
-1. [ ] [Travel to Antarctic via boat or bush plane](/)
-1. [ ] [Travel to Antarctica via boat or bush plane](/)
 1. [ ] [See the northern lights](/)
-1. [ ] [See Area 51](/)
 1. [ ] [Go off planet](/)
-1. [ ] [Be On A Gameshow](/)
 
 ## <u><b><center>Financial Goals</u></b></center>
 1. [ ] [Ability to work anywhere on the planet to earn money](/)
@@ -807,7 +692,14 @@ ORGANIZE THESE
 1. [Download Link To Excel Document With All Items](/)
 1. [Link To Amazon Profile With All Wish List Items](/)<br>
 
-<b>Metal Illnesses</b>
+
+
+
+
+
+
+
+<b>Mental Illnesses</b>
 - [Diagnostic Statistician's Manual - DSM](/)
 - [Alcoholism](/)
 - [Down Syndrome](/)
@@ -819,40 +711,27 @@ ORGANIZE THESE
 - [Alzheimer's Disease](/)
 - [Down Syndrome](/)
 - [Stroke](/)
-- [Cancer](/)
-- Various Types of Other Physical Disabilities<br>
+- [Cancer](/)<br>
 
 <b>Psychological Skills</b>
 - [Body Language Analysis]()
 - [Social Engineering]()
 - [Lie Detection]()
-- [Investigation And Tracking]()
-- [Chemical Inebriation Detection]()
-- [Empathic Abilities]()
+- [Investigation]()
 - [Negotiation and Compromise]()
-- [Understanding Both Sides]()
-- [Conflict Resolution]()
 - [Neuro Linguistic Processing]()
 - [In Home Caretaker]()<br>
 
 <b>Animal Training And Boarding</b>
-- [Dogs]
-- [Clicker Training]
-- [Classical Conditioning Techniques]
+- [Dog Behavior Training]
 - [Dog Boarding]
-- [Dog Shaving]
+- [Dog Grooming]
 - [Cat Boarding]<br>
 
 Photography
 
 - [Medium](https://www.medium.com/)
 - [Quora](https://www.quora.com)
-
-<b>Job Search Engines<b>
-- [Zip Recruiter](https://www.ziprecruiter.com/)
-- [Indeed](https://www.indeed.com/)
-- [Glass Door](https://www.glassdoor.com/)
-- [Monster](https://www.monster.com/)<br>
 
 <b>Event Management</b>
 - [Meetup](https://www.meetup.com/)
@@ -901,23 +780,13 @@ Digital
 - [Wet Sauna]()
 - [Dry Sauna]()
 
-- [Skillshare](https://www.skillshare.com/?via=header)
-- [GasBuddy](https://www./)
 copy and paste all of the indeed skills
 update text descriptions of the jobs from the indeed edits
 
-[smart TV Setup]()
-
-Create a social media management page for a service
-include j tiger and monster x as citations
-Create a page that specifically sells my writings or media for money
-
+[Smart TV Setup]()
 [Home Theater Installation]()
 [Surround Sound Speaker Installation]()
 [Concrete]()
 [Mixing Mud]()
 [Pouring Mud]()
 [Painting](https://en.wikipedia.org/wiki/House_painter_and_decorator)
-https://en.wikipedia.org/wiki/Paint_roller
-[Transcription Software]()
-[Voice Recorder]()
