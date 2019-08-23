@@ -1,16 +1,13 @@
 ---
 layout: default
 ---
-Download resume pdf link
-contact form linked to mailchimp
-Create links to videos on monster x camp info on youtube for martial arts resume
+[Download My Resume](/)
+Create links to videos on monster x camp info on youtube for
 Create links to heading ids in each section
-Move hackathons to awards indeed
-Move football to awards indeed
-add national forensicds leage to certifications club and license
-Psi Chi
-Arnold Air Society
-Philosophy Club<br>
+Move hackathons and football accomplishments to awards
+[Psi Chi](https://www.psichi.org)
+[Arnold Air Society](https://aas-sw.org/)
+[Philosophy Club: Friends of the Forums](https://philosophy.okstate.edu/undergraduate/philosophy-club)<br>
 
 [RSS](https://en.wikipedia.org/wiki/RSS)
 [Education](#Education)<br>
@@ -22,40 +19,33 @@ Philosophy Club<br>
 [Desired Skills](#Desired Skills)<br>
 [Top Of Page](#Top)<br>
 
-[Natural Readers](https://www.naturalreaders.com/)
+[Natural Readers](https://www.naturalreaders.com/)<br>
+[Sense Of Humor](https://www.thecut.com/article/whats-your-humor-style.html)<br>
+Everyone's sense of humor is a mix of all four styles, but yours leans most heavily toward affiliative, meaning you're good at cracking jokes and trading banter to build connections with other people.<br>
+[Meyer's Briggs Psychological Profile](https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/)<br>
+ENTJ: Extroverted, Intuitive, Thinking, Judging<br>
 
-[You have a mostly affiliative sense of humor.](https://www.thecut.com/article/whats-your-humor-style.html)
-Everyone's sense of humor is a mix of all four styles, but yours leans most heavily toward affiliative, meaning you're good at cracking jokes and trading banter to build connections with other people.
 
-mbti ENTJ
 
 https://www.southlakecarroll.edu/Page/350
 https://www.dragonyouthfootball.net/page/show/3312857-dragon-youth-football-camp-powered-by-fasst-performance
 https://www.youtube.com/watch?v=icsLCkkPfic
+[Garrett Hartley](https://en.wikipedia.org/wiki/Garrett_Hartley)<br>
+[Justin Drescher](https://en.wikipedia.org/wiki/Justin_Drescher)<br>
+[Chase Daniel](https://en.wikipedia.org/wiki/Chase_Daniel)<br>
+[Greg McElroy](https://en.wikipedia.org/wiki/Greg_McElroy)<br>
+[Riley Dodge](https://en.wikipedia.org/wiki/Riley_Dodge)<br>
+[Dragon Maker](https://www.youtube.com/watch?v=CDREf79kd_0)<br>
+[Carroll Dragon Workout](https://www.youtube.com/watch?v=icsLCkkPfic)<br>
 
-[Greg McElroy](/)<br>
-[Riley Dodge](/)<br>
-(https://www.dragonyouthfootball.net/page/show/3312854-dragon-football-camps-by-coach-dodge)
-[Dragon Maker](/)<br>
-(https://www.youtube.com/watch?v=CDREf79kd_0)
-[Carroll Dragon Workout](/)<br>
-(https://www.youtube.com/watch?v=icsLCkkPfic)
-
-[Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)
-[College For Kids](/)<br>
+[Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)<br>
+[College For Kids](https://www.tccd.edu/academics/cie/lifelong-learning/youth-programs/college-for-kids/)<br>
 [UNT Soccer Camp](https://www.meangreensoccercamps.com/)
-Solana Club Tennis Camps<br>
 [Carroll Ice Hockey Camp](/)<br>
-[Boxing Camp](/)<br>
-
-[Combat Shooting Course](/)<br>
+[Kru Ty Pilgrim Boxing Camp](/)<br>
+[Combat Shooting Course](https://diazma.com)<br>
 [Performance Course](https://www.performancecourse.com/)<br>
-[Gram Staining](/)<br>
-[Microscope](/)<br>
-[Compound Microscope](/)<br>
-[Scientific Method](/)<br>
-apple ipod<br>
-meta tags<br>
+
 
 ## <b><u><center>Sean Mills</b></u></center>
 <center>[Download A More Detailed Copy of My Resume](SEan-Mills.pdf)</center>
@@ -180,7 +170,7 @@ Web Developer, And Customer Resource Management<br>
 - [BitChute](https://www.bitchute.com/)
 - [Vimm.tv](https://www.vimm.tv/)<br>
 
-<b>[Messenger Applications](/)</b>
+<b>Messenger Applications</b>
 - [Slack](https://slack.com/)
 - [Discord](https://discordapp.com/)
 - [Google Voice](https://www./)
@@ -202,7 +192,8 @@ Web Developer, And Customer Resource Management<br>
 - [Cash Application](https://cash.app/)
 - [Western Union](https://www.westernunion.com/us/en/home.html)
 - [LocalBitcoins](https://localbitcoins.com/)
-- [Zelle](https://www.zellepay.com/)<br>
+- [Zelle](https://www.zellepay.com/)
+- [Bitcoin Transfer](/)<br>
 
 <b>Cryptocurrency Payments</b>
 - [Bitcoin](https://bitcoin.org/en/)
@@ -236,11 +227,9 @@ Web Developer, And Customer Resource Management<br>
 <b>Financial Skills</b>
 - [Bookkeeping](https://en.wikipedia.org/wiki/Bookkeeping/)
 - [Life Insurance](https://txapps.texas.gov/NASApp/tdi/TdiARManager/)
-- [Tax Laws](https://www.irs.gov/forms-pubs/about-publication-17)
-- [Freshbooks](https://www.freshbooks.com/)<br>
-
-
-- [Primerica](http://www.primerica.com/public/)
+- [Tax](https://www.irs.gov/forms-pubs/about-publication-17)
+- [Freshbooks](https://www.freshbooks.com/)
+- [Bookeeping](/)<br>
 
 <b>[National Forensic League](https://www.speechanddebate.org/)</b>
 - [Domestic Extemporaneous Speaking](https://en.wikipedia.org/wiki/United_States_Extemporaneous_Speaking)
@@ -393,14 +382,17 @@ Amateur Cage Fights
 - [Tails](https://tails.boum.org/)
 - [Kali Linux](https://www.kali.org/)
 - [Debian Linux](https://www.debian.org/)
-- [MacOS](/)
+- [Unbuntu Linux](https://www.ubuntu.com)
+- [MacOS](https://en.wikipedia.org/wiki/MacOS)
 - [Android](https://en.wikipedia.org/wiki/Android_(operating_system)), [1]((https://www.android.com/)
 - [IOS](https://en.wikipedia.org/wiki/IOS)<br>
 
 <b>Social Media Management Systems</b>
 - [Hootsuite](https://www.hootsuite.com/)
 - [Buffer](https://www.buffer.com/)
-- [Disqus](https://disqus.com)<br>
+- [Disqus](https://disqus.com)
+[Feedburner](https://www.feedburner.com)
+[RSS]<br>
 
 <b>Quick Link Generation and Analytics</b>
 - [Bit.ly Quick Links](https://www./)
@@ -571,6 +563,14 @@ This is a list of the exchanges that I trade on. They do not require a [Virtual 
 
 <b>Shipping And Receiving</b>
 
+
+
+
+
+ORGANIZE THESE
+- [IPod](/)
+- [Gram Staining](/)
+- [Microscopy](/)
 - [SnapChat Geofilters](https://www.snapchat.com/l/en-gb/on-demand/)
 - [Cam Studio](https://camstudio.org/)
 - [Dropbox](https://www.dropbox.com/)
@@ -593,7 +593,8 @@ This is a list of the exchanges that I trade on. They do not require a [Virtual 
 - [Ryver](https://ryver.com/)
 - [TeamWork](https://www.teamwork.com/)
 - [Binaural Beats](https://en.wikipedia.org/wiki/Beat_(acoustics))
-- [POP Email Accounts](/)
+- [POP Email Accounts](https://en.wikipedia.org/wiki/Post_Office_Protocol)
+- [Meta Tags](https://en.wikipedia.org/wiki/Meta_element)<br>
 
 <b>[Mozilla Products](https://support.mozilla.org/en-US/products)</b>
 - [Firefox](https://www.mozilla.org/en-US/)
@@ -669,14 +670,20 @@ This is a list of the exchanges that I trade on. They do not require a [Virtual 
 - [LimeWire](https://en.wikipedia.org/wiki/LimeWire)<br>
 
 <b>Torrent Distribution And Maintenance</b>
+- [Peer To Peer File Sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing)
 - [ThePirateBay](https://thepiratebay.org/), [1](https://en.wikipedia.org/wiki/The_Pirate_Bay)
 - [KickAssTorrents](https://www.kat.se/)<br>
 
+
+
+
+
+
+
+
 - [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System)
 - [Proxy Server](https://en.wikipedia.org/wiki/Proxy_server)
-
 - [PuTTY](https://en.wikipedia.org/wiki/PuTTY)
-- [Peer To Peer File Sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing)
 
 <b>Mining</b>
 - [NiceHash Miner](www.nicehash.com/)
