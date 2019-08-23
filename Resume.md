@@ -1,37 +1,32 @@
 ---
 layout: default
 ---
+### <b><u><center>Table of Contents</b></u></center>
+<center>[Education](#Education)<br></center>
+<center>[Experience](#Experience)<br></center>
+<center>[Hackathon](#Hackathons)<br></center>
+<center>[References](#References)<br></center>
+<center>[Bucket List](#Bucket List)<br></center>
+<center>[Skills](#Skills)<br></center>
+<center>[Desired Skills](#Desired Skills)<br></center>
+<center>[Top Of Page](#Top)<br></center>
+
 [RSS](https://en.wikipedia.org/wiki/RSS)
-[Education](#Education)<br>
-[Experience](#Experience)<br>
-[Hackathon](#Hackathons)<br>
-[References](#References)<br>
-[Bucket List](#Bucket List)<br>
-[Skills](#Skills)<br>
-[Desired Skills](#Desired Skills)<br>
-[Top Of Page](#Top)<br>
-
 [Natural Readers](https://www.naturalreaders.com/)
-
-https://www.southlakecarroll.edu/Page/350
 https://www.dragonyouthfootball.net/page/show/3312857-dragon-youth-football-camp-powered-by-fasst-performance
 https://www.youtube.com/watch?v=icsLCkkPfic
-
-
 
 [Greg McElroy](/)<br>
 [Riley Dodge](https://www.dragonyouthfootball.net/page/show/3312854-dragon-football-camps-by-coach-dodge)
 [Dragon Maker](https://www.youtube.com/watch?v=CDREf79kd_0)
 [Carroll Dragon Workout](https://www.youtube.com/watch?v=icsLCkkPfic)<br>
 
-
 [Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)
-[College For Kids](/)<br>
+[College For Kids](https://www.tccd.edu/academics/cie/lifelong-learning/youth-programs/college-for-kids/)<br>
 [UNT Soccer Camp](https://www.meangreensoccercamps.com/)
-[Carroll Ice Hockey Camp](/)<br>
-[Boxing Camp](/)<br>
-[Diaz Martial Arts Combat Shooting Course](/)<br>
-
+[Carroll Ice Hockey Camp](https://www.southlakehockey.com/)<br>
+[Kru Ty Pilgrim Boxing Camp](https://www.muskogeephoenix.com/sports/muay-thai-means-my-time-for-local-pair/article_3355684e-b424-500b-aef5-6ccd39c24c87.html)<br>
+[Diaz Martial Arts Combat Shooting Course](http://diazma.com/)<br>
 [Performance Course](https://www.performancecourse.com/)<br>
 
 [Gram Staining](/)<br>
@@ -110,7 +105,7 @@ Web Developer, And Customer Resource Management<br>
 [Paul Hansmann, Ph.D.](/)<br>
 
 <center><b><u>United States Air Force</b></u></center><br>
-[Major Andrew Clower, USAF](/) - Missile Silo Operations<br>
+[Major Andrew Clower, USAF](/) - Missile Operations<br>
 [General Richard Marshburn, USAF](/) - Logistics<br>
 
 <center><b><u>Hospitality</b></u></center><br>
@@ -124,14 +119,15 @@ Web Developer, And Customer Resource Management<br>
 [David Hall](http://hallmusicproductions.com/) - Hall Music Productions<br>
 
 <center><b><u>Computer Science</b></u></center><br>
-[Roy Hodge](https://royhodge.github.io) - Certified Bitcoin Professional and Blockchain  Developer<br>
+[Roy Hodge](https://royhodge.github.io) - Certified Bitcoin Professional and Blockchain Developer<br>
 
-<center><b><u>Southlake Carroll National Forensic League</b></u></center><br>
-[Dixie Waldo](https://books.google.com/books?id=AwgrpoWfJDoC&pg=PA46&lpg=PA46&dq=dixie+waldo+forensics+team&source=bl&ots=auf133AbR3&sig=ACfU3U0Gxux4RJ0cCxMQv1YCsp-ltqyC1Q&hl=en&sa=X&ved=2ahUKEwi_2dGan9_hAhUDWq0KHWwbAHwQ6AEwB3oECAgQAQ#v=onepage&q=dixie%20waldo%20forensics%20team&f=false) - Southlake Carroll Dragon Forensics Team Teacher
+<center><b><u>National Forensics League</b></u></center><br>
+[Dixie Waldo](https://books.google.com/books?id=AwgrpoWfJDoC&pg=PA46&lpg=PA46&dq=dixie+waldo+forensics+team&source=bl&ots=auf133AbR3&sig=ACfU3U0Gxux4RJ0cCxMQv1YCsp-ltqyC1Q&hl=en&sa=X&ved=2ahUKEwi_2dGan9_hAhUDWq0KHWwbAHwQ6AEwB3oECAgQAQ#v=onepage&q=dixie%20waldo%20forensics%20team&f=false) - Southlake Carroll Dragon Forensics Team Teacher [1](https://www.southlakecarroll.edu/Page/350)<br>
+
 [Diane Forbes](/) - Southlake Carroll Dragon Forensics Team Teacher<br>
 
 <center><b><u>Southlake Carroll Dragon Football</b></u></center><br>
-[Todd Dodge](/) - Head Coach
+[Todd Dodge](/) - Head Coach 2006
 [Paul Pinson](/)
 [Jeremy Trojeck](/)<br>
 
@@ -141,7 +137,8 @@ Web Developer, And Customer Resource Management<br>
 - [GitHub](https://github.com/ahhninjas)
 - [GitPitch](https://gitpitch.com/)
 - [Atom](https://atom.io/)
-- [WordPress](https://wordpress.com/)<br>
+- [WordPress](https://wordpress.com/)
+- [Bluehost](https://www.bluehost.com/)<br>
 
 <b>Social Media</b>
 - [Instagram](https://www.instagram.com/)
@@ -153,9 +150,6 @@ Web Developer, And Customer Resource Management<br>
 - [Search Engine Optimization](https://www./)
 - [Meta Tags](https://www./)
 - [Keywords](https://www./)
-- [Tags](https://www./)
-- [Hash Tags](https://www./)
-- [Tagging](https://www./)
 
 <b>Blockchain Social Media</b>
 - [Steemit](https://www.steemit.com/)
@@ -172,10 +166,10 @@ Web Developer, And Customer Resource Management<br>
 - [Signal](https://signal.org/)
 - [Wickr.Me](https://wickr.com/home/)
 - [Skype](https://www.skype.com/en/)
-- [SnapChat](https://www.snapchat.com/)<br>
+- [SnapChat](https://www.snapchat.com/)
+- [GoToMeeting](https://www.gotomeeting.com/)<br>
 
 <b>Payment Processors</b>
-- [Bank Transfers](/)
 - [PayPal](https://www.paypal.com/us/webapps/mpp/home)
 - [Western Union](https://www.westernunion.com/us/en/home.html)
 - [LocalBitcoins](https://localbitcoins.com/)
@@ -202,34 +196,31 @@ Web Developer, And Customer Resource Management<br>
 - [Tax Laws](https://www.irs.gov/forms-pubs/about-publication-17)
 - [Freshbooks](https://www.freshbooks.com/)<br>
 
-
-- [Primerica](http://www.primerica.com/public/)
-
 <b>[National Forensic League](https://www.speechanddebate.org/)</b>
 - State Debate Team Champions 2006
 - [Domestic Extemporaneous Speaking](https://en.wikipedia.org/wiki/United_States_Extemporaneous_Speaking)
 - [Foreign Extemporaneous Speaking](https://en.wikipedia.org/wiki/Foreign_Extemporaneous_Speaking)
 - [Lincoln Douglas Debate](https://en.wikipedia.org/wiki/Foreign_Extemporaneous_Speaking)
 - [Current Events Documentation](/)
-- [Speech](/)
+- [Speech Analysis](/)
 - [Business Dress Analysis](/)
 - [Debate Judging And Flow Analysis](/)
 - [Contention Analysis And Rebuttal](/)<br>
 
 <b>Volunteering</b>
-- [Southside Church Food Distribution](/)
+- [Southside Church Food Distribution](http://www.southsidecommunitycenter.org/homeless-shelter-sscc)
 - [Carroll Dragon Debate Team Judge And Event Management](/)
-- [Carroll Dragon Football Camp Assistant Coach](/)
+- [Carroll Dragon Football Camp Assistant Coach](https://www.dragonyouthfootball.net/camps)
 - [Performance Course Assistant](https://www.performancecourse.com/)
 - [Morris Dido Church Event Planning And Web Development](http://didoumc.org/)
 - [Float Fest Cleanup](https://floatfest.net/help-us-help-you-to-keeptheriverclean/)
 - [San Marcos River Cleanup Day](https://www.facebook.com/GreatTexasRiverCleanUp/) 2 Years
 - [Altrusa International Silent Auction Raffle Sales](https://www.altrusa.org/) 4 Years
 
-
+https://en.wikipedia.org/wiki/Carroll_Senior_High_School
 spelling bee 4 years
 
-[National Forensics League State Champions 2006](/)
+[National Forensics League State Champions 2006](https://www.southlakecarroll.edu/Page/350)
 [Oklahoma State University Philosophy Club](/)
 
 [Golden Gloves](https://en.wikipedia.org/wiki/Golden_Gloves)
@@ -266,12 +257,10 @@ spelling bee 4 years
 - [Craigslist](https://www.craigslist.org/about/sites)<br>
 
 <b>Psychological Profile</b>
-- Meyers Briggs Institute [MBTI](/) - [ENTJ](/) - Extroverted Intuitive Thinking Judging
+- [Meyers Briggs Institute (MBTI)](/) - [ENTJ](/) - Extroverted Intuitive Thinking Judging
 - Sense of Humor - [Affiliative](https://www.thecut.com/article/whats-your-humor-style.html)
 Everyone's sense of humor is a mix of all four styles, but yours leans most heavily toward affiliative, meaning you're good at cracking jokes and trading banter to build connections with other people.
 
-
-[Cargo Transportation](/)
 
 [The Stock Market Game Winner 3rd Place 2004](https://www.stockmarketgame.org/)
 
@@ -490,39 +479,34 @@ write a health book for kindle and website resale
 
 <b>Shipping And Receiving</b>
 
-- [SnapChat Geofilters](https://www.snapchat.com/l/en-gb/on-demand/)
+
+
+
+
 - [Cam Studio](https://camstudio.org/)
 - [Dropbox](https://www.dropbox.com/)
-- [AirBNB](https://www.airbnb.com/)
-- [Uber](https://www.uber.com/)
-- [Lyft](https://www.lyft.com/)
 - [Pinterest](https://www.pinterest.com/)
 - [Ccleaner](https://www.ccleaner.com/)
 - [WinRAR](https://www.winrar.com/)
 - [MagicISO](https://www.magiciso.com/)
-- [Sweet Home 3D](www.sweethome3d.com)
 - [Ebay](https://www.ebay.com/)
-- [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 - [Join.me](https://www.join.me/)
 - [Jing](https://www.techsmith.com/screen-capture.html)
 - [Amazon Reseller](https://www./)
 - [NextDoor](https://nextdoor.com/)
 - [Trailer Pulling](https://www./)
 - [TeamViewer](https://www./)
-- [Ryver](https://ryver.com/)
 - [TeamWork](https://www.teamwork.com/)
 - [Binaural Beats](https://en.wikipedia.org/wiki/Beat_(acoustics))
 - [POP Email Accounts](/)
 
 <b>[Mozilla Products](https://support.mozilla.org/en-US/products)</b>
-- [Firefox](https://www.mozilla.org/en-US/)
-- [Firefox For Android](https://www.mozilla.org/en-US/firefox/mobile/)
-- [Firefox Focus](https://www.mozilla.org/en-US/firefox/mobile/)
-- [Firefox Focus For Android](https://www.mozilla.org/en-US/firefox/mobile/)
+- [Firefox Quantum](https://www.mozilla.org/en-US/)
 - [Firefox Accounts](https://www.mozilla.org/en-US/firefox/accounts/)
 - [Firefox Sync](https://en.wikipedia.org/wiki/Firefox_Sync)
 - [Firefox Send](https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card)
-- [Firefox Lockbox](https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card)
+- [Firefox Lockwise](https://lockwise.firefox.com/)
+- [Firefox Notes](https://lockwise.firefox.com/)
 - [Thunderbird](https://www.thunderbird.net/)
 - [Firebug](https://web.archive.org/web/20120330103011/http://getfirebug.com/)
 
@@ -563,21 +547,9 @@ write a health book for kindle and website resale
 - [Authy](https://www.authy.com/)<br>
 - [Google Authenticator](https://en.wikipedia.org/wiki/Google_Authenticator), [1](https://www.google.com/landing/2step/), [2](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=en)<br>
 
-<b>Investigative Skills</b>
-- [Reverse Phone Lookup](https://www.reversephonelookup.com/)
-- [Reverse Image Lookup](https://support.google.com/websearch/answer/1325808?co=GENIE.Platform%3DAndroid&hl=en)
-- [Public Records Research](https://publicrecords.directory/)<br>
-
 <b>Torrenting</b>
 - [Deluge](https://www.deluge.com/)<br>
 - [ThePirateBay](https://thepiratebay.org/), [1](https://en.wikipedia.org/wiki/The_Pirate_Bay)
-- [KickAssTorrents](https://www.kat.se/)<br>
-- [Peer To Peer File Sharing](https://en.wikipedia.org/wiki/Peer-to-peer_file_sharing)
-
-
-- [IPFS](https://en.wikipedia.org/wiki/InterPlanetary_File_System)
-- [Proxy Server](https://en.wikipedia.org/wiki/Proxy_server)
-- [PuTTY](https://en.wikipedia.org/wiki/PuTTY)
 
 <b>Mining</b>
 - [NiceHash Miner](www.nicehash.com/)
@@ -673,19 +645,27 @@ write a health book for kindle and website resale
 1. [ ] [Real Estate License](/)
 1. [ ] [Notary License](/)
 1. [ ] [MakerBot Certification](https://store.makerbot.com/training/makerbot-university-online/)
-1. [ ] [Welding Certification](/)<br>
+1. [ ] [Welding Certification](/)
+1. [ ] [Long Range Marksmanship Certification](/)<br>
+
 * * *
 ## <u><b><center>General Goals list</u></b></center>
+Physical Endurance
 1. [ ] [Win a boxing or kickboxing title](/)
 1. [ ] [Run a marathon](/)
-1. [ ] [Hike In The Himalayan Mountains](/)
-1. [ ] [Fly A Plane To The Entrance To The Hallow Earth](/)
-1. [ ] [Create off grid housing](/)
-1. [ ] [See the northern lights](/)
-1. [ ] [Go off planet](/)
+1. [ ] [Participate in a triathlon](/)
+1. [ ] [Black Belt](/)<br>
+
+Visit
+1. [ ] [Himalayan Mountains](/)
+1. [ ] [Hallow Earth](/)
+1. [ ] [Northern Lights](/)
+1. [ ] [Off Planet](/)
+1. [ ] [Burning Man](/)
 
 ## <u><b><center>Financial Goals</u></b></center>
 1. [ ] [Ability to work anywhere on the planet to earn money](/)
+1. [ ] [Create off grid housing/van house/tiny house/sustainable housing](/)
 
 * * *
 ## <u><b><center>Purchase List</u></b></center>
@@ -699,36 +679,35 @@ write a health book for kindle and website resale
 
 
 
-<b>Mental Illnesses</b>
+<b>Mental Disorders And Diseases</b><br>
+I am familiar with a wide variety of health problems and how they physically manifest in real life. I do not have
 - [Diagnostic Statistician's Manual - DSM](/)
-- [Alcoholism](/)
 - [Down Syndrome](/)
 - [Parkinson's Disease](/)
-- [Stimulant Addiction](/)
-- [Depressants Addiction](/)
-- [Smoking Addiction](/)
-- [Depression](/)
 - [Alzheimer's Disease](/)
-- [Down Syndrome](/)
+- [Depression](/)
+- [Alcoholism](/)
+- [Stimulant Addiction](/)
+- [Depressant Addiction](/)
+- [Smoking Addiction](/)
 - [Stroke](/)
 - [Cancer](/)<br>
 
 <b>Psychological Skills</b>
-- [Body Language Analysis]()
-- [Social Engineering]()
-- [Lie Detection]()
-- [Investigation]()
-- [Negotiation and Compromise]()
-- [Neuro Linguistic Processing]()
-- [In Home Caretaker]()<br>
+- [Neuro Linguistic Processing (NLP)](/)
+- [Negotiation and Compromise](/)
+- [Body Language Analysis](/)
+- [Social Engineering](/)
+- [Lie Detection](/)
+- [Investigation](/)
+- [In Home Caretaker](/)<br>
 
 <b>Animal Training And Boarding</b>
-- [Dog Behavior Training]
-- [Dog Boarding]
-- [Dog Grooming]
-- [Cat Boarding]<br>
-
-Photography
+- [Dog Behavior Training](/)
+- [Dog Boarding](/)
+- [Dog Grooming](/)
+- [Cat Boarding](/)
+- [In Home Animal Sitting](/)<br>
 
 - [Medium](https://www.medium.com/)
 - [Quora](https://www.quora.com)
@@ -737,17 +716,6 @@ Photography
 - [Meetup](https://www.meetup.com/)
 - [EventBrite](https://www.evenbrite.com/)<br>
 
-<b>Markets To Offer Skillsets</b>
-Physical
-- [LetGo](https://www.letgo.com/)
-- [OfferUp](https://www.offerup.com/)
-- [WordPress](https://www.Wordpress.com/)
-- [Craigslist](https://www.craigslist.com/)<br>
-
-Digital
-[Odesk](https://www.odesk.com/)
-[Elance](https://www.elance.com/)
-
 <b>Antivirus And Antimalware Software<b>
 - [Norton Antivirus](https://us.norton.com/antivirus)
 - [Lavasoft Zone Alarm](https://www.zonealarm.com/)
@@ -755,38 +723,28 @@ Digital
 - [Malwarebytes](https://www.malwarebytes.com/)
 - [Spybot Search And Destroy](https://www.safer-networking.org/compare-spybot-editions/)<br>
 
-<b>Map Software</b>
-- [Google Maps](https://www./)
-- [Waze](https://www./)<br>
-
 <b>Review Writing</b>
 - [Amazon Resellers](https://www./)
-- Blogs
-- Business Websites
-- Personal Recommendations
+- [Blogs](/)
+- [Business Websites](/)
+- [Personal Recommendations](/)
 - [Yelp](https://www.yelp.com/)
 - [Trip Advisor](https://www.tripadvisor.com/)<br>
+
+
+
+
 
 - [Google Play Store](https://play.google.com/store?hl=en)
 - [IFTTT](https://ifttt.com/)
 - [Square](https://www./)
 - [Reddit](https://www.reddit.com/)
-- [MegaDownload](Megandowload.com)
-- [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service)
 - [Adobe Acrobat Reader](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
-
-[Weight Management]()
-[weight cutting via water and calories]
-- [Wet Sauna]()
-- [Dry Sauna]()
-
-copy and paste all of the indeed skills
-update text descriptions of the jobs from the indeed edits
-
-[Smart TV Setup]()
-[Home Theater Installation]()
-[Surround Sound Speaker Installation]()
-[Concrete]()
-[Mixing Mud]()
-[Pouring Mud]()
-[Painting](https://en.wikipedia.org/wiki/House_painter_and_decorator)
+- [Weight Management](/)
+- [Smart TV Setup](/)
+- [Home Theater Installation](/)
+- [Surround Sound Speaker Installation](/)
+- [Concrete](/)
+- [Mixing Mud](/)
+- [Pouring Mud](/)
+- [Painting](https://en.wikipedia.org/wiki/House_painter_and_decorator)
