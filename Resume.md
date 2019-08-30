@@ -11,37 +11,36 @@ layout: default
 <center>[Desired Skills](#Desired Skills)<br></center>
 <center>[Top Of Page](#Top)<br></center>
 
-[RSS](https://en.wikipedia.org/wiki/RSS)
-[Natural Readers](https://www.naturalreaders.com/)
 https://www.dragonyouthfootball.net/page/show/3312857-dragon-youth-football-camp-powered-by-fasst-performance
-https://www.youtube.com/watch?v=icsLCkkPfic
 
 [Greg McElroy](/)<br>
 [Riley Dodge](https://www.dragonyouthfootball.net/page/show/3312854-dragon-football-camps-by-coach-dodge)
-[Dragon Maker](https://www.youtube.com/watch?v=CDREf79kd_0)
-[Carroll Dragon Workout](https://www.youtube.com/watch?v=icsLCkkPfic)<br>
+
 
 [Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)
 [College For Kids](https://www.tccd.edu/academics/cie/lifelong-learning/youth-programs/college-for-kids/)<br>
-[UNT Soccer Camp](https://www.meangreensoccercamps.com/)
+[University of North Texas Soccer Camp](https://www.meangreensoccercamps.com/)
 [Carroll Ice Hockey Camp](https://www.southlakehockey.com/)<br>
-[Kru Ty Pilgrim Boxing Camp](https://www.muskogeephoenix.com/sports/muay-thai-means-my-time-for-local-pair/article_3355684e-b424-500b-aef5-6ccd39c24c87.html)<br>
+[Khru Ty Pilgrim Boxing Camp](https://www.muskogeephoenix.com/sports/muay-thai-means-my-time-for-local-pair/article_3355684e-b424-500b-aef5-6ccd39c24c87.html)<br>
 [Diaz Martial Arts Combat Shooting Course](http://diazma.com/)<br>
 [Performance Course](https://www.performancecourse.com/)<br>
 
 [Gram Staining](/)<br>
 [Microscope](/)<br>
 
+* * *
 ## <b><u><center>Sean Mills</b></u></center>
-<center>[Download A More Detailed Copy of My Resume](Sean-Mills.pdf)</center>
-<center>[Email: mills321@gmail.com](mailto:mills321@gmail.com)</center>
+<center>[Download My Resume](Sean-Mills.pdf)</center>
+<center>[Email: seanmills@protonmail.com](mailto:seanmills@protonmail.com)</center>
 <center>[Skype: mills3211](<a href="skype:mills3211?call">Call Me</a>)</center><br>
+
 * * *
 ### <u><b><center>Education</u></b></center><br>
-<b>[Oklahoma State University, Stillwater, Oklahoma](http://okstate.edu)</b><br>
+<b>[Carroll High School, Southlake, Texas - 2002 - 2006](https://en.wikipedia.org/wiki/Carroll_Senior_High_School)</b><br>
+<b>[Oklahoma State University, Stillwater, Oklahoma - 2006 - 2010](http://okstate.edu)</b><br>
 - [B.A. Philosophy 2010](http://philosophy.okstate.edu/)<br>
 - [B.A. Psychology 2010](http://psychology.okstate.edu/)<br>
-- [Dean's Honor Roll:](https://news.okstate.edu/honor-roll.html)
+- [Dean's Honor Roll](https://news.okstate.edu/honor-roll.html)
  - [Fall 2008](/)
  - [Spring 2009](/)
 - 3.5 Grade Point Average<br>
@@ -109,7 +108,7 @@ Web Developer, And Customer Resource Management<br>
 [General Richard Marshburn, USAF](/) - Logistics<br>
 
 <center><b><u>Hospitality</b></u></center><br>
-[Adam Higdon - Manager Gumby's Pizza](/)<br>
+[Adam Higdon - Manager Gumby's Pizza](http://www.gumbyspizza.com/)<br>
 
 <center><b><u>Construction</u></b></u></center><br>
 [Earl Williams](/) - Earl Williams and Associates Remodeling<br>
@@ -150,13 +149,12 @@ Web Developer, And Customer Resource Management<br>
 - [Search Engine Optimization](https://www./)
 - [Meta Tags](https://www./)
 - [Keywords](https://www./)
+- [RSS](https://en.wikipedia.org/wiki/RSS)
 
 <b>Blockchain Social Media</b>
 - [Steemit](https://www.steemit.com/)
 - [Minds](https://www.minds.com/)
-- [DTube](https://d.tube/#!/login)
-- [BitChute](https://www.bitchute.com/)
-- [Vimm.tv](https://www.vimm.tv/)<br>
+- [BitChute](https://www.bitchute.com/)<br>
 
 <b>[Messenger Applications](/)</b>
 - [Slack](https://slack.com/)
@@ -180,47 +178,46 @@ Web Developer, And Customer Resource Management<br>
 - [Bitcoin](https://bitcoin.org/en/)
 - [Litecoin](https://litecoin.org/)
 - [Ethereum](https://ethereum.org/)
-- [Multisignature Wallet](https://en.wikipedia.org/wiki/Multisignature)
-- [Cryptocurrency Hard Wallet](www.trezor.it/)<br>
 - [MannaBase](https://mannabase.com/?ref=Pa8TfHrMM4)
 - [Shapeshift](https://shapeshift.io/#/coins)
 - [Swift](https://www.swiftdemand.com/?referred_by=ninjaz)
-- [TradeBlock](https://tradeblock.com/)
 - [Etherscan](https://etherscan.io/login)
 - [Eth Explorer](https://ethplorer.io/)
 - [Blockchain Explorer](https://www.blockchain.com/explorer)
 
 <b>Financial Skills</b>
+- [The Stock Market Game 2004 - 3rd Place](https://www.stockmarketgame.org/)
+- [Life Insurance License](https://txapps.texas.gov/NASApp/tdi/TdiARManager/)
+- [Tax Preparation Certification](https://www.irs.gov/forms-pubs/about-publication-17)
 - [Bookkeeping](https://en.wikipedia.org/wiki/Bookkeeping/)
-- [Life Insurance](https://txapps.texas.gov/NASApp/tdi/TdiARManager/)
-- [Tax Laws](https://www.irs.gov/forms-pubs/about-publication-17)
-- [Freshbooks](https://www.freshbooks.com/)<br>
+- [Technical Analysis](https://en.wikipedia.org/wiki/Technical_analysis)<br>
 
 <b>[National Forensic League](https://www.speechanddebate.org/)</b>
-- State Debate Team Champions 2006
+- [National Forensics League Texas State Champions 2006](https://www.southlakecarroll.edu/Page/350)
 - [Domestic Extemporaneous Speaking](https://en.wikipedia.org/wiki/United_States_Extemporaneous_Speaking)
 - [Foreign Extemporaneous Speaking](https://en.wikipedia.org/wiki/Foreign_Extemporaneous_Speaking)
 - [Lincoln Douglas Debate](https://en.wikipedia.org/wiki/Foreign_Extemporaneous_Speaking)
 - [Current Events Documentation](/)
 - [Speech Analysis](/)
-- [Business Dress Analysis](/)
+- [Business Attire Analysis](/)
 - [Debate Judging And Flow Analysis](/)
 - [Contention Analysis And Rebuttal](/)<br>
 
 <b>Volunteering</b>
 - [Southside Church Food Distribution](http://www.southsidecommunitycenter.org/homeless-shelter-sscc)
-- [Carroll Dragon Debate Team Judge And Event Management](/)
-- [Carroll Dragon Football Camp Assistant Coach](https://www.dragonyouthfootball.net/camps)
-- [Performance Course Assistant](https://www.performancecourse.com/)
+- [Carroll Dragon Debate Judge And Event Management](/)
+- [Carroll Dragon Football Camp Assistant Coach](https://www.dragonyouthfootball.net/camps) [1](https://www.youtube.com/watch?v=7QUxpQJA588), [2](https://www.youtube.com/watch?v=CDREf79kd_0)
+- [Performance Course Assistant](https://www.performancecourse.com/) [1](https://www.youtube.com/watch?v=j4R3JDugFjs), [2](https://www.youtube.com/watch?v=icsLCkkPfic)
 - [Morris Dido Church Event Planning And Web Development](http://didoumc.org/)
 - [Float Fest Cleanup](https://floatfest.net/help-us-help-you-to-keeptheriverclean/)
-- [San Marcos River Cleanup Day](https://www.facebook.com/GreatTexasRiverCleanUp/) 2 Years
-- [Altrusa International Silent Auction Raffle Sales](https://www.altrusa.org/) 4 Years
+- [San Marcos River Cleanup Day](https://www.facebook.com/GreatTexasRiverCleanUp/)
+- [Altrusa International Silent Auction Raffle Sales](https://www.altrusa.org/)
 
-https://en.wikipedia.org/wiki/Carroll_Senior_High_School
+
+
+[Southlake Carroll High School](https://en.wikipedia.org/wiki/Carroll_Senior_High_School)
 spelling bee 4 years
 
-[National Forensics League State Champions 2006](https://www.southlakecarroll.edu/Page/350)
 [Oklahoma State University Philosophy Club](/)
 
 [Golden Gloves](https://en.wikipedia.org/wiki/Golden_Gloves)
@@ -261,9 +258,6 @@ spelling bee 4 years
 - Sense of Humor - [Affiliative](https://www.thecut.com/article/whats-your-humor-style.html)
 Everyone's sense of humor is a mix of all four styles, but yours leans most heavily toward affiliative, meaning you're good at cracking jokes and trading banter to build connections with other people.
 
-
-[The Stock Market Game Winner 3rd Place 2004](https://www.stockmarketgame.org/)
-
 <b>Bitcoin Gambling Applications</b>
 - [Nitrogen Sports](/)
 - [Betcoin](/)
@@ -303,7 +297,13 @@ Everyone's sense of humor is a mix of all four styles, but yours leans most heav
 - [Drill](https://en.wikipedia.org/wiki/Drill)
 - [Screw Gun](https://en.wikipedia.org/wiki/Screw_gun)<br>
 
-<b>Construction And Landscaping Vehicle Knowledge</b>
+
+- [Concrete](/)
+- [Mixing Mud](/)
+- [Pouring Mud](/)
+- [Painting](https://en.wikipedia.org/wiki/House_painter_and_decorator)
+
+<b>Construction And Landscaping  Knowledge</b>
 - [Telescopic Handler](https://en.wikipedia.org/wiki/Telescopic_handler)
 - [Bobcat](https://en.wikipedia.org/wiki/Bobcat_Company)
 - [Forklift](https://en.wikipedia.org/wiki/Forklift)
@@ -314,7 +314,8 @@ Everyone's sense of humor is a mix of all four styles, but yours leans most heav
 - [Gator](https://en.wikipedia.org/wiki/John_Deere_Gator)
 - [Golf Cart](https://en.wikipedia.org/wiki/Golf_cart)
 - [Lift Table](https://en.wikipedia.org/wiki/Lift_table)
-- [Tractor](https://en.wikipedia.org/wiki/Tractor)<br>
+- [Tractor](https://en.wikipedia.org/wiki/Tractor)
+- [Trailer](https://en.wikipedia.org/wiki/Trailer_())<br>
 
 <b>ESports</b>
 - [Heroes of the Storm](https://heroesofthestorm.com/en-us/)
@@ -324,7 +325,7 @@ Everyone's sense of humor is a mix of all four styles, but yours leans most heav
 - [HearthStone](https://playhearthstone.com/en-us/)<br>
 
 <b>[Operating System](https://en.wikipedia.org/wiki/Operating_system)</b>
-- [Microsoft Windows XP, Vista, 7, 8, 10](https://en.wikipedia.org/wiki/Microsoft_Windows)
+- [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
 - [Tails](https://tails.boum.org/)
 - [Android](https://en.wikipedia.org/wiki/Android_(operating_system))<br>
 
@@ -339,25 +340,22 @@ Everyone's sense of humor is a mix of all four styles, but yours leans most heav
 - [Google AdWords](https://www./)<br>
 
 <b>Health</b>
-- Personal Training
-- Cooking
-- Herbalism
-- Survival
-- Bush Craft
-- First Aid
-- CPR
-- AED
-- Nutrition
-
-
-[Vitamins]
-[Supplementation]
-[Smoothie]
-[Recipe Construction]
-[Nutrition]
-[Exercise]
-[Fitness]
-[Flexibility]
+- [Personal Training](/)
+- [Cooking](/)
+- [Herbalism](/)
+- [Survival](/)
+- [Bush Craft](/)
+- [First Aid](/)
+- [CPR]()
+- [AED]()
+- [Vitamins]()
+- [Supplementation]()
+- [Smoothie]()
+- [Recipe Construction]()
+- [Nutrition]()
+- [Exercise]()
+- [Fitness]()
+- [Flexibility]()
 
 <b>[Supplementation]()</b>
 [Nootropics](https://en.wikipedia.org/wiki/Nootropic)
@@ -376,18 +374,17 @@ Everyone's sense of humor is a mix of all four styles, but yours leans most heav
 [Coconut Oil]()
 
 
-- [DuoLingo](/)
 - [Blogging](/)
 
 
 write a health book for kindle and website resale
 
-[Juicing]
-[Workout]
-[Excipients]
+[Juicing]()
+[Workout]()
+[Excipients]()
 [ODT training]()
 
-<b>Music</b>
+<b>Musical Skills</b>
 - [Guitar](https://en.wikipedia.org/wiki/Acoustic_guitar)
 - [Voice](https://en.wikipedia.org/wiki/Vocal_pedagogy)
 - [Guitar Tablature](https://en.wikipedia.org/wiki/Tablature)
@@ -400,10 +397,7 @@ write a health book for kindle and website resale
 - [MyEtherWallet](https://www.myetherwallet.com/)
 - [FreeWallet](/)
 - [Coinbase Wallet](/)<br>
-
-<b>BitCoin Technical Analysis Tools</b>
 - [Blockfolio](https://blockfolio.com/)
-- [Technical Analysis](https://en.wikipedia.org/wiki/Technical_analysis)
 
 <b>BitCoin Exchanges</b>
 - [Binance](https://www.binance.com/)
@@ -419,33 +413,25 @@ write a health book for kindle and website resale
 <b>Microsoft Windows System Tools</b>
 - [Windows Registry](https://en.wikipedia.org/wiki/Windows_Registry)
 - [Windows Services](https://en.wikipedia.org/wiki/Windows_service)
-- [GPedit](https://www./)
-- [Startup Edit](https://www./)
-- [Disk Defragmenter](https://www./)<br>
+- [GPedit](/)
+- [Startup Edit](/)
+- [Disk Defragmenter](/)<br>
 
 <b>General Computer Skills</b>
 - [Drive Formatting](/)
 - [Partitioning Hard Drives](/)
-- [Partition Magic](https://www./)
-- [Burning CD, DVDs, and Blu Rays](https://www./)
+- [Partition Magic](/)
+- [Burning CD, DVDs, and Blu Rays](/)
 - Hardware Installation And Troubleshooting
 - Software Installation And Troubleshooting
-- VHS to DVD Conversion
-- VHS to Blue Ray Conversion
 - Computer Maintenance<br>
 
 <b>[Networking](/)</b>
 - [Local Area Networking](/)
-- [Wifi Networks And Connectivity](/)
-- [Wifi Security](/)
+- [WIFI Networks And Connectivity](/)
+- [WIFI Security](/)
 
 <b>[Mozilla Addons](https://en.wikipedia.org/wiki/Category:Firefox_add-ons)</b>
-- [Adblock Plus](https://www./)
-- [AdBlocker Ultimate](https://addons.mozilla.org/en-US/firefox/addon/adblocker-ultimate/)
-- [adblockingfiltersetp](https://www./)
-- [Bookmark Deduplicator](https://addons.mozilla.org/en-US/firefox/addon/bookmark-dupes/)
-- [Element Hiding Helper For Adblock Plus](https://www./)
-- [Firebug](https://getfirebug.com/)
 - [Ghostery](https://www.ghostery.com/)
 - [LastPass](https://www.lastpass.com/)
 - [NoScript](https://noscript.net/)
@@ -453,8 +439,6 @@ write a health book for kindle and website resale
 - [RefControl](http://www.stardrifter.org/refcontrol/)
 - [RequestPolicy](https://www./)
 - [Tamper Data](https://www./)
-- [Video DownloadHelper](https://www./)
-- [YouTube AdBlocker](https://www./)
 - [HTTPS Everywhere](https://en.wikipedia.org/wiki/HTTPS_Everywhere)<br>
 
 <b>Media Players</b>
@@ -494,10 +478,8 @@ write a health book for kindle and website resale
 - [Jing](https://www.techsmith.com/screen-capture.html)
 - [Amazon Reseller](https://www./)
 - [NextDoor](https://nextdoor.com/)
-- [Trailer Pulling](https://www./)
 - [TeamViewer](https://www./)
 - [TeamWork](https://www.teamwork.com/)
-- [Binaural Beats](https://en.wikipedia.org/wiki/Beat_(acoustics))
 - [POP Email Accounts](/)
 
 <b>[Mozilla Products](https://support.mozilla.org/en-US/products)</b>
@@ -532,20 +514,18 @@ write a health book for kindle and website resale
 - [Tor](https://www.torproject.org/)
 - [Orbot: Proxy With TOR](https://play.google.com/store/apps/details?id=org.torproject.android)
 - [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)
-- [Virtual Private Server](/)
+- [Virtual Private Server](https://en.wikipedia.org/wiki/Virtual_private_server)
 - [Vidalia](https://en.wikipedia.org/wiki/Vidalia_(software))
 - [Onion Routing](https://en.wikipedia.org/wiki/Onion_routing)
-- [Encryption](https://en.wikipedia.org/wiki/Encryption)
-- [.onion](https://en.wikipedia.org/wiki/.onion)<br>
+- [Encryption](https://en.wikipedia.org/wiki/Encryption)<br>
 
-<b>[IP Blocking](https://www./)</b>
+<b>[IP Blocking](/)</b>
 - [PeerGuardian](http://www.phoenixlabs.org/)
 - [PeerBlock](https://peerblock.en.uptodown.com/windows)
 - [Block Lists and Black Listing](https://en.wikipedia.org/wiki/Blacklist_(computing))<br>
 
 <b>[2FA Authentication Tools](https://en.wikipedia.org/wiki/Multi-factor_authentication)</b>
 - [Authy](https://www.authy.com/)<br>
-- [Google Authenticator](https://en.wikipedia.org/wiki/Google_Authenticator), [1](https://www.google.com/landing/2step/), [2](https://support.google.com/accounts/answer/1066447?co=GENIE.Platform%3DAndroid&hl=en)<br>
 
 <b>Torrenting</b>
 - [Deluge](https://www.deluge.com/)<br>
@@ -580,8 +560,7 @@ write a health book for kindle and website resale
 - [Microsoft Publisher](https://products.office.com/en-us/publisher)
 - [Microsoft One Drive](https://products.office.com/en-us/onedrive-for-business/online-cloud-storage)
 - [Microsoft Outlook](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook)
-- [Windows Defender](https://en.wikipedia.org/wiki/Windows_Defender)
-- [Windows Media Player](/)<br>
+- [Windows Defender](https://en.wikipedia.org/wiki/Windows_Defender)<br>
 
 <b>[Google Suite And Products](https://gsuite.google.com/features/)</b>
 - [Google Suite](https://gsuite.google.com/features/)
@@ -604,7 +583,7 @@ write a health book for kindle and website resale
 - [Google Hangouts](/)
 - [Google Voice](/)<br>
 
-<b>[Typing Speed](https://www./)</b>
+<b>[Typing Speed](/)</b>
 - 263 net characters per minute which equals 53 net words per minute.<br>
 
 <b>Coding Languages</b>
@@ -625,52 +604,52 @@ write a health book for kindle and website resale
 
 #### <u><b><center>Desired Skills</u></b></center>
 <b>Transportation</b>
-1. [ ] [Pilots License](https://www./)
-1. [ ] [Motorcycle License](https://www./)
-1. [ ] [Commercial Drivers License](https://www./)
-1. [ ] [Captains License](https://www./)
-1. [ ] [Drone License](https://www./)
-1. [ ] [Skydiving License](/)
-1. [ ] [SCUBA License](/)<br>
+- [Pilots License](https://www./)
+- [Motorcycle License](https://www./)
+- [Commercial Drivers License](https://www./)
+- [Captains License](https://www./)
+- [Drone License](https://www./)
+- [Skydiving License](/)
+- [SCUBA License](/)<br>
 
 <b>Web Development</b>
-1. [ ] [Hootsuite Certifications](https://www.hootsuite.com/)
-1. [ ] [Buffer Certifications](https://www.buffer.com/)
-1. [ ] [Google AdWords](https://support.google.com/google-ads/answer/9029201?hl=en)
-1. [ ] [YouTube Certification](https://support.google.com/youtube/answer/6145895?hl=en&ref_topic=6145903)
-1. [ ] [Google Suite Training](https://gsuite.google.com/products/gsuite-training/)
-1. [ ] [HubSpot Training](https://gsuite.google.com/products/gsuite-training/)<br>
+- [Hootsuite Certifications](https://www.hootsuite.com/)
+- [Buffer Certifications](https://www.buffer.com/)
+- [Google AdWords](https://support.google.com/google-ads/answer/9029201?hl=en)
+- [YouTube Certification](https://support.google.com/youtube/answer/6145895?hl=en&ref_topic=6145903)
+- [Google Suite Training](https://gsuite.google.com/products/gsuite-training/)
+- [HubSpot Training](https://gsuite.google.com/products/gsuite-training/)<br>
 
 <b>Other</b>
-1. [ ] [Real Estate License](/)
-1. [ ] [Notary License](/)
-1. [ ] [MakerBot Certification](https://store.makerbot.com/training/makerbot-university-online/)
-1. [ ] [Welding Certification](/)
-1. [ ] [Long Range Marksmanship Certification](/)<br>
+- [Real Estate License](/)
+- [Notary License](/)
+- [MakerBot Certification](https://store.makerbot.com/training/makerbot-university-online/)
+- [Welding Certification](/)
+- [Long Range Marksmanship Certification](/)<br>
 
 * * *
 ## <u><b><center>General Goals list</u></b></center>
 Physical Endurance
-1. [ ] [Win a boxing or kickboxing title](/)
-1. [ ] [Run a marathon](/)
-1. [ ] [Participate in a triathlon](/)
-1. [ ] [Black Belt](/)<br>
+- [Win a boxing or kickboxing title](/)
+- [Run a marathon](/)
+- [Participate in a triathlon](/)
+- [Black Belt](/)<br>
 
-Visit
-1. [ ] [Himalayan Mountains](/)
-1. [ ] [Hallow Earth](/)
-1. [ ] [Northern Lights](/)
-1. [ ] [Off Planet](/)
-1. [ ] [Burning Man](/)
+Visit Before I Die
+- [Himalayan Mountains](/)
+- [Hallow Earth](/)
+- [Northern Lights](/)
+- [Off Planet](/)
+- [Burning Man](/)
 
 ## <u><b><center>Financial Goals</u></b></center>
-1. [ ] [Ability to work anywhere on the planet to earn money](/)
-1. [ ] [Create off grid housing/van house/tiny house/sustainable housing](/)
+- [Ability to work anywhere on the planet to earn money](/)
+- [Create off grid housing/van house/tiny house/sustainable housing](/)
 
 * * *
 ## <u><b><center>Purchase List</u></b></center>
-1. [Download Link To Excel Document With All Items](/)
-1. [Link To Amazon Profile With All Wish List Items](/)<br>
+- [Download Link To Excel Document With All Items](/)
+- [Link To Amazon Profile With All Wish List Items](/)<br>
 
 
 
@@ -744,7 +723,3 @@ I am familiar with a wide variety of health problems and how they physically man
 - [Smart TV Setup](/)
 - [Home Theater Installation](/)
 - [Surround Sound Speaker Installation](/)
-- [Concrete](/)
-- [Mixing Mud](/)
-- [Pouring Mud](/)
-- [Painting](https://en.wikipedia.org/wiki/House_painter_and_decorator)
