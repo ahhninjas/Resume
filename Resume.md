@@ -11,10 +11,8 @@ layout: default
 <center>[Desired Skills](#Desired Skills)<br></center>
 <center>[Top Of Page](#Top)<br></center>
 
-https://www.dragonyouthfootball.net/page/show/3312857-dragon-youth-football-camp-powered-by-fasst-performance
-
 [Greg McElroy](/)<br>
-[Riley Dodge](https://www.dragonyouthfootball.net/page/show/3312854-dragon-football-camps-by-coach-dodge)
+[Riley Dodge](https://www.dragonyouthfootball.net/page/show/3312854-dragon-football-camps-by-coach-dodge), [2](https://www.dragonyouthfootball.net/page/show/3312857-dragon-youth-football-camp-powered-by-fasst-performance)
 
 
 [Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)
@@ -23,10 +21,7 @@ https://www.dragonyouthfootball.net/page/show/3312857-dragon-youth-football-camp
 [Carroll Ice Hockey Camp](https://www.southlakehockey.com/)<br>
 [Khru Ty Pilgrim Boxing Camp](https://www.muskogeephoenix.com/sports/muay-thai-means-my-time-for-local-pair/article_3355684e-b424-500b-aef5-6ccd39c24c87.html)<br>
 [Diaz Martial Arts Combat Shooting Course](http://diazma.com/)<br>
-[Performance Course](https://www.performancecourse.com/)<br>
-
-[Gram Staining](/)<br>
-[Microscope](/)<br>
+[Performance Course](https://www.performancecourse.com/)<br>s
 
 * * *
 ## <b><u><center>Sean Mills</b></u></center>
@@ -54,9 +49,13 @@ https://www.dragonyouthfootball.net/page/show/3312857-dragon-youth-football-camp
 <u><center><b>[Universal Bit Project](/)</b></center></u><br>
 <center>May 2017 – November 2018</center><br>
 <b><center>[Uni-Wallet](/)</b></center><br>
+- A Bitcoin multichain wallet that is capable of importing and exporting private keys and hold digital assets.
 <b><center>[UniBit](http://unibit.io/)</b></center><br>
+- The Universal Basic Income cryptocurrency that our team created.
 <b><center>[Scout.Click](http://scout.click/)</b></center><br>
+- The web browser that was created to browse the internet and provide UniBit tokens for voting on web content. Similar to Brave Browser.
 <b><center>[Cryptit.io](http://Cryptit.io)</b></center><br>
+- Encryption based app that encrypts data using SHA-256 data encryption, then sends it to another user.
 
 * * *
 #### <b><u><center>Hackathon Participation</b></u></center><br>
@@ -78,9 +77,9 @@ Solution: Use of blockchain for a voting application.<br>
 Application Name: [Rock The Poll](http://rockthepoll.com)<br>
 Feb 2018<br>
 [Capital Factory, Austin, Texas](https://www.capitalfactory.com)<br>
-The following links are to the solution that was developed for Amazon Web Services and USAA. Each team only had twenty four hours to build their solution. The application is now being considered as the new music tabulation software of the Rock and Roll Hall of Fame and South By Southwest<br>
-- [SXSW Hackathon: Pictures Of The Event](https://photos.google.com/share/AF1QipNy_yxkZhSyFSeF48Vu8E2ANVZvyt9S_zY-F0tP9ZIOlIHXEIbPQR2fAvacr5Egow?key=NHhxS3dqV1RWbGlsY2s3YVlWanc3RW5SWE95c1ZR)
-- [The Rock And Roll Poll: The Devpost Description Of Application](https://devpost.com/software/the-rock-and-roll-poll)
+The following links are to the solution that was developed for Amazon Web Services and USAA. Each team only had twenty four hours to build their solution. The application is now being considered as the new music tabulation software of the Rock and Roll Hall of Fame and South By Southwest.<br>
+- [SXSW Hackathon](https://photos.google.com/share/AF1QipNy_yxkZhSyFSeF48Vu8E2ANVZvyt9S_zY-F0tP9ZIOlIHXEIbPQR2fAvacr5Egow?key=NHhxS3dqV1RWbGlsY2s3YVlWanc3RW5SWE95c1ZR)
+- [The Rock And Roll Poll](https://devpost.com/software/the-rock-and-roll-poll)
 - [Vote Module](http://votemodule.com)
 - [Rock The Poll: Vote For Your Favorite Artist](http://www.rockthepoll.com)<br>
 * * *
@@ -122,8 +121,6 @@ Web Developer, And Customer Resource Management<br>
 
 <center><b><u>National Forensics League</b></u></center><br>
 [Dixie Waldo](https://books.google.com/books?id=AwgrpoWfJDoC&pg=PA46&lpg=PA46&dq=dixie+waldo+forensics+team&source=bl&ots=auf133AbR3&sig=ACfU3U0Gxux4RJ0cCxMQv1YCsp-ltqyC1Q&hl=en&sa=X&ved=2ahUKEwi_2dGan9_hAhUDWq0KHWwbAHwQ6AEwB3oECAgQAQ#v=onepage&q=dixie%20waldo%20forensics%20team&f=false) - Southlake Carroll Dragon Forensics Team Teacher [1](https://www.southlakecarroll.edu/Page/350)<br>
-
-[Diane Forbes](/) - Southlake Carroll Dragon Forensics Team Teacher<br>
 
 <center><b><u>Southlake Carroll Dragon Football</b></u></center><br>
 [Todd Dodge](/) - Head Coach 2006
@@ -169,18 +166,12 @@ Web Developer, And Customer Resource Management<br>
 
 <b>Payment Processors</b>
 - [PayPal](https://www.paypal.com/us/webapps/mpp/home)
-- [Western Union](https://www.westernunion.com/us/en/home.html)
-- [LocalBitcoins](https://localbitcoins.com/)
-- [Zelle](https://www.zellepay.com/)
 - [Square](https://squareup.com/us/en)<br>
+- [Western Union](https://www.westernunion.com/us/en/home.html)
 
 <b>Cryptocurrency Payments</b>
-- [Bitcoin](https://bitcoin.org/en/)
-- [Litecoin](https://litecoin.org/)
-- [Ethereum](https://ethereum.org/)
-- [MannaBase](https://mannabase.com/?ref=Pa8TfHrMM4)
+- [CoinBase](http://www.coinbase.com)
 - [Shapeshift](https://shapeshift.io/#/coins)
-- [Swift](https://www.swiftdemand.com/?referred_by=ninjaz)
 - [Etherscan](https://etherscan.io/login)
 - [Eth Explorer](https://ethplorer.io/)
 - [Blockchain Explorer](https://www.blockchain.com/explorer)
@@ -188,9 +179,9 @@ Web Developer, And Customer Resource Management<br>
 <b>Financial Skills</b>
 - [The Stock Market Game 2004 - 3rd Place](https://www.stockmarketgame.org/)
 - [Life Insurance License](https://txapps.texas.gov/NASApp/tdi/TdiARManager/)
-- [Tax Preparation Certification](https://www.irs.gov/forms-pubs/about-publication-17)
+- [Preparers Tax Identification Number](https://www.irs.gov/forms-pubs/about-publication-17)
 - [Bookkeeping](https://en.wikipedia.org/wiki/Bookkeeping/)
-- [Technical Analysis](https://en.wikipedia.org/wiki/Technical_analysis)<br>
+- [Technical Chart Analysis](https://en.wikipedia.org/wiki/Technical_analysis)<br>
 
 <b>[National Forensic League](https://www.speechanddebate.org/)</b>
 - [National Forensics League Texas State Champions 2006](https://www.southlakecarroll.edu/Page/350)
@@ -215,20 +206,15 @@ Web Developer, And Customer Resource Management<br>
 
 
 
-[Southlake Carroll High School](https://en.wikipedia.org/wiki/Carroll_Senior_High_School)
-spelling bee 4 years
 
-[Oklahoma State University Philosophy Club](/)
 
-[Golden Gloves](https://en.wikipedia.org/wiki/Golden_Gloves)
-[Amateur Cage Fights](/)
+[Oklahoma State University Philosophy Club](https://philosophy.okstate.edu/undergraduate/philosophy-club)
+
 
 <b>[Marketing](https://en.wikipedia.org/wiki/Marketing)</b>
-- [Social Media Marketing](/)
-- [Advertising](https://en.wikipedia.org/wiki/Advertising)
-- [Branding](/)
-- [Canvassing](https://en.wikipedia.org/wiki/Canvassing)
-- [Flyer Distribution](https://en.wikipedia.org/wiki/Flyer_(pamphlet)
+- [Social Media Marketing](https://en.wikipedia.org/wiki/Social_media_marketing)
+- [Advertising - B2B, Solicitation, Digital, Mailer, Guerilla Marketing](https://en.wikipedia.org/wiki/Advertising)
+- [Branding](https://en.wikipedia.org/wiki/Branding_agency)
 
 <b>Sales(https://en.wikipedia.org/wiki/Sales)</b>
 - [Cold Calling](https://en.wikipedia.org/wiki/Cold_calling/)
@@ -279,40 +265,23 @@ Everyone's sense of humor is a mix of all four styles, but yours leans most heav
 - Body Building<br>
 
 <b>Construction Tool Knowledge</b>
-- [Hammer](https://en.wikipedia.org/wiki/Hammer)
-- [Sledgehammer](https://en.wikipedia.org/wiki/Sledgehammer)
 - [Chain Saw](https://en.wikipedia.org/wiki/Chainsaw)
 - [Table Saw](https://en.wikipedia.org/wiki/Table_saw)
 - [Circular Saw](https://en.wikipedia.org/wiki/Circular_saw)
 - [Reciprocating Saw](https://en.wikipedia.org/wiki/Reciprocating_saw)
-- [Lawn Mower](https://en.wikipedia.org/wiki/Lawn_mower)
-- [Edger](https://en.wikipedia.org/wiki/Edger)
-- [Weed Eater](https://en.wikipedia.org/wiki/Weed_Eater)
-- [Caulk Gun](https://en.wikipedia.org/wiki/Caulk)
-- [Trowel](https://en.wikipedia.org/wiki/Trowel)
-- [Nail Gun](https://en.wikipedia.org/wiki/SNail_gun)
-- [Socket Wrench](https://en.wikipedia.org/wiki/Socket_wrench)
-- [Wrench](https://en.wikipedia.org/wiki/Wrench)
-- [Screwdriver](https://en.wikipedia.org/wiki/Screwdriver)
-- [Drill](https://en.wikipedia.org/wiki/Drill)
-- [Screw Gun](https://en.wikipedia.org/wiki/Screw_gun)<br>
-
+- [Nail Gun](https://en.wikipedia.org/wiki/SNail_gun)<br>
 
 - [Concrete](/)
 - [Mixing Mud](/)
 - [Pouring Mud](/)
 - [Painting](https://en.wikipedia.org/wiki/House_painter_and_decorator)
 
-<b>Construction And Landscaping  Knowledge</b>
+<b>Construction Machinery</b>
 - [Telescopic Handler](https://en.wikipedia.org/wiki/Telescopic_handler)
 - [Bobcat](https://en.wikipedia.org/wiki/Bobcat_Company)
 - [Forklift](https://en.wikipedia.org/wiki/Forklift)
 - [Loader](https://en.wikipedia.org/wiki/Loader_(equipment))
 - [Aerial Work Platform](https://en.wikipedia.org/wiki/Aerial_work_platform)
-- [Zero Turn Lawn Mower](https://en.wikipedia.org/wiki/Zero-turn_mower)
-- [Riding Lawn Mower](https://en.wikipedia.org/wiki/Riding_mower)
-- [Gator](https://en.wikipedia.org/wiki/John_Deere_Gator)
-- [Golf Cart](https://en.wikipedia.org/wiki/Golf_cart)
 - [Lift Table](https://en.wikipedia.org/wiki/Lift_table)
 - [Tractor](https://en.wikipedia.org/wiki/Tractor)
 - [Trailer](https://en.wikipedia.org/wiki/Trailer_())<br>
@@ -321,12 +290,10 @@ Everyone's sense of humor is a mix of all four styles, but yours leans most heav
 - [Heroes of the Storm](https://heroesofthestorm.com/en-us/)
 - [League Of Legends](https://play.na.leagueoflegends.com/en_US)
 - [Fortnite](https://www.epicgames.com/fortnite/en-US/buy-now/battle-royale)
-- [Overwatch](https://playoverwatch.com/en-us/)
-- [HearthStone](https://playhearthstone.com/en-us/)<br>
+- [Overwatch](https://playoverwatch.com/en-us/)<br>
 
 <b>[Operating System](https://en.wikipedia.org/wiki/Operating_system)</b>
 - [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
-- [Tails](https://tails.boum.org/)
 - [Android](https://en.wikipedia.org/wiki/Android_(operating_system))<br>
 
 <b>Social Media Management Systems</b>
@@ -356,33 +323,10 @@ Everyone's sense of humor is a mix of all four styles, but yours leans most heav
 - [Exercise]()
 - [Fitness]()
 - [Flexibility]()
-
-<b>[Supplementation]()</b>
-[Nootropics](https://en.wikipedia.org/wiki/Nootropic)
-[Apple Cider Vinegar]()
-[Baking Soda]()
-[Piracetram]()
-[Aniracetram]()
-[Racetram]()
-[Vinpocetine]()
-[Ginko Bibloa]()
-[Huperzine A]()
-[Forskolin]()
-[Cayenne]()
-[Himilayan Pink Salt]()
-[Grass Fed Meats]()
-[Coconut Oil]()
-
-
-- [Blogging](/)
-
-
-write a health book for kindle and website resale
-
-[Juicing]()
-[Workout]()
-[Excipients]()
-[ODT training]()
+- [Juicing]()
+- [Excipients]()
+- [ODT training]()
+- [Nootropics](https://en.wikipedia.org/wiki/Nootropic)
 
 <b>Musical Skills</b>
 - [Guitar](https://en.wikipedia.org/wiki/Acoustic_guitar)
@@ -393,22 +337,8 @@ write a health book for kindle and website resale
 <b>BitCoin Wallets</b>
 - [MetaMask](https://metamask.io/)
 - [Electrum](https://www./)
-- [Waves Wallet](https://waveswallet.io/)[1](https://wavesplatform.com/products-wallet)[2](https://wavesplatform.com/)
 - [MyEtherWallet](https://www.myetherwallet.com/)
-- [FreeWallet](/)
-- [Coinbase Wallet](/)<br>
 - [Blockfolio](https://blockfolio.com/)
-
-<b>BitCoin Exchanges</b>
-- [Binance](https://www.binance.com/)
-- [HitBTC](https://www.HitBTC.com/)
-- [Kukoin](https://www.kukoin.com/)
-- [Mercatox](https://www.mercatox.com/)
-- [CoinBase](https://www.coinbase.com/)
-- [Bittrex](https://www.bittrex.com/)
-- [Bitfinex](https://www.bitfinex.com/)
-- [Kracken](https://www.kracken.com/)
-- [Changelly](https://www.changelly.com/)<br>
 
 <b>Microsoft Windows System Tools</b>
 - [Windows Registry](https://en.wikipedia.org/wiki/Windows_Registry)
@@ -457,27 +387,16 @@ write a health book for kindle and website resale
 - [Feng Shui](https://en.wikipedia.org/wiki/Feng_shui)
 - [Crystals](https://en.wikipedia.org/wiki/Crystal)<br>
 
-<b>Graphic Design</b>
-- [Microsoft Paint](https://jspaint.app/#local:5e6997fc590f8) [1](https://en.wikipedia.org/wiki/Microsoft_Paint)
-- [Infogram](https://infogram.com/)<br>
-
-<b>Shipping And Receiving</b>
-
-
-
 
 
 - [Cam Studio](https://camstudio.org/)
 - [Dropbox](https://www.dropbox.com/)
-- [Pinterest](https://www.pinterest.com/)
-- [Ccleaner](https://www.ccleaner.com/)
 - [WinRAR](https://www.winrar.com/)
 - [MagicISO](https://www.magiciso.com/)
 - [Ebay](https://www.ebay.com/)
 - [Join.me](https://www.join.me/)
 - [Jing](https://www.techsmith.com/screen-capture.html)
 - [Amazon Reseller](https://www./)
-- [NextDoor](https://nextdoor.com/)
 - [TeamViewer](https://www./)
 - [TeamWork](https://www.teamwork.com/)
 - [POP Email Accounts](/)
@@ -487,18 +406,14 @@ write a health book for kindle and website resale
 - [Firefox Accounts](https://www.mozilla.org/en-US/firefox/accounts/)
 - [Firefox Sync](https://en.wikipedia.org/wiki/Firefox_Sync)
 - [Firefox Send](https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card)
-- [Firefox Lockwise](https://lockwise.firefox.com/)
-- [Firefox Notes](https://lockwise.firefox.com/)
 - [Thunderbird](https://www.thunderbird.net/)
 - [Firebug](https://web.archive.org/web/20120330103011/http://getfirebug.com/)
 
 <b>Email</b>
-- [ProtonMail](https://www.protonmail.com/)<br>
+- [ProtonMail](https://www.protonmail.com/)
+- [Gmail](http://www.gmail.com)<br>
 
 <b>Internet Browsers</b>
-- [Chromium](https://www.chromium.org/)
-- [Google Chrome](https://www.google.com/chrome/b/)
-- [Brave Browser](https://brave.com/)
 - [Tor Browser](https://2019.www.torproject.org/index.html.en)
 - [Tor Browser For Android](https://2019.www.torproject.org/docs/android.html.en), [1]((https://play.google.com/store/apps/developer?id=The+Tor+Project))
 
@@ -654,12 +569,8 @@ Visit Before I Die
 
 
 
-
-
-
-
 <b>Mental Disorders And Diseases</b><br>
-I am familiar with a wide variety of health problems and how they physically manifest in real life. I do not have
+I am familiar with a wide variety of health problems and how they physically manifest in real life.
 - [Diagnostic Statistician's Manual - DSM](/)
 - [Down Syndrome](/)
 - [Parkinson's Disease](/)
@@ -696,21 +607,16 @@ I am familiar with a wide variety of health problems and how they physically man
 - [EventBrite](https://www.evenbrite.com/)<br>
 
 <b>Antivirus And Antimalware Software<b>
-- [Norton Antivirus](https://us.norton.com/antivirus)
-- [Lavasoft Zone Alarm](https://www.zonealarm.com/)
-- [Kaspersky](https://usa.kaspersky.com/)
 - [Malwarebytes](https://www.malwarebytes.com/)
 - [Spybot Search And Destroy](https://www.safer-networking.org/compare-spybot-editions/)<br>
 
-<b>Review Writing</b>
+<b>Review Writing</b>s
 - [Amazon Resellers](https://www./)
 - [Blogs](/)
 - [Business Websites](/)
 - [Personal Recommendations](/)
 - [Yelp](https://www.yelp.com/)
 - [Trip Advisor](https://www.tripadvisor.com/)<br>
-
-
 
 
 
