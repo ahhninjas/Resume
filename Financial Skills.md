@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <b>Financial Skills</b>
 - [The Stock Market Game 2004 - 3rd Place](https://www.stockmarketgame.org/)
 - [Life Insurance License](https://txapps.texas.gov/NASApp/tdi/TdiARManager/)

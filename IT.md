@@ -1,4 +1,7 @@
-## <u><b><center>Information Technology Skills</u></b></center><br>
+---
+layout: default
+---
+### <u><b><center>Information Technology Skills</u></b></center><br>
 
 <b>Web Development Applications</b>
 - [GitHub](https://github.com/ahhninjas)

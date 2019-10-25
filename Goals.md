@@ -1,14 +1,17 @@
-## <u><b><center>Bucket List</u></b></center><br>
+---
+layout: default
+---
+### <u><b><center>Goals</u></b></center><br>
 
-#### <u><b><center>Desired Skills</u></b></center>
+## <u><b><center>Desired Skills</u></b></center><br>
 <b>Transportation</b>
-- [Pilots License](https://www./)
-- [Motorcycle License](https://www./)
-- [Commercial Drivers License](https://www./)
-- [Captains License](https://www./)
-- [Drone License](https://www./)
-- [Skydiving License](/)
-- [SCUBA License](/)<br>
+- Pilots License
+- Motorcycle License
+- Commercial Drivers License
+- Captains License
+- Drone License
+- Skydiving License
+- SCUBA License
 
 <b>Web Development</b>
 - [Hootsuite Certifications](https://www.hootsuite.com/)
@@ -28,17 +31,18 @@
 * * *
 ## <u><b><center>General Goals list</u></b></center>
 Physical Endurance
-- [Win a boxing or kickboxing title](/)
-- [Run a marathon](/)
-- [Participate in a triathlon](/)
-- [Black Belt](/)<br>
+- Win a boxing or kickboxing title
+- Run a marathon
+- Participate in a triathlon
+- Black Belt<br>
 
 Visit Before I Die
-- [Himalayan Mountains](/)
-- [Hallow Earth](/)
-- [Northern Lights](/)
-- [Off Planet](/)
-- [Burning Man](/)
+- Hallow Earth
+- Northern Lights
+- Off Planet
+- Burning Man
+- Japan
+- Antarctica
 
 ## <u><b><center>Financial Goals</u></b></center>
 - [Ability to work anywhere on the planet to earn money](/)

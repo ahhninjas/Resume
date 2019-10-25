@@ -1,45 +1,40 @@
-<b>Physical Education Coaching Skills</b>
-- Martial Arts: Boxing, Kickboxing, Krav Maga, Taekwondo
-- Football
-- Soccer
-- Hockey: Inline Or Ice
-- Ice Skating
-- Running Techniques
-- Agility Drills
-- Strength Training
-- Conditioning Training
-- Flexibility
-- Olympic Lifting Techniques - Bench Press, Squat, Dead Lift, Hang Clean
-- Power Lifting
-- Body Building<br>
+---
+layout: default
+---
+### <u><b><center>Health And Fitness Skills</u></b></center><br>
+<b>Physical Education Coaching Skills</b><br>
+I can coach individuals in any age group techniques in the following areas.<br>
+
+Sport Specific Skills<br>
+ - Martial Arts
+ - Football
+ - Soccer
+ - Hockey<br>
+
+Overall Sport Skills<br>
+ - Running And Agility
+ - Strength And Conditioning Training
+ - Flexibility Enhancement
+ - Olympic And Power Lifting Training
+ - Oxygen Deprivation Training<br>
 
 
+ Nutrition
+ - Vitamin Supplementation
+ - Food Supplementation
+ - Recipe Construction
+ - Smoothie
+ - Juicing
+ - [Excipient Identification](/)
+ - [Nootropic Supplementation](https://en.wikipedia.org/wiki/Nootropic)
+ - [Cooking Skills](/)
+ - [Herbalism](/)<br>
 
-<b>Health</b>
-- [Personal Training](/)
-- [Cooking](/)
-- [Herbalism](/)
-- [Survival](/)
-- [Bush Craft](/)
+
+<b>Medical</b><br>
 - [First Aid](/)
-- [CPR]()
-- [AED]()
-- [Vitamins]()
-- [Supplementation]()
-- [Smoothie]()
-- [Recipe Construction]()
-- [Nutrition]()
-- [Exercise]()
-- [Fitness]()
-- [Flexibility]()
-- [Juicing]()
-- [Excipients]()
-- [ODT training]()
-- [Nootropics](https://en.wikipedia.org/wiki/Nootropic)
-
-
-
-
+- [CPR](/)
+- [AED](/)
 
 <b>Mental Disorders And Diseases</b><br>
 I am familiar with a wide variety of health problems and how they physically manifest in real life.
@@ -59,7 +54,6 @@ I am familiar with a wide variety of health problems and how they physically man
 - [Neuro Linguistic Processing (NLP)](/)
 - [Negotiation and Compromise](/)
 - [Body Language Analysis](/)
-- [Social Engineering](/)
 - [Lie Detection](/)
 - [Investigation](/)
 - [In Home Caretaker](/)<br>

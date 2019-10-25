@@ -1,3 +1,7 @@
+---
+layout: default
+---
+###
 <b>Construction Machinery</b>
 - [Telescopic Handler](https://en.wikipedia.org/wiki/Telescopic_handler)
 - [Bobcat](https://en.wikipedia.org/wiki/Bobcat_Company)
