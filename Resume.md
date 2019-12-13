@@ -1,6 +1,12 @@
 ---
 layout: default
 ---
+<header>
+<div id="logo"></div>
+<ul class="nav_menu">
+
+</header>
+
 ### <b><u><center>Table of Contents</b></u></center>
 <center>[Education](#Education)<br></center>
 <center>[Experience](#Experience)<br></center>
@@ -12,24 +18,39 @@ layout: default
 <center>[Top Of Page](#Top)<br></center>
 
 
-[Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)
-[College For Kids](https://www.tccd.edu/academics/cie/lifelong-learning/youth-programs/college-for-kids/)<br>
-[University of North Texas Soccer Camp](https://www.meangreensoccercamps.com/)
-[Carroll Ice Hockey Camp](https://www.southlakehockey.com/)<br>
-[Khru Ty Pilgrim Boxing Camp](https://www.muskogeephoenix.com/sports/muay-thai-means-my-time-for-local-pair/article_3355684e-b424-500b-aef5-6ccd39c24c87.html)<br>
-[Diaz Martial Arts Combat Shooting Course](http://diazma.com/)<br>
-[Performance Course](https://www.performancecourse.com/)<br>s
+<div id="Experience">
+</div>
+<div id="Hackathon">
+</div>
+<div id="References">
+</div>
+<div id="Bucket List">
+</div>
+<div id="Desired Skills">
+</div>
+<div id="Top Of Page">
+</div>
+
+<a href="Education">Education</a><br>
+<a href="Experience">Experience</a><br>
+<a href="Hackathon">Hackathon</a><br>
+<a href="References">References</a><br>
+<a href="Bucket List">Bucket List</a><br>
+<a href="Desired Skills">Desired Skills</a><br>
+<a href="Top of Page">Top of Page/a><br>
 
 * * *
+
 ## <b><u><center>Sean Mills</b></u></center>
 <center>[Download My Resume](Sean-Mills.pdf)</center>
 <center>[Email: seanmills@protonmail.com](mailto:seanmills@protonmail.com)</center>
-
-<center>[PGP Key](mailto:seanmills@protonmail.com)</center>
-<center>[Skype: ](<a href="skype:mills3211?call">Call Me</a>)</center><br>
+<center>[PGP Key]()</center>
+<center>[Skype: ](<a href="skype:(USERNAME)?call">Call Me</a>)</center><br>
 
 * * *
-### <u><b><center>Education</u></b></center><br>
+
+<div id="Education">
+### <u><b><center>Education</u></b></center>
 <b>[Carroll High School, Southlake, Texas - 2002 - 2006](https://en.wikipedia.org/wiki/Carroll_Senior_High_School)</b><br>
 <b>[Oklahoma State University, Stillwater, Oklahoma - 2006 - 2010](http://okstate.edu)</b><br>
 - [B.A. Philosophy 2010](http://philosophy.okstate.edu/)<br>
@@ -41,11 +62,12 @@ layout: default
 
 <b>[United States Air Force ROTC Detachment 670, Stillwater, Oklahoma 2009](https://afrotc.okstate.edu/)<br>
 - Honorable Discharge<br>
+</div>
 
 * * *
 ### <u><b><center>Experience</u></b></center>
-#### <u><b><center>Web Developer</u></b></center><br>
-<u><center><b>[Universal Bit Project](/)</b></center></u><br>
+#### <u><b><center>Web Developer</u></b></center>
+<u><center><b>[Universal Bit Project](/)</b></center></u>
 <center>May 2017 – November 2018</center><br>
 <b><center>[Uni-Wallet](/)</b></center><br>
 - A Bitcoin multichain wallet that is capable of importing and exporting private keys and hold digital assets.
@@ -129,18 +151,6 @@ Web Developer, And Customer Resource Management<br>
 - [Greg McElroy](/)<br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <b>[National Forensic League](https://www.speechanddebate.org/)</b>
 - [National Forensics League Texas State Champions 2006](https://www.southlakecarroll.edu/Page/350)
 - [Domestic Extemporaneous Speaking](https://en.wikipedia.org/wiki/United_States_Extemporaneous_Speaking)
@@ -168,9 +178,8 @@ Web Developer, And Customer Resource Management<br>
 <b>[Marketing](https://en.wikipedia.org/wiki/Marketing)</b>
 - [Social Media Marketing](https://en.wikipedia.org/wiki/Social_media_marketing)
 - [Advertising - B2B, Solicitation, Digital, Mailer, Guerilla Marketing](https://en.wikipedia.org/wiki/Advertising)
-- [Branding](https://en.wikipedia.org/wiki/Branding_agency)
 
-<b>Sales(https://en.wikipedia.org/wiki/Sales)</b>
+<b>Sales Skills(https://en.wikipedia.org/wiki/Sales)</b>
 - [Cold Calling](https://en.wikipedia.org/wiki/Cold_calling/)
 - [Multi Level Marketing](https://en.wikipedia.org/wiki/Multi-level_marketing)
 - [Farm Stand Sales](https://en.wikipedia.org/wiki/Farm_shop)
@@ -180,7 +189,6 @@ Web Developer, And Customer Resource Management<br>
 
 <b>[Product Sales And Distribution](https://en.wikipedia.org/wiki/Goods_and_services)</b>
 - [Garage and Estate Sales](https://www.gsalr.com)
-- [Etsy](https://www.etsy.com/)
 - [OfferUp](https://www.offerup.com)
 - [LetGo](https://www.letgo.com)
 - [Craigslist](https://www.craigslist.org/about/sites)<br>
@@ -238,14 +246,10 @@ Web Developer, And Customer Resource Management<br>
 - [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)
 - [Virtual Private Server](https://en.wikipedia.org/wiki/Virtual_private_server)
 - [Onion Routing](https://en.wikipedia.org/wiki/Onion_routing)
-- [Encryption](https://en.wikipedia.org/wiki/Encryption)<br>
-
-<b>[IP Blocking](/)</b>
 - [PeerGuardian](http://www.phoenixlabs.org/)
 - [PeerBlock](https://peerblock.en.uptodown.com/windows)
 - [Block Lists and Black Listing](https://en.wikipedia.org/wiki/Blacklist_(computing))<br>
-
-<b>[2FA Authentication Tools](https://en.wikipedia.org/wiki/Multi-factor_authentication)</b>
+- [Multifactor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)</b>
 - [Authy](https://www.authy.com/)<br>
 
 <b>Torrenting</b>
@@ -255,31 +259,28 @@ Web Developer, And Customer Resource Management<br>
 <b>Mining</b>
 - [NiceHash Miner](www.nicehash.com/)
 - [MinerGate](http://bit.ly/Miner_GateX/)
-- [ETHos](https://www.ethos.io/)
-- [GPU Mining](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units)
 - [Mining Pools](https://en.wikipedia.org/wiki/Mining_pool)
 - [Cloud Mining](https://en.wikipedia.org/wiki/Cloud_mining)<br>
 
 <b>Streaming</b>
-- [StreamLabs Open Broadcasting Software](https://www.streamlabs.com/)
+- [StreamLabs](https://www.streamlabs.com/)
 - [Twitch](https://www.twitch.com/)
-- [Mixer](https://www.mixer.com/)
 - [YouTube](https://www.youtube.com/)
-- [Open Broadcasting Software Studio](https://obsproject.com/)<br>
-
-<b>Customer Resource Management</b>
-- [Infusionsoft](https://keap.com/infusionsoft)
-- [MailChimp](https://mailchimp.com/)<br>
-
-
 
 <b>Spanish Proficiency</b><br>
 - Intermediate Proficiency: 10+ Years Without Complete Immersion<br>
 
+Sport Skills<br>
+[Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)<br>
+[College For Kids](https://www.tccd.edu/academics/cie/lifelong-learning/youth-programs/college-for-kids/)<br>
+[University of North Texas Soccer Camp](https://www.meangreensoccercamps.com/)<br>
+[Carroll Ice Hockey Camp](https://www.southlakehockey.com/)<br>
+[Khru Ty Pilgrim Boxing Camp](https://www.muskogeephoenix.com/sports/muay-thai-means-my-time-for-local-pair/article_3355684e-b424-500b-aef5-6ccd39c24c87.html)<br>
+[Diaz Martial Arts Combat Shooting Course](http://diazma.com/)<br>
+[Performance Course](https://www.performancecourse.com/)<br>
+
+
 * * *
-
-
-
 <b>Animal Training And Boarding</b>
 - [Dog Behavior Training](/)
 - [Dog Boarding](/)
@@ -305,11 +306,15 @@ Web Developer, And Customer Resource Management<br>
 - [Home Theater Installation](/)
 - [Surround Sound Speaker Installation](/)
 
-
+add my pgp key to download on my registry
 publish my public PGP key on my github page
 add law offices of zoe courtney
 add technical writing to skillset
-add try my ui as a skillset
 
-User Testing
-Try My User Interface
+[TryMyUI](https://www.trymyui.com/)
+[User Testing](https://www.usertesting.com/)
+[Law Offices Of Zoe Courtney]()
+
+
+
+<footer></footer>
