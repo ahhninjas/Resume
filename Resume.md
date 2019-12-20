@@ -1,12 +1,12 @@
 ---
 layout: default
 ---
-<header>
-<div id="logo"></div>
-<ul class="nav_menu">
-
-</header>
-
+<div id="Top Of Page">
+</div>
+<header></header>
+<div id="resume"></div>
+<ul class="nav_menu"><br>
+</div>
 ### <b><u><center>Table of Contents</b></u></center>
 <center>[Education](#Education)<br></center>
 <center>[Experience](#Experience)<br></center>
@@ -15,21 +15,6 @@ layout: default
 <center>[Bucket List](#Bucket List)<br></center>
 <center>[Skills](#Skills)<br></center>
 <center>[Desired Skills](#Desired Skills)<br></center>
-<center>[Top Of Page](#Top)<br></center>
-
-
-<div id="Experience">
-</div>
-<div id="Hackathon">
-</div>
-<div id="References">
-</div>
-<div id="Bucket List">
-</div>
-<div id="Desired Skills">
-</div>
-<div id="Top Of Page">
-</div>
 
 <a href="Education">Education</a><br>
 <a href="Experience">Experience</a><br>
@@ -65,6 +50,7 @@ layout: default
 </div>
 
 * * *
+<div id="Experience">
 ### <u><b><center>Experience</u></b></center>
 #### <u><b><center>Web Developer</u></b></center>
 <u><center><b>[Universal Bit Project](/)</b></center></u>
@@ -77,8 +63,10 @@ layout: default
 - The web browser that was created to browse the internet and provide UniBit tokens for voting on web content. Similar to Brave Browser.
 <b><center>[Cryptit.io](http://Cryptit.io)</b></center><br>
 - Encryption based app that encrypts data using SHA-256 data encryption, then sends it to another user.
+</div>
 
 * * *
+<div id="Hackathon">
 #### <b><u><center>Hackathon Participation</b></u></center><br>
 <b><center><u>Factom Hackathon</u></b></center><br>
 Participant<br>
@@ -90,6 +78,7 @@ Media Coverage<br>
 - [Austin Tech Live](https://www.facebook.com/austintechlive/videos/1932585736786554/)<br>
 - [Capital Factory](https://www.capitalfactory.com/event/factom-blockchain-hackathon/)<br>
 - [Factom](https://www.factom.com/blog/factom-hackathon-recap)<br>
+</div>
 
 * * *  
 <u><b><center>South By Southwest Hackathon 2018</u></b></center><br>
@@ -110,46 +99,6 @@ Web Developer<br>
 Web Developer, And Customer Resource Management<br>
 [Insightful Automation](http://www.InsightfulAutomation.com)<br>
 * * *
-
-
-## <u><b><center>References</b></u></center><br>
-<center><b><u>[Philosophy](http://philosophy.okstate.edu/people/faculty)</b></u></center><br>
-[Marty Heitz, Ph.D.](http://philosophy.okstate.edu/people/faculty/20-faculty-directory/22-marty-heitz)<br>
-[Rebecca Bensen Cain, Ph.D.](http://philosophy.okstate.edu/people/faculty/20-faculty-directory/19-rebecca-bensen-cain)<br>
-
-<center><b><u>[Psychology](http://psychology.okstate.edu/people-list/faculty)</b></u></center><br>
-[Celinda Reese-Melancon, Ph.D.](https://www.memoryandcognitiveaginglab.com/)<br>
-[Charles Abramson Ph.D.](http://charlesabramson.wixsite.com/abramsonlab/principle-investigator)<br>
-[John Chaney Ph.D.](http://pedsbehavioralhealth.wixsite.com/osu-ppbh-lab)<br>
-[Shelia Kennison, Ph.D.](http://sheliakennison.wixsite.com/cognitivesciencelab)<br>
-[Maureen Sullivan, Ph.D.](https://childbehaviorlab.weebly.com/)<br>
-[Paul Hansmann, Ph.D.](/)<br>
-
-<center><b><u>United States Air Force</b></u></center><br>
-[Major Andrew Clower, USAF](/) - Missile Operations<br>
-[General Richard Marshburn, USAF](/) - Logistics<br>
-
-<center><b><u>Hospitality</b></u></center><br>
-[Adam Higdon - Manager Gumby's Pizza](http://www.gumbyspizza.com/)<br>
-
-<center><b><u>Construction</u></b></u></center><br>
-[Earl Williams](/) - Earl Williams and Associates Remodeling<br>
-[Karl Stefansson](blindandshutterguys.com/) - Entrepreneur owner of Blind and Shutter Guys<br>
-
-<center><b><u>Music</b></u></center><br>
-[David Hall](http://hallmusicproductions.com/) - Owner and Maestro of Hall Music Productions<br>
-
-<center><b><u>Computer Science</b></u></center><br>
-[Roy Hodge](https://royhodge.github.io) - Certified Bitcoin Professional and Blockchain Developer<br>
-
-<center><b><u>National Forensics League</b></u></center><br>
-[Dixie Waldo](https://books.google.com/books?id=AwgrpoWfJDoC&pg=PA46&lpg=PA46&dq=dixie+waldo+forensics+team&source=bl&ots=auf133AbR3&sig=ACfU3U0Gxux4RJ0cCxMQv1YCsp-ltqyC1Q&hl=en&sa=X&ved=2ahUKEwi_2dGan9_hAhUDWq0KHWwbAHwQ6AEwB3oECAgQAQ#v=onepage&q=dixie%20waldo%20forensics%20team&f=false) - Southlake Carroll Dragon Forensics Team Teacher [1](https://www.southlakecarroll.edu/Page/350)<br>
-
-<center><b><u>Southlake Carroll Dragon Football</b></u></center><br>
-- [Todd Dodge](/) - Head Coach 2006
-- [Riley Dodge](https://www.dragonyouthfootball.net/page/show/3312854-dragon-football-camps-by-coach-dodge), [2](https://www.dragonyouthfootball.net/page/show/3312857-dragon-youth-football-camp-powered-by-fasst-performance)
-- [Greg McElroy](/)<br>
-
 
 <b>[National Forensic League](https://www.speechanddebate.org/)</b>
 - [National Forensics League Texas State Champions 2006](https://www.southlakecarroll.edu/Page/350)
@@ -308,13 +257,9 @@ Sport Skills<br>
 
 add my pgp key to download on my registry
 publish my public PGP key on my github page
-add law offices of zoe courtney
 add technical writing to skillset
 
 [TryMyUI](https://www.trymyui.com/)
 [User Testing](https://www.usertesting.com/)
-[Law Offices Of Zoe Courtney]()
 
-
-
-<footer></footer>
+<footer><center>[Top Of Page](#Top)<br></center></footer>

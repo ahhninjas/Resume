@@ -1,8 +1,11 @@
 ---
 layout: default
 ---
-###
-<b>Construction Machinery</b>
+<header></header><br>
+<div id="health">
+<ul class="nav_menu"><br>
+</div>
+###<b>Construction Machinery</b>
 - [Telescopic Handler](https://en.wikipedia.org/wiki/Telescopic_handler)
 - [Bobcat](https://en.wikipedia.org/wiki/Bobcat_Company)
 - [Forklift](https://en.wikipedia.org/wiki/Forklift)
@@ -23,3 +26,5 @@ layout: default
 - [Mixing Mud](/)
 - [Pouring Mud](/)
 - [Painting](https://en.wikipedia.org/wiki/House_painter_and_decorator)
+
+<footer><center>[Top Of Page](#Top)<br></center></footer>

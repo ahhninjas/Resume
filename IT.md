@@ -1,27 +1,29 @@
 ---
 layout: default
 ---
+<header></header><br>
+<div id="it">
+<ul class="nav_menu"><br>
+</div>
 ### <u><b><center>Information Technology Skills</u></b></center><br>
-
 <b>Web Development Applications</b>
 - [GitHub](https://github.com/ahhninjas)
 - [GitPitch](https://gitpitch.com/)
 - [Atom](https://atom.io/)
 - [WordPress](https://wordpress.com/)
+
+<b>Hosting</b>
 - [Bluehost](https://www.bluehost.com/)<br>
 
 <b>Coding Languages</b>
 - [C++](https://en.wikipedia.org/wiki/C%2B%2B), [1](http://catalog.okstate.edu/search/?P=CS%201113)) - Novice
 - [HTML](https://en.wikipedia.org/wiki/HTML) - Advanced
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Advanced
-- [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Markdown](https://www.markdownguide.org/) - Expert
 - [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [1](http://catalog.okstate.edu/search/?P=CS%201113) - Novice<br>
 
 <b>[Microsoft Suite Products, and Windows System Tools](https://products.office.com/en-us/products)</b>
 - [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
-- [Microsoft Internet Explorer](https://www.microsoft.com/en-us/download/internet-explorer.aspx)
-- [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)
 - [Microsoft Windows Media Player](https://www.microsoft.com/en-us/download/windows-media-player-details.aspx)
 - [Microsoft Word](https://products.office.com/en-us/word)
 - [Microsoft Excel](https://products.office.com/en-us/excel)
@@ -32,7 +34,7 @@ layout: default
 - [Windows Defender](https://en.wikipedia.org/wiki/Windows_Defender)<br>
 - [Windows Registry](https://en.wikipedia.org/wiki/Windows_Registry)
 - [Windows Services](https://en.wikipedia.org/wiki/Windows_service)
-- [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS)
+- [MS-DOS Prompt](https://en.wikipedia.org/wiki/MS-DOS)
 - [GPedit](/)
 - [Startup Edit](/)
 - [Disk Defragmenter](/)<br>
@@ -72,24 +74,22 @@ layout: default
 - [BitChute](https://www.bitchute.com/)<br>
 
 <b>[Messenger Applications](/)</b>
-- [Slack](https://slack.com/)
-- [Discord](https://discordapp.com/)
 - [Telegram](https://telegram.org/)
 - [Signal](https://signal.org/)
 - [Wickr.Me](https://wickr.com/home/)
 - [Skype](https://www.skype.com/en/)
-- [SnapChat](https://www.snapchat.com/)
+- [SnapChat](https://www.snapchat.com/)<br>
+
+<b>Group Meeting Applications</b>
+- [Slack](https://slack.com/)
+- [Discord](https://discordapp.com/)
 - [GoToMeeting](https://www.gotomeeting.com/)<br>
 
 <b>General Computer Skills</b>
 - [Drive Formatting](/)
-- [Partitioning Hard Drives](/)
 - [Partition Magic](/)
 - [Burning CD, DVDs, and Blu Rays](/)
 - Hardware Installation, Maintenance and Troubleshooting
-- Software Installation, maintenance and Troubleshooting
-- Hardware Maintenance
-- Software Maintenance>
 
 <b>[Networking](/)</b>
 - [Local Area Networking](/)
@@ -108,13 +108,4 @@ layout: default
 
 
 - [K-Lite Codec Pack](/)
-- [Phishing](https://en.wikipedia.org/wiki/)
-- [Clickbait](https://en.wikipedia.org/wiki/Clickbait)
-- [Trojan Horse](https://en.wikipedia.org/wiki/Trojan_horse_(computing))
-- [Driver Installation And Update](https://en.wikipedia.org/wiki/Device_driver)
-- [Smartphone](https://en.wikipedia.org/wiki/Smartphone)
-
-
-[Search Engine Optimization](https://www./)
-- [Meta Tags](https://www./)
-- [RSS](https://en.wikipedia.org/wiki/RSS)
+<footer><center>[Top Of Page](#Top)<br></center></footer>

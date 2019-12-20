@@ -1,8 +1,12 @@
 ---
 layout: default
 ---
-### <u><b><center>Goals</u></b></center><br>
+<header>Goals</header><br>
+<div id="health">
+<ul class="nav_menu"><br>
+</div>
 
+### <u><b><center>Goals</u></b></center><br>
 ## <u><b><center>Desired Skills</u></b></center><br>
 <b>Transportation</b>
 - Pilots License
@@ -52,3 +56,5 @@ Visit Before I Die
 ## <u><b><center>Purchase List</u></b></center>
 - [Download Link To Excel Document With All Items](/)
 - [Link To Amazon Profile With All Wish List Items](/)<br>
+
+<footer><center>[Top Of Page](#Top)<br></center></footer>
