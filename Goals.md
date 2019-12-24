@@ -2,8 +2,14 @@
 layout: default
 ---
 <header>Goals</header><br>
-<div id="health">
-<ul class="nav_menu"><br>
+<div id="goals">
+<ul class="nav_menu">
+- Construction
+- Financial
+- Health and Fitness
+- IT
+- References
+- Resume<br>
 </div>
 
 ### <u><b><center>Goals</u></b></center><br>
@@ -26,8 +32,8 @@ layout: default
 - [HubSpot Training](https://gsuite.google.com/products/gsuite-training/)<br>
 
 <b>Other</b>
-- [Real Estate License](/)
 - [Notary License](/)
+- [Real Estate License](/)
 - [MakerBot Certification](https://store.makerbot.com/training/makerbot-university-online/)
 - [Welding Certification](/)
 - [Long Range Marksmanship Certification](/)<br>
@@ -35,12 +41,13 @@ layout: default
 * * *
 ## <u><b><center>General Goals list</u></b></center>
 Physical Endurance
-- Win a boxing or kickboxing title
+- Win a boxing title
+- Win a kickboxing title
 - Run a marathon
 - Participate in a triathlon
 - Black Belt<br>
 
-Visit Before I Die
+Visit Before I Die:
 - Hallow Earth
 - Northern Lights
 - Off Planet

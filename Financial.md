@@ -1,10 +1,15 @@
 ---
 layout: default
 ---
-<div id="Financial">
-<header><center>Financial Skills</center></header><br>
-<ul class="nav_menu"><br>
-</header>
+<header>Finance</header><br>
+<div id="financial">
+<ul class="nav_menu">
+- Construction()
+- Goals()
+- Health and Fitness()
+- IT()
+- References()
+- Resume()<br>
 </div>
 
 <b>Financial Skills</b>
