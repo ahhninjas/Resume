@@ -1,8 +1,13 @@
 ---
 layout: default
 ---
+<header></header>
+<div id="top">
+</div>
+<div id="desiredskillss">
+</div>
 ### <u><b><center>Goals</u></b></center><br>
-<div id desiredskills"
+
 ## <u><b><center>Desired Skills</u></b></center><br>
 <b>Transportation</b>
 - Pilots License

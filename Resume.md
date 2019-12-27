@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+<header></header>
+<div id="top"
+</div>
+<div id="toc"
 ### <b><u><center>Table of Contents</b></u></center>
 <center>[Education](#Education)<br></center>
 <center>[Experience](#Experience)<br></center>
@@ -10,7 +14,7 @@ layout: default
 <center>[Skills](#Skills)<br></center>
 <center>[Desired Skills](#Desired Skills)<br></center>
 <center>[Top Of Page](#Top)<br></center>
-
+</div>
 
 [Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)
 [College For Kids](https://www.tccd.edu/academics/cie/lifelong-learning/youth-programs/college-for-kids/)<br>
@@ -29,6 +33,7 @@ layout: default
 <center>[Skype: ](<a href="skype:mills3211?call">Call Me</a>)</center><br>
 
 * * *
+<div id="education">
 ### <u><b><center>Education</u></b></center><br>
 <b>[Carroll High School, Southlake, Texas - 2002 - 2006](https://en.wikipedia.org/wiki/Carroll_Senior_High_School)</b><br>
 <b>[Oklahoma State University, Stillwater, Oklahoma - 2006 - 2010](http://okstate.edu)</b><br>
@@ -41,8 +46,9 @@ layout: default
 
 <b>[United States Air Force ROTC Detachment 670, Stillwater, Oklahoma 2009](https://afrotc.okstate.edu/)<br>
 - Honorable Discharge<br>
-
+</div>
 * * *
+<div id="exp"
 ### <u><b><center>Experience</u></b></center>
 #### <u><b><center>Web Developer</u></b></center><br>
 <u><center><b>[Universal Bit Project](/)</b></center></u><br>
@@ -55,8 +61,9 @@ layout: default
 - The web browser that was created to browse the internet and provide UniBit tokens for voting on web content. Similar to Brave Browser.
 <b><center>[Cryptit.io](http://Cryptit.io)</b></center><br>
 - Encryption based app that encrypts data using SHA-256 data encryption, then sends it to another user.
-
+</div>
 * * *
+<div id="Hackathon">
 #### <b><u><center>Hackathon Participation</b></u></center><br>
 <b><center><u>Factom Hackathon</u></b></center><br>
 Participant<br>
@@ -81,6 +88,7 @@ The following links are to the solution that was developed for Amazon Web Servic
 - [The Rock And Roll Poll](https://devpost.com/software/the-rock-and-roll-poll)
 - [Vote Module](http://votemodule.com)
 - [Rock The Poll: Vote For Your Favorite Artist](http://www.rockthepoll.com)<br>
+</div>
 * * *
 Web Developer<br>
 [Space Lab Maker's Space](http://www.Spacelab.io)<br>
@@ -89,22 +97,7 @@ Web Developer, And Customer Resource Management<br>
 [Insightful Automation](http://www.InsightfulAutomation.com)<br>
 * * *
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div id="nfl">
 <b>[National Forensic League](https://www.speechanddebate.org/)</b>
 - [National Forensics League Texas State Champions 2006](https://www.southlakecarroll.edu/Page/350)
 - [Domestic Extemporaneous Speaking](https://en.wikipedia.org/wiki/United_States_Extemporaneous_Speaking)
@@ -115,6 +108,7 @@ Web Developer, And Customer Resource Management<br>
 - [Business Attire Analysis](/)
 - [Debate Judging](/)
 - [Contention Analysis And Rebuttal](/)<br>
+</div>
 
 <b>Volunteering</b>
 - [Southside Church Food Distribution](http://www.southsidecommunitycenter.org/homeless-shelter-sscc)
@@ -236,22 +230,13 @@ Web Developer, And Customer Resource Management<br>
 - [MailChimp](https://mailchimp.com/)<br>
 
 
-
 <b>Spanish Proficiency</b><br>
 - Intermediate Proficiency: 10+ Years Without Complete Immersion<br>
 
 * * *
-
-
-<<<<<<< HEAD
-* * *
 ## <u><b><center>Purchase List</u></b></center>
 - [Download Link To Excel Document With All Items](/)
 - [Link To Amazon Profile With All Wish List Items](/)<br>
-
-
-
-
 
 * * *
 <b>Mental Disorders And Diseases</b><br>
@@ -276,8 +261,6 @@ I am familiar with a wide variety of health problems and how they physically man
 - [Lie Detection](/)
 - [Investigation](/)
 - [In Home Caretaker](/)<br>
-=======
->>>>>>> 1709dfa643894aed6879299992f7c9f0b023feea
 
 <b>Animal Training And Boarding</b>
 - [Dog Behavior Training](/)
@@ -304,11 +287,10 @@ I am familiar with a wide variety of health problems and how they physically man
 - [Home Theater Installation](/)
 - [Surround Sound Speaker Installation](/)
 
+PGP Key:
 
-publish my public PGP key on my github page
-add law offices of zoe courtney
-add technical writing to skillset
-add try my ui as a skillset
+[Technical Writing](/)
 
-User Testing
-Try My User Interface
+[Law Offices Of Zoe Courtney](/)
+[User Testing](/)
+[Try My User Interface](/)
