@@ -16,13 +16,13 @@ layout: default
 <center>[Top Of Page](#Top)<br></center>
 </div>
 
-[Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)
-[College For Kids](https://www.tccd.edu/academics/cie/lifelong-learning/youth-programs/college-for-kids/)<br>
-[University of North Texas Soccer Camp](https://www.meangreensoccercamps.com/)
-[Carroll Ice Hockey Camp](https://www.southlakehockey.com/)<br>
-[Khru Ty Pilgrim Boxing Camp](https://www.muskogeephoenix.com/sports/muay-thai-means-my-time-for-local-pair/article_3355684e-b424-500b-aef5-6ccd39c24c87.html)<br>
-[Diaz Martial Arts Combat Shooting Course](http://diazma.com/)<br>
-[Performance Course](https://www.performancecourse.com/)<br>s
+- [Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)
+- [College For Kids](https://www.tccd.edu/academics/cie/lifelong-learning/youth-programs/college-for-kids/)<br>
+- [University of North Texas Soccer Camp](https://www.meangreensoccercamps.com/)
+- [Carroll Ice Hockey Camp](https://www.southlakehockey.com/)<br>
+- [Khru Ty Pilgrim Boxing Camp](https://www.muskogeephoenix.com/sports/muay-thai-means-my-time-for-local-pair/article_3355684e-b424-500b-aef5-6ccd39c24c87.html)<br>
+- [Diaz Martial Arts Combat Shooting Course](http://diazma.com/)<br>
+- [Performance Course](https://www.performancecourse.com/)<br>s
 
 * * *
 ## <b><u><center>Sean Mills</b></u></center>
@@ -75,7 +75,6 @@ Media Coverage<br>
 - [Austin Tech Live](https://www.facebook.com/austintechlive/videos/1932585736786554/)<br>
 - [Capital Factory](https://www.capitalfactory.com/event/factom-blockchain-hackathon/)<br>
 - [Factom](https://www.factom.com/blog/factom-hackathon-recap)<br>
-
 * * *  
 <u><b><center>South By Southwest Hackathon 2018</u></b></center><br>
 <center><u><b>Winner of Amazon Web Services Rock and Roll Hall of Fame Challenge</u></b></center><br>
@@ -90,13 +89,14 @@ The following links are to the solution that was developed for Amazon Web Servic
 - [Rock The Poll: Vote For Your Favorite Artist](http://www.rockthepoll.com)<br>
 </div>
 * * *
+<div id="developer">
 Web Developer<br>
 [Space Lab Maker's Space](http://www.Spacelab.io)<br>
 * * *
 Web Developer, And Customer Resource Management<br>
 [Insightful Automation](http://www.InsightfulAutomation.com)<br>
+</div>
 * * *
-
 <div id="nfl">
 <b>[National Forensic League](https://www.speechanddebate.org/)</b>
 - [National Forensics League Texas State Champions 2006](https://www.southlakecarroll.edu/Page/350)
@@ -110,6 +110,7 @@ Web Developer, And Customer Resource Management<br>
 - [Contention Analysis And Rebuttal](/)<br>
 </div>
 
+<div id="volunteering"
 <b>Volunteering</b>
 - [Southside Church Food Distribution](http://www.southsidecommunitycenter.org/homeless-shelter-sscc)
 - [Carroll Dragon Debate Tournament Judge And Event Management](/)
@@ -119,15 +120,18 @@ Web Developer, And Customer Resource Management<br>
 - [Float Fest Cleanup](https://floatfest.net/help-us-help-you-to-keeptheriverclean/)
 - [San Marcos River Cleanup Day](https://www.facebook.com/GreatTexasRiverCleanUp/)
 - [Altrusa International Silent Auction Raffle Sales](https://www.altrusa.org/)
+</div>
 
 
 [Oklahoma State University Philosophy Club](https://philosophy.okstate.edu/undergraduate/philosophy-club)
 
+<div id="marketing">
 <b>[Marketing](https://en.wikipedia.org/wiki/Marketing)</b>
 - [Social Media Marketing](https://en.wikipedia.org/wiki/Social_media_marketing)
 - [Advertising - B2B, Solicitation, Digital, Mailer, Guerilla Marketing](https://en.wikipedia.org/wiki/Advertising)
-- [Branding](https://en.wikipedia.org/wiki/Branding_agency)
-
+- [Branding](https://en.wikipedia.org/wiki/Branding_agency)<br>
+</div>
+<div id="sales">
 <b>Sales(https://en.wikipedia.org/wiki/Sales)</b>
 - [Cold Calling](https://en.wikipedia.org/wiki/Cold_calling/)
 - [Multi Level Marketing](https://en.wikipedia.org/wiki/Multi-level_marketing)
@@ -135,30 +139,34 @@ Web Developer, And Customer Resource Management<br>
 - [Door To Door Sales](https://en.wikipedia.org/wiki/Door-to-door)
 - [Business To Business Sales](https://en.wikipedia.org/wiki/Business-to-business)
 - [Solicitation](https://en.wikipedia.org/wiki/Solicitation)<br>
-
+</div>
+<div id="distribution"
 <b>[Product Sales And Distribution](https://en.wikipedia.org/wiki/Goods_and_services)</b>
 - [Garage and Estate Sales](https://www.gsalr.com)
 - [Etsy](https://www.etsy.com/)
 - [OfferUp](https://www.offerup.com)
 - [LetGo](https://www.letgo.com)
 - [Craigslist](https://www.craigslist.org/about/sites)<br>
-
+</div>
+<div id="profile"
 <b>Psychological Profile</b>
 - [Meyers Briggs Institute (MBTI)](https://www.myersbriggs.org/home.htm?bhcp=1) - [ENTJ](https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.htm) - Extroverted Intuitive Thinking Judging
  - "Frank, decisive, assume leadership readily. Quickly see illogical and inefficient procedures and policies, develop and implement comprehensive systems to solve organizational problems. Enjoy long-term planning and goal setting. Usually well informed, well read, enjoy expanding their knowledge and passing it on to others. Forceful in presenting their ideas.""
 - Sense of Humor - [Affiliative](https://www.thecut.com/article/whats-your-humor-style.html)
  - "Everyone's sense of humor is a mix of all four styles, but yours leans most heavily toward affiliative, meaning you're good at cracking jokes and trading banter to build connections with other people."
-
+</div>
+<div id="social"
 <b>Social Media Management Systems</b>
 - [Hootsuite](https://www.hootsuite.com/)
 - [Buffer](https://www.buffer.com/)
 - [Disqus](https://disqus.com)<br>
-
+</div>
+<div id="quicklinks">
 <b>Quick Link Generation and Analytics</b>
 - [Bit.ly Quick Links](https://www./)
 - [Google Analytics](https://www./)
 - [Google AdWords](https://www./)<br>
-
+</div>
 - [Cam Studio](https://camstudio.org/)
 - [Dropbox](https://www.dropbox.com/)
 - [WinRAR](https://www.winrar.com/)
@@ -209,7 +217,7 @@ Web Developer, And Customer Resource Management<br>
 <b>Torrenting</b>
 - [Deluge](https://www.deluge.com/)<br>
 - [ThePirateBay](https://en.wikipedia.org/wiki/The_Pirate_Bay)
-
+<div id="mining">
 <b>Mining</b>
 - [NiceHash Miner](www.nicehash.com/)
 - [MinerGate](http://bit.ly/Miner_GateX/)
@@ -217,28 +225,32 @@ Web Developer, And Customer Resource Management<br>
 - [GPU Mining](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units)
 - [Mining Pools](https://en.wikipedia.org/wiki/Mining_pool)
 - [Cloud Mining](https://en.wikipedia.org/wiki/Cloud_mining)<br>
-
+</div>
+<div id="streaming"
 <b>Streaming</b>
 - [StreamLabs Open Broadcasting Software](https://www.streamlabs.com/)
 - [Twitch](https://www.twitch.com/)
 - [Mixer](https://www.mixer.com/)
 - [YouTube](https://www.youtube.com/)
 - [Open Broadcasting Software Studio](https://obsproject.com/)<br>
-
+</div>
+<div id="crm">
 <b>Customer Resource Management</b>
 - [Infusionsoft](https://keap.com/infusionsoft)
 - [MailChimp](https://mailchimp.com/)<br>
-
-
+</div>
+<div id="spanish">
 <b>Spanish Proficiency</b><br>
 - Intermediate Proficiency: 10+ Years Without Complete Immersion<br>
-
+</div>
 * * *
+<div id="purchase">
 ## <u><b><center>Purchase List</u></b></center>
 - [Download Link To Excel Document With All Items](/)
 - [Link To Amazon Profile With All Wish List Items](/)<br>
-
+</div>
 * * *
+<div id="disorders">
 <b>Mental Disorders And Diseases</b><br>
 I am familiar with a wide variety of health problems and how they physically manifest in real life.
 - [Diagnostic Statistician's Manual - DSM](/)
@@ -252,7 +264,8 @@ I am familiar with a wide variety of health problems and how they physically man
 - [Smoking Addiction](/)
 - [Stroke](/)
 - [Cancer](/)<br>
-
+</div>
+<div id="psychskills">
 <b>Psychological Skills</b>
 - [Neuro Linguistic Processing (NLP)](/)
 - [Negotiation and Compromise](/)
@@ -261,6 +274,7 @@ I am familiar with a wide variety of health problems and how they physically man
 - [Lie Detection](/)
 - [Investigation](/)
 - [In Home Caretaker](/)<br>
+</div>
 
 <b>Animal Training And Boarding</b>
 - [Dog Behavior Training](/)
@@ -287,10 +301,10 @@ I am familiar with a wide variety of health problems and how they physically man
 - [Home Theater Installation](/)
 - [Surround Sound Speaker Installation](/)
 
-PGP Key:
+- PGP Key:
 
-[Technical Writing](/)
+- [Technical Writing](/)
 
-[Law Offices Of Zoe Courtney](/)
-[User Testing](/)
-[Try My User Interface](/)
+- [Law Offices Of Zoe Courtney](/)
+- [User Testing](/)
+- [Try My User Interface](/)

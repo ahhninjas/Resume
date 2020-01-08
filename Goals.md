@@ -41,7 +41,7 @@ Physical Endurance
 - Participate in a triathlon
 - Black Belt<br>
 
-Visit Before I Die
+Visit Before I Die:
 - Hallow Earth
 - Northern Lights
 - Off Planet

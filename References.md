@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+<header></header>
+<div id="top">
+</div>
+<div id="refs">
 ## <u><b><center>References</b></u></center><br>
 <center><b><u>[Philosophy](http://philosophy.okstate.edu/people/faculty)</b></u></center><br>
 [Marty Heitz, Ph.D.](http://philosophy.okstate.edu/people/faculty/20-faculty-directory/22-marty-heitz)<br>
@@ -38,3 +42,6 @@ layout: default
 - [Todd Dodge](/) - Head Coach 2006
 - [Riley Dodge](https://www.dragonyouthfootball.net/page/show/3312854-dragon-football-camps-by-coach-dodge), [2](https://www.dragonyouthfootball.net/page/show/3312857-dragon-youth-football-camp-powered-by-fasst-performance)
 - [Greg McElroy](/)<br>
+</div>
+* * *
+<footer></footer>
