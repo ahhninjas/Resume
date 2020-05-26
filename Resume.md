@@ -27,8 +27,8 @@ layout: default
 * * *
 
 ## <b><u><center>Sean Mills</b></u></center>
-<center>[Download My Resume](Sean-Mills.pdf)</center>
-<center>[Email: seanmills@protonmail.com](mailto:seanmills@protonmail.com)</center>
+<center>[Download My Resume]()</center>
+<center>[Email: ](mailto:)</center>
 <center>[PGP Key]()</center>
 <center>[Skype: ](<a href="skype:(USERNAME)?call">Call Me</a>)</center><br>
 
@@ -261,5 +261,25 @@ add technical writing to skillset
 
 [TryMyUI](https://www.trymyui.com/)
 [User Testing](https://www.usertesting.com/)
+
+
+Confluence
+
+Microsoft Outlook
+Microsoft Word
+Microsoft PowerPoint
+Microsoft Access
+Microsoft Excel
+
+MailChimp
+Google AdSense
+Google AdWords
+
+
+
+HTML
+CSS
+Markdown
+
 
 <footer><center>[Top Of Page](#Top)<br></center></footer>

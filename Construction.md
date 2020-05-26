@@ -4,7 +4,10 @@ layout: default
 <header></header><br>
 <div id="health">
 <ul class="nav_menu"><br>
+</div
+<div id="top">
 </div>
+<div id="tools">
 ###<b>Construction Machinery</b>
 - [Telescopic Handler](https://en.wikipedia.org/wiki/Telescopic_handler)
 - [Bobcat](https://en.wikipedia.org/wiki/Bobcat_Company)
@@ -14,13 +17,17 @@ layout: default
 - [Lift Table](https://en.wikipedia.org/wiki/Lift_table)
 - [Tractor](https://en.wikipedia.org/wiki/Tractor)
 - [Trailer](https://en.wikipedia.org/wiki/Trailer_())<br>
+</div>
 
+<div id="tools">
 <b>Construction Tool Knowledge</b>
 - [Chain Saw](https://en.wikipedia.org/wiki/Chainsaw)
 - [Table Saw](https://en.wikipedia.org/wiki/Table_saw)
 - [Circular Saw](https://en.wikipedia.org/wiki/Circular_saw)
 - [Reciprocating Saw](https://en.wikipedia.org/wiki/Reciprocating_saw)
 - [Nail Gun](https://en.wikipedia.org/wiki/SNail_gun)<br>
+</div>
+
 
 - [Concrete](/)
 - [Mixing Mud](/)
