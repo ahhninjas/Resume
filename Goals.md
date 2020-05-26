@@ -4,7 +4,7 @@ layout: default
 <header></header>
 <div id="top">
 </div>
-<div id="desiredskillss">
+<div id="desiredskills">
 </div>
 ### <u><b><center>Goals</u></b></center><br>
 

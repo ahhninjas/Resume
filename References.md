@@ -44,4 +44,6 @@ layout: default
 - [Greg McElroy](/)<br>
 </div>
 * * *
+<div id="bottom">
+</div>
 <footer></footer>

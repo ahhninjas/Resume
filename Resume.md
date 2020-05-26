@@ -4,7 +4,7 @@ layout: default
 <header></header>
 <div id="top"
 </div>
-<div id="toc"
+<div id="toc">
 ### <b><u><center>Table of Contents</b></u></center>
 <center>[Education](#Education)<br></center>
 <center>[Experience](#Experience)<br></center>
@@ -276,20 +276,9 @@ I am familiar with a wide variety of health problems and how they physically man
 - [In Home Caretaker](/)<br>
 </div>
 
-<b>Animal Training And Boarding</b>
-- [Dog Behavior Training](/)
-- [Dog Boarding](/)
-- [Dog Grooming](/)
-- [Cat Boarding](/)
-- [In Home Animal Sitting](/)<br>
-
 <b>Event Management</b>
 - [Meetup](https://www.meetup.com/)
 - [EventBrite](https://www.evenbrite.com/)<br>
-
-<b>Antivirus And Antimalware Software<b>
-- [Malwarebytes](https://www.malwarebytes.com/)
-- [Spybot Search And Destroy](https://www.safer-networking.org/compare-spybot-editions/)<br>
 
 
 - [Google Play Store](https://play.google.com/store?hl=en)
@@ -308,3 +297,5 @@ I am familiar with a wide variety of health problems and how they physically man
 - [Law Offices Of Zoe Courtney](/)
 - [User Testing](/)
 - [Try My User Interface](/)
+
+UX Review and Design

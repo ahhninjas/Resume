@@ -1,24 +1,34 @@
 ---
 layout: default
 ---
+<header></header>
+<div id="top"
+</div>
+<section>
+<div id="it">
 ### <u><b><center>Information Technology Skills</u></b></center><br>
-
 <b>Web Development Applications</b>
 - [GitHub](https://github.com/ahhninjas)
 - [GitPitch](https://gitpitch.com/)
 - [Atom](https://atom.io/)
 - [WordPress](https://wordpress.com/)
 - [Bluehost](https://www.bluehost.com/)<br>
-
-<b>Coding Languages</b>
-- [C++](https://en.wikipedia.org/wiki/C%2B%2B), [1](http://catalog.okstate.edu/search/?P=CS%201113)) - Novice
+</div>
+</section>
+<section>
+<div id="code">
+<b>[Coding Languages](/)</b></br>
 - [HTML](https://en.wikipedia.org/wiki/HTML) - Advanced
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Advanced
-- [GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
-- [Markdown](https://www.markdownguide.org/) - Expert
-- [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [1](http://catalog.okstate.edu/search/?P=CS%201113) - Novice<br>
-
-<b>[Microsoft Suite Products, and Windows System Tools](https://products.office.com/en-us/products)</b>
+- [GitHub Markdown](https://guides.github.com/features/mastering-markdown/) - Advanced
+- [Markdown](https://www.markdownguide.org/) - Advanced
+- [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [1](http://catalog.okstate.edu/search/?P=CS%201113) - Novice
+- [C++](https://en.wikipedia.org/wiki/C%2B%2B), [1](http://catalog.okstate.edu/search/?P=CS%201113)) - Novice<br>
+</div>
+</section>
+<section>
+<div id="msoffice">
+<b>[Microsoft Office Suite and Products](https://products.office.com/en-us/products)</b>
 - [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
 - [Microsoft Internet Explorer](https://www.microsoft.com/en-us/download/internet-explorer.aspx)
 - [Microsoft Edge](https://www.microsoft.com/en-us/windows/microsoft-edge)
@@ -29,6 +39,12 @@ layout: default
 - [Microsoft Publisher](https://products.office.com/en-us/publisher)
 - [Microsoft One Drive](https://products.office.com/en-us/onedrive-for-business/online-cloud-storage)
 - [Microsoft Outlook](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook)
+- [Microsoft Access](/)<br>
+</div>
+</section>
+<section>
+<div id="systemtools">
+<b>[Windows System Tools](/)</b>
 - [Windows Defender](https://en.wikipedia.org/wiki/Windows_Defender)<br>
 - [Windows Registry](https://en.wikipedia.org/wiki/Windows_Registry)
 - [Windows Services](https://en.wikipedia.org/wiki/Windows_service)
@@ -36,8 +52,11 @@ layout: default
 - [GPedit](/)
 - [Startup Edit](/)
 - [Disk Defragmenter](/)<br>
-
-<b>[Google Suite And Products](https://gsuite.google.com/features/)</b>
+</div>
+</section>
+<section>
+<div id="gsuite">
+<b>[Google Suite And Products](https://gsuite.google.com/features/)</b></br>
 - [Android](https://en.wikipedia.org/wiki/Android_(operating_system))
 - [Google Suite](https://gsuite.google.com/features/)
 - [Google Cloud](https://cloud.google.com/)
@@ -56,10 +75,10 @@ layout: default
 - [Google Identity Protection](https://developers.google.com/identity/)
 - [Google Hangouts](https://tools.google.com/dlpage/hangoutplugin)
 - [Google Voice](https://voice.google.com/about)<br>
-
-<b>[Typing Speed](/)</b>
-- 263 net characters per minute which equals 53 net words per minute.<br>
-
+</div>
+</section>
+<section>
+<div id="socialmedia">
 <b>Social Media Platforms</b>
 - [Instagram](https://www.instagram.com/)
 - [Facebook](https://www.facebook.com/)
@@ -70,7 +89,10 @@ layout: default
 - [Steemit](https://www.steemit.com/)
 - [Minds](https://www.minds.com/)
 - [BitChute](https://www.bitchute.com/)<br>
-
+</div>
+</section>
+<section>
+<div id="messengers">
 <b>[Messenger Applications](/)</b>
 - [Slack](https://slack.com/)
 - [Discord](https://discordapp.com/)
@@ -80,7 +102,10 @@ layout: default
 - [Skype](https://www.skype.com/en/)
 - [SnapChat](https://www.snapchat.com/)
 - [GoToMeeting](https://www.gotomeeting.com/)<br>
-
+</div>
+</section>
+<section>
+<div id="general">
 <b>General Computer Skills</b>
 - [Drive Formatting](/)
 - [Partitioning Hard Drives](/)
@@ -89,32 +114,57 @@ layout: default
 - Hardware Installation, Maintenance and Troubleshooting
 - Software Installation, maintenance and Troubleshooting
 - Hardware Maintenance
-- Software Maintenance>
-
+- Software Maintenance<br>
+</div>
+</section>
+<section>
+<div id="networking">
 <b>[Networking](/)</b>
 - [Local Area Networking](/)
-- [WIFI Networks And Connectivity](/)
-- [WIFI Security](/)
-
+- [WIFI Networks](/)
+- [WIFI Security](/)<br>
+</div>
+</section>
+<div id="">ion>
+<section>
+<div id="mozaddons">
 <b>[Mozilla Addons](https://en.wikipedia.org/wiki/Category:Firefox_add-ons)</b>
 - [Ghostery](https://www.ghostery.com/)
 - [LastPass](https://www.lastpass.com/)
 - [NoScript](https://noscript.net/)
 - [Redirect Remover](https://www./)
 - [RefControl](http://www.stardrifter.org/refcontrol/)
-- [RequestPolicy](https://www./)
-- [Tamper Data](https://www./)
+- [RequestPolicy](/)
+- [Tamper Data](/)
 - [HTTPS Everywhere](https://en.wikipedia.org/wiki/HTTPS_Everywhere)<br>
-
+</div>
+</section>
+<section>
+<div id="seo">
+[Search Engine Optimization](/)
+- [Meta Tags](/)
+- [RSS](https://en.wikipedia.org/wiki/RSS)<br>
+</div>
+</section>
+<section>
+<div id="virus">
+<b>Antivirus And Antimalware Software<b>
+- [Malwarebytes](https://www.malwarebytes.com/)
+- [Spybot Search And Destroy](https://www.safer-networking.org/compare-spybot-editions/)<br>
+</div>
+</section>
+<section>
+<div id="">
+- [Typing Speed](/) - 263 net characters per minute which equals 53 net words per minute.<br>
 
 - [K-Lite Codec Pack](/)
 - [Phishing](https://en.wikipedia.org/wiki/)
 - [Clickbait](https://en.wikipedia.org/wiki/Clickbait)
 - [Trojan Horse](https://en.wikipedia.org/wiki/Trojan_horse_(computing))
 - [Driver Installation And Update](https://en.wikipedia.org/wiki/Device_driver)
-- [Smartphone](https://en.wikipedia.org/wiki/Smartphone)
-
-
-[Search Engine Optimization](https://www./)
-- [Meta Tags](https://www./)
-- [RSS](https://en.wikipedia.org/wiki/RSS)
+- [Smartphone](https://en.wikipedia.org/wiki/Smartphone)</section>
+</div>
+</section>
+<div id="bottom">
+</div>
+<footer></footer>
