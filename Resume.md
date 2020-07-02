@@ -1,28 +1,28 @@
 ---
 layout: default
 ---
-<div id="Top Of Page">
+<div id="top">
 </div>
 <header></header>
 <div id="resume"></div>
 <ul class="nav_menu"><br>
 </div>
 ### <b><u><center>Table of Contents</b></u></center>
-<center>[Education](#Education)<br></center>
-<center>[Experience](#Experience)<br></center>
-<center>[Hackathon](#Hackathons)<br></center>
-<center>[References](#References)<br></center>
-<center>[Bucket List](#Bucket List)<br></center>
-<center>[Skills](#Skills)<br></center>
-<center>[Desired Skills](#Desired Skills)<br></center>
+<center>[Education](#edu)<br></center>
+<center>[Experience](#exp)<br></center>
+<center>[Hackathon](#hack)<br></center>
+<center>[References](#refs)<br></center>
+<center>[Bucket List](#bucket)<br></center>
+<center>[Skills](#skill)<br></center>
+<center>[Desired Skills](#desire)<br></center>
 
-<a href="Education">Education</a><br>
-<a href="Experience">Experience</a><br>
-<a href="Hackathon">Hackathon</a><br>
-<a href="References">References</a><br>
-<a href="Bucket List">Bucket List</a><br>
-<a href="Desired Skills">Desired Skills</a><br>
-<a href="Top of Page">Top of Page/a><br>
+<a href="edu">Education</a><br>
+<a href="exp">Experience</a><br>
+<a href="hack">Hackathon</a><br>
+<a href="refs">References</a><br>
+<a href="bucket">Bucket List</a><br>
+<a href="desire">Desired Skills</a><br>
+<a href="top">Top of Page/a><br>
 
 * * *
 
@@ -33,9 +33,8 @@ layout: default
 <center>[Skype: ](<a href="skype:(USERNAME)?call">Call Me</a>)</center><br>
 
 * * *
-
-<div id="Education">
-### <u><b><center>Education</u></b></center>
+<div id="edu">
+### <u><b><center>Education</u></b></center><br>
 <b>[Carroll High School, Southlake, Texas - 2002 - 2006](https://en.wikipedia.org/wiki/Carroll_Senior_High_School)</b><br>
 <b>[Oklahoma State University, Stillwater, Oklahoma - 2006 - 2010](http://okstate.edu)</b><br>
 - [B.A. Philosophy 2010](http://philosophy.okstate.edu/)<br>
@@ -48,9 +47,8 @@ layout: default
 <b>[United States Air Force ROTC Detachment 670, Stillwater, Oklahoma 2009](https://afrotc.okstate.edu/)<br>
 - Honorable Discharge<br>
 </div>
-
 * * *
-<div id="Experience">
+<div id="exp">
 ### <u><b><center>Experience</u></b></center>
 #### <u><b><center>Web Developer</u></b></center>
 <u><center><b>[Universal Bit Project](/)</b></center></u>
@@ -66,7 +64,7 @@ layout: default
 </div>
 
 * * *
-<div id="Hackathon">
+<div id="hack">
 #### <b><u><center>Hackathon Participation</b></u></center><br>
 <b><center><u>Factom Hackathon</u></b></center><br>
 Participant<br>
@@ -78,7 +76,6 @@ Media Coverage<br>
 - [Austin Tech Live](https://www.facebook.com/austintechlive/videos/1932585736786554/)<br>
 - [Capital Factory](https://www.capitalfactory.com/event/factom-blockchain-hackathon/)<br>
 - [Factom](https://www.factom.com/blog/factom-hackathon-recap)<br>
-</div>
 
 * * *  
 <u><b><center>South By Southwest Hackathon 2018</u></b></center><br>
@@ -114,13 +111,14 @@ Web Developer, And Customer Resource Management<br>
 - [Float Fest Cleanup](https://floatfest.net/help-us-help-you-to-keeptheriverclean/)
 - [San Marcos River Cleanup Day](https://www.facebook.com/GreatTexasRiverCleanUp/)
 - [Altrusa International Silent Auction Raffle Sales](https://www.altrusa.org/)
-
+</div>
 
 [Oklahoma State University Philosophy Club](https://philosophy.okstate.edu/undergraduate/philosophy-club)
 
+<div id="marketing">
 <b>[Marketing](https://en.wikipedia.org/wiki/Marketing)</b>
 - [Social Media Marketing](https://en.wikipedia.org/wiki/Social_media_marketing)
-- [Advertising - B2B, Solicitation, Digital, Mailer, Guerilla Marketing](https://en.wikipedia.org/wiki/Advertising)
+- [Advertising: B2B, Solicitation, Digital, Mailer, Guerilla Marketing](https://en.wikipedia.org/wiki/Advertising)
 
 <b>Sales Skills(https://en.wikipedia.org/wiki/Sales)</b>
 - [Cold Calling](https://en.wikipedia.org/wiki/Cold_calling/)
@@ -129,18 +127,21 @@ Web Developer, And Customer Resource Management<br>
 - [Door To Door Sales](https://en.wikipedia.org/wiki/Door-to-door)
 - [Business To Business Sales](https://en.wikipedia.org/wiki/Business-to-business)
 - [Solicitation](https://en.wikipedia.org/wiki/Solicitation)<br>
-
+</div>
+<div id="distribution"
 <b>[Product Sales And Distribution](https://en.wikipedia.org/wiki/Goods_and_services)</b>
 - [Garage and Estate Sales](https://www.gsalr.com)
 - [OfferUp](https://www.offerup.com)
 - [LetGo](https://www.letgo.com)
 - [Craigslist](https://www.craigslist.org/about/sites)<br>
-
+</div>
+<div id="profile"
 <b>Psychological Profile</b>
 - [Meyers Briggs Institute (MBTI)](https://www.myersbriggs.org/home.htm?bhcp=1) - [ENTJ](https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.htm) - Extroverted Intuitive Thinking Judging
  - "Frank, decisive, assume leadership readily. Quickly see illogical and inefficient procedures and policies, develop and implement comprehensive systems to solve organizational problems. Enjoy long-term planning and goal setting. Usually well informed, well read, enjoy expanding their knowledge and passing it on to others. Forceful in presenting their ideas.""
 - Sense of Humor - [Affiliative](https://www.thecut.com/article/whats-your-humor-style.html)
  - "Everyone's sense of humor is a mix of all four styles, but yours leans most heavily toward affiliative, meaning you're good at cracking jokes and trading banter to build connections with other people."
+</div>
 
 <b>Social Media Management Systems</b>
 - [Hootsuite](https://www.hootsuite.com/)
@@ -152,58 +153,34 @@ Web Developer, And Customer Resource Management<br>
 - [Google Analytics](https://www./)
 - [Google AdWords](https://www./)<br>
 
-- [Cam Studio](https://camstudio.org/)
-- [Dropbox](https://www.dropbox.com/)
-- [WinRAR](https://www.winrar.com/)
-- [MagicISO](https://www.magiciso.com/)
-- [Ebay](https://www.ebay.com/)
-- [Join.me](https://www.join.me/)
-- [Jing](https://www.techsmith.com/screen-capture.html)
-- [Amazon Reseller](https://www./)
-- [TeamViewer](https://www./)
-- [TeamWork](https://www.teamwork.com/)
-- [POP Email Accounts](/)
-
-<b>[Mozilla Products](https://support.mozilla.org/en-US/products)</b>
+<b>[Mozilla](https://support.mozilla.org/en-US/products)</b>
 - [Firefox Quantum](https://www.mozilla.org/en-US/)
 - [Firefox Accounts](https://www.mozilla.org/en-US/firefox/accounts/)
 - [Firefox Sync](https://en.wikipedia.org/wiki/Firefox_Sync)
 - [Firefox Send](https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card)
 - [Thunderbird](https://www.thunderbird.net/)
-- [Firebug](https://web.archive.org/web/20120330103011/http://getfirebug.com/)
+- [Firebug](https://web.archive.org/web/20120330103011/http://getfirebug.com/)<br>
 
 <b>Email</b>
-- [ProtonMail](https://www.protonmail.com/)
-- [Gmail](http://www.gmail.com)<br>
+- [ProtonMail](https://www.protonmail.com/)<br>
 
-<b>Internet Connectivity Troubleshooting</b>
-- [SpeedTest](https://www.speedtest.net/)
-- [IPConfig](https://en.wikipedia.org/wiki/Ipconfig)
-- [IPCheck](http://ip-check.info/?lang=en)<br>
-
-<b>Information Technology Security</b><br>
+<b>Information Technology Security</b>
 - [Dark Web](https://en.wikipedia.org/wiki/Dark_web)
 - [Dark Net](https://en.wikipedia.org/wiki/Darknet)
 - [Proxy Server](https://en.wikipedia.org/wiki/Proxy_server)
 - [Tor](https://www.torproject.org/)
 - [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)
 - [Virtual Private Server](https://en.wikipedia.org/wiki/Virtual_private_server)
-- [Onion Routing](https://en.wikipedia.org/wiki/Onion_routing)
-- [PeerGuardian](http://www.phoenixlabs.org/)
-- [PeerBlock](https://peerblock.en.uptodown.com/windows)
-- [Block Lists and Black Listing](https://en.wikipedia.org/wiki/Blacklist_(computing))<br>
+- [Block Lists and Black Listing](https://en.wikipedia.org/wiki/Blacklist_(computing))
 - [Multifactor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)</b>
 - [Authy](https://www.authy.com/)<br>
 
 <b>Torrenting</b>
-- [Deluge](https://www.deluge.com/)<br>
-- [ThePirateBay](https://en.wikipedia.org/wiki/The_Pirate_Bay)
+- [Deluge](https://www.deluge.com/)
+- [ThePirateBay](https://en.wikipedia.org/wiki/The_Pirate_Bay)<br>
 
 <b>Mining</b>
-- [NiceHash Miner](www.nicehash.com/)
-- [MinerGate](http://bit.ly/Miner_GateX/)
-- [Mining Pools](https://en.wikipedia.org/wiki/Mining_pool)
-- [Cloud Mining](https://en.wikipedia.org/wiki/Cloud_mining)<br>
+- [MinerGate](http://bit.ly/Miner_GateX/)<br>
 
 <b>Streaming</b>
 - [StreamLabs](https://www.streamlabs.com/)
@@ -213,6 +190,7 @@ Web Developer, And Customer Resource Management<br>
 <b>Spanish Proficiency</b><br>
 - Intermediate Proficiency: 10+ Years Without Complete Immersion<br>
 
+<<<<<<< HEAD
 Sport Skills<br>
 [Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)<br>
 [College For Kids](https://www.tccd.edu/academics/cie/lifelong-learning/youth-programs/college-for-kids/)<br>
@@ -238,8 +216,25 @@ Sport Skills<br>
 - [TryMyUI](https://www.trymyui.com/)
 - [User Testing](https://www.usertesting.com/)<br>
 
+=======
+<b>Sport Skills</b>
+- [Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)<br>
+- [College For Kids](https://www.tccd.edu/academics/cie/lifelong-learning/youth-programs/college-for-kids/)<br>
+- [University of North Texas Soccer Camp](https://www.meangreensoccercamps.com/)<br>
+- [Carroll Ice Hockey Camp](https://www.southlakehockey.com/)<br>
+- [Khru Ty Pilgrim Boxing Camp](https://www.muskogeephoenix.com/sports/muay-thai-means-my-time-for-local-pair/article_3355684e-b424-500b-aef5-6ccd39c24c87.html)<br>
+- [Diaz Martial Arts Combat Shooting Course](http://diazma.com/)<br>
+- [Performance Course](https://www.performancecourse.com/)<br>
 
+* * *
+>>>>>>> 34108310ba38be4150c0a176440eb742dad8a2c1
 
+<b>UX Review</b>
+- [Technical Writing](/)
+- [User Testing](/)
+- [Try My User Interface](/)
+
+<<<<<<< HEAD
 - [Weight Management](/)
 - [Smart TV Setup](/)
 - [Home Theater Installation](/)
@@ -248,3 +243,19 @@ Sport Skills<br>
 
 
 <footer><center>[Top Of Page](#Top)<br></center></footer>
+=======
+Sort and Review Section
+- [IFTTT](https://ifttt.com/)
+- [Reddit](https://www.reddit.com/)
+- [Adobe Acrobat Reader](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
+- [Cam Studio](https://camstudio.org/)
+- [Dropbox](https://www.dropbox.com/)
+- [WinRAR](https://www.winrar.com/)
+- [MagicISO](https://www.magiciso.com/)
+- [Ebay](https://www.ebay.com/)
+- [Join.me](https://www.join.me/)
+- [Jing](https://www.techsmith.com/screen-capture.html)
+- [Amazon Reseller](https://www./)
+- [TeamViewer](https://www./)
+- [POP Email Accounts](/)<br>
+>>>>>>> 34108310ba38be4150c0a176440eb742dad8a2c1
