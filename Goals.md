@@ -4,7 +4,6 @@ layout: default
 <header>Goals</header><br>
 <div id="goals">
 <ul class="nav_menu">
-- Construction
 - Financial
 - Health and Fitness
 - IT
@@ -21,14 +20,13 @@ layout: default
 - Captains License
 - Drone License
 - Skydiving License
-- SCUBA License
+- SCUBA License<br>
 
 <b>Web Development</b>
 - [Hootsuite Certifications](https://www.hootsuite.com/)
 - [Buffer Certifications](https://www.buffer.com/)
 - [Google AdWords](https://support.google.com/google-ads/answer/9029201?hl=en)
 - [YouTube Certification](https://support.google.com/youtube/answer/6145895?hl=en&ref_topic=6145903)
-- [Google Suite Training](https://gsuite.google.com/products/gsuite-training/)
 - [HubSpot Training](https://gsuite.google.com/products/gsuite-training/)<br>
 
 <b>Other</b>
