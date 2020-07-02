@@ -10,7 +10,7 @@ layout: default
 ### <b><u><center>Table of Contents</b></u></center>
 <center>[Education](#edu)<br></center>
 <center>[Experience](#exp)<br></center>
-<center>[Hackathon](#Hackathons)<br></center>
+<center>[Hackathon](#hack)<br></center>
 <center>[References](#refs)<br></center>
 <center>[Bucket List](#Bucket List)<br></center>
 <center>[Skills](#Skills)<br></center>
@@ -64,7 +64,7 @@ layout: default
 </div>
 
 * * *
-<div id="Hackathon">
+<div id="hack">
 #### <b><u><center>Hackathon Participation</b></u></center><br>
 <b><center><u>Factom Hackathon</u></b></center><br>
 Participant<br>

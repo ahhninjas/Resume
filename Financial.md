@@ -1,12 +1,7 @@
 ---
 layout: default
 ---
-<<<<<<< HEAD:Financial Skills.md
-<header></header>
-<div id="top"
-</div>
-<section>
-<div id="finance">
+
 ### <u><b><center>Financial Skills</u></b></center><br>
 =======
 <header>Finance</header><br>
@@ -52,9 +47,7 @@ layout: default
 <div id="wallets">
 <b>BitCoin Wallets</b>
 - [MetaMask](https://metamask.io/)
-- [Electrum](https://www./)
 - [MyEtherWallet](https://www.myetherwallet.com/)
-<<<<<<< HEAD:Financial Skills.md
 - [Blockfolio](https://blockfolio.com/)
 </div>
 </section>
