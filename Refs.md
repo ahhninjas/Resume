@@ -5,10 +5,10 @@ layout: default
 <div id="top">
 <ul class="nav_menu"><br>
 </div>
-<center>[Top Of Page](#top)<br></center>
 <center>[Table of Contents](#toc)<br></center>
 <div id="refs">
 </div>
+<section>
 ## <u><b><center>References</b></u></center><br>
 <center><b><u>[Philosophy](http://philosophy.okstate.edu/people/faculty)</b></u></center><br>
 [Marty Heitz, Ph.D.](http://philosophy.okstate.edu/people/faculty/20-faculty-directory/22-marty-heitz)<br>
@@ -32,14 +32,17 @@ layout: default
 <center><b><u>Construction</u></b></u></center><br>
 [Earl Williams](/) - Earl Williams and Associates Remodeling<br>
 [Karl Stefansson](blindandshutterguys.com/) - Entrepreneur owner of Blind and Shutter Guys<br>
-[Law Offices Of Zoe Courtney](http://courtneylaw.pro/)<br>
 
 <center><b><u>Music</b></u></center><br>
-[David Hall](http://hallmusicproductions.com/) - Maestro of Hall Music Productions<br>
+[David Hall](http://hallmusicproductions.com/) - Owner and Maestro of Hall Music Productions<br>
 
-<center><b><u>National Forensics League (NFL)</b></u></center><br>
+<center><b><u>National Forensics League</b></u></center><br>
 [Dixie Waldo](https://books.google.com/books?id=AwgrpoWfJDoC&pg=PA46&lpg=PA46&dq=dixie+waldo+forensics+team&source=bl&ots=auf133AbR3&sig=ACfU3U0Gxux4RJ0cCxMQv1YCsp-ltqyC1Q&hl=en&sa=X&ved=2ahUKEwi_2dGan9_hAhUDWq0KHWwbAHwQ6AEwB3oECAgQAQ#v=onepage&q=dixie%20waldo%20forensics%20team&f=false) - Southlake Carroll Dragon Forensics Team Teacher [1](https://www.southlakecarroll.edu/Page/350)<br>
-</div>
+
+<center><b><u>Southlake Carroll Dragon Football</b></u></center><br>
+- [Todd Dodge](/) - Head Coach 2006
+- [Riley Dodge](https://www.dragonyouthfootball.net/page/show/3312854-dragon-football-camps-by-coach-dodge), [2](https://www.dragonyouthfootball.net/page/show/3312857-dragon-youth-football-camp-powered-by-fasst-performance)
+- [Greg McElroy](/)<br>
+</section>
 <section><div>
-<footer><center>[Top Of Page](#Top)</center></footer>
-</div></section>
+<footer><center>[Top Of Page](#top)</center></footer></div></section>
