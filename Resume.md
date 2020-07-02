@@ -1,10 +1,12 @@
 ---
 layout: default
 ---
-<header></header>
-<div id="top"
+<div id="Top Of Page">
 </div>
-<div id="toc">
+<header></header>
+<div id="resume"></div>
+<ul class="nav_menu"><br>
+</div>
 ### <b><u><center>Table of Contents</b></u></center>
 <center>[Education](#Education)<br></center>
 <center>[Experience](#Experience)<br></center>
@@ -13,24 +15,22 @@ layout: default
 <center>[Bucket List](#Bucket List)<br></center>
 <center>[Skills](#Skills)<br></center>
 <center>[Desired Skills](#Desired Skills)<br></center>
-<center>[Top Of Page](#Top)<br></center>
-</div>
 
-- [Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)
-- [College For Kids](https://www.tccd.edu/academics/cie/lifelong-learning/youth-programs/college-for-kids/)<br>
-- [University of North Texas Soccer Camp](https://www.meangreensoccercamps.com/)
-- [Carroll Ice Hockey Camp](https://www.southlakehockey.com/)<br>
-- [Khru Ty Pilgrim Boxing Camp](https://www.muskogeephoenix.com/sports/muay-thai-means-my-time-for-local-pair/article_3355684e-b424-500b-aef5-6ccd39c24c87.html)<br>
-- [Diaz Martial Arts Combat Shooting Course](http://diazma.com/)<br>
-- [Performance Course](https://www.performancecourse.com/)<br>s
+<a href="Education">Education</a><br>
+<a href="Experience">Experience</a><br>
+<a href="Hackathon">Hackathon</a><br>
+<a href="References">References</a><br>
+<a href="Bucket List">Bucket List</a><br>
+<a href="Desired Skills">Desired Skills</a><br>
+<a href="Top of Page">Top of Page/a><br>
 
 * * *
-## <b><u><center>Sean Mills</b></u></center>
-<center>[Download My Resume](Sean-Mills.pdf)</center>
-<center>[Email: seanmills@protonmail.com](mailto:seanmills@protonmail.com)</center>
 
-<center>[PGP Key](mailto:seanmills@protonmail.com)</center>
-<center>[Skype: ](<a href="skype:mills3211?call">Call Me</a>)</center><br>
+## <b><u><center>Sean Mills</b></u></center>
+<center>[Download My Resume]()</center>
+<center>[Email: ](mailto:)</center>
+<center>[PGP Key]()</center>
+<center>[Skype: ](<a href="skype:(USERNAME)?call">Call Me</a>)</center><br>
 
 * * *
 <div id="education">
@@ -50,8 +50,8 @@ layout: default
 * * *
 <div id="exp"
 ### <u><b><center>Experience</u></b></center>
-#### <u><b><center>Web Developer</u></b></center><br>
-<u><center><b>[Universal Bit Project](/)</b></center></u><br>
+#### <u><b><center>Web Developer</u></b></center>
+<u><center><b>[Universal Bit Project](/)</b></center></u>
 <center>May 2017 – November 2018</center><br>
 <b><center>[Uni-Wallet](/)</b></center><br>
 - A Bitcoin multichain wallet that is capable of importing and exporting private keys and hold digital assets.
@@ -62,6 +62,7 @@ layout: default
 <b><center>[Cryptit.io](http://Cryptit.io)</b></center><br>
 - Encryption based app that encrypts data using SHA-256 data encryption, then sends it to another user.
 </div>
+
 * * *
 <div id="Hackathon">
 #### <b><u><center>Hackathon Participation</b></u></center><br>
@@ -75,6 +76,8 @@ Media Coverage<br>
 - [Austin Tech Live](https://www.facebook.com/austintechlive/videos/1932585736786554/)<br>
 - [Capital Factory](https://www.capitalfactory.com/event/factom-blockchain-hackathon/)<br>
 - [Factom](https://www.factom.com/blog/factom-hackathon-recap)<br>
+</div>
+
 * * *  
 <u><b><center>South By Southwest Hackathon 2018</u></b></center><br>
 <center><u><b>Winner of Amazon Web Services Rock and Roll Hall of Fame Challenge</u></b></center><br>
@@ -97,7 +100,7 @@ Web Developer, And Customer Resource Management<br>
 [Insightful Automation](http://www.InsightfulAutomation.com)<br>
 </div>
 * * *
-<div id="nfl">
+
 <b>[National Forensic League](https://www.speechanddebate.org/)</b>
 - [National Forensics League Texas State Champions 2006](https://www.southlakecarroll.edu/Page/350)
 - [Domestic Extemporaneous Speaking](https://en.wikipedia.org/wiki/United_States_Extemporaneous_Speaking)
@@ -129,10 +132,8 @@ Web Developer, And Customer Resource Management<br>
 <b>[Marketing](https://en.wikipedia.org/wiki/Marketing)</b>
 - [Social Media Marketing](https://en.wikipedia.org/wiki/Social_media_marketing)
 - [Advertising - B2B, Solicitation, Digital, Mailer, Guerilla Marketing](https://en.wikipedia.org/wiki/Advertising)
-- [Branding](https://en.wikipedia.org/wiki/Branding_agency)<br>
-</div>
-<div id="sales">
-<b>Sales(https://en.wikipedia.org/wiki/Sales)</b>
+
+<b>Sales Skills(https://en.wikipedia.org/wiki/Sales)</b>
 - [Cold Calling](https://en.wikipedia.org/wiki/Cold_calling/)
 - [Multi Level Marketing](https://en.wikipedia.org/wiki/Multi-level_marketing)
 - [Farm Stand Sales](https://en.wikipedia.org/wiki/Farm_shop)
@@ -143,7 +144,6 @@ Web Developer, And Customer Resource Management<br>
 <div id="distribution"
 <b>[Product Sales And Distribution](https://en.wikipedia.org/wiki/Goods_and_services)</b>
 - [Garage and Estate Sales](https://www.gsalr.com)
-- [Etsy](https://www.etsy.com/)
 - [OfferUp](https://www.offerup.com)
 - [LetGo](https://www.letgo.com)
 - [Craigslist](https://www.craigslist.org/about/sites)<br>
@@ -204,14 +204,10 @@ Web Developer, And Customer Resource Management<br>
 - [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)
 - [Virtual Private Server](https://en.wikipedia.org/wiki/Virtual_private_server)
 - [Onion Routing](https://en.wikipedia.org/wiki/Onion_routing)
-- [Encryption](https://en.wikipedia.org/wiki/Encryption)<br>
-
-<b>[IP Blocking](/)</b>
 - [PeerGuardian](http://www.phoenixlabs.org/)
 - [PeerBlock](https://peerblock.en.uptodown.com/windows)
 - [Block Lists and Black Listing](https://en.wikipedia.org/wiki/Blacklist_(computing))<br>
-
-<b>[2FA Authentication Tools](https://en.wikipedia.org/wiki/Multi-factor_authentication)</b>
+- [Multifactor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)</b>
 - [Authy](https://www.authy.com/)<br>
 
 <b>Torrenting</b>
@@ -221,60 +217,35 @@ Web Developer, And Customer Resource Management<br>
 <b>Mining</b>
 - [NiceHash Miner](www.nicehash.com/)
 - [MinerGate](http://bit.ly/Miner_GateX/)
-- [ETHos](https://www.ethos.io/)
-- [GPU Mining](https://en.wikipedia.org/wiki/General-purpose_computing_on_graphics_processing_units)
 - [Mining Pools](https://en.wikipedia.org/wiki/Mining_pool)
 - [Cloud Mining](https://en.wikipedia.org/wiki/Cloud_mining)<br>
 </div>
 <div id="streaming"
 <b>Streaming</b>
-- [StreamLabs Open Broadcasting Software](https://www.streamlabs.com/)
+- [StreamLabs](https://www.streamlabs.com/)
 - [Twitch](https://www.twitch.com/)
-- [Mixer](https://www.mixer.com/)
 - [YouTube](https://www.youtube.com/)
-- [Open Broadcasting Software Studio](https://obsproject.com/)<br>
-</div>
-<div id="crm">
-<b>Customer Resource Management</b>
-- [Infusionsoft](https://keap.com/infusionsoft)
-- [MailChimp](https://mailchimp.com/)<br>
-</div>
-<div id="spanish">
+
 <b>Spanish Proficiency</b><br>
 - Intermediate Proficiency: 10+ Years Without Complete Immersion<br>
-</div>
+
+Sport Skills<br>
+[Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)<br>
+[College For Kids](https://www.tccd.edu/academics/cie/lifelong-learning/youth-programs/college-for-kids/)<br>
+[University of North Texas Soccer Camp](https://www.meangreensoccercamps.com/)<br>
+[Carroll Ice Hockey Camp](https://www.southlakehockey.com/)<br>
+[Khru Ty Pilgrim Boxing Camp](https://www.muskogeephoenix.com/sports/muay-thai-means-my-time-for-local-pair/article_3355684e-b424-500b-aef5-6ccd39c24c87.html)<br>
+[Diaz Martial Arts Combat Shooting Course](http://diazma.com/)<br>
+[Performance Course](https://www.performancecourse.com/)<br>
+
+
 * * *
-<div id="purchase">
-## <u><b><center>Purchase List</u></b></center>
-- [Download Link To Excel Document With All Items](/)
-- [Link To Amazon Profile With All Wish List Items](/)<br>
-</div>
-* * *
-<div id="disorders">
-<b>Mental Disorders And Diseases</b><br>
-I am familiar with a wide variety of health problems and how they physically manifest in real life.
-- [Diagnostic Statistician's Manual - DSM](/)
-- [Down Syndrome](/)
-- [Parkinson's Disease](/)
-- [Alzheimer's Disease](/)
-- [Depression](/)
-- [Alcoholism](/)
-- [Stimulant Addiction](/)
-- [Depressant Addiction](/)
-- [Smoking Addiction](/)
-- [Stroke](/)
-- [Cancer](/)<br>
-</div>
-<div id="psychskills">
-<b>Psychological Skills</b>
-- [Neuro Linguistic Processing (NLP)](/)
-- [Negotiation and Compromise](/)
-- [Body Language Analysis](/)
-- [Social Engineering](/)
-- [Lie Detection](/)
-- [Investigation](/)
-- [In Home Caretaker](/)<br>
-</div>
+<b>Animal Training And Boarding</b>
+- [Dog Behavior Training](/)
+- [Dog Boarding](/)
+- [Dog Grooming](/)
+- [Cat Boarding](/)
+- [In Home Animal Sitting](/)<br>
 
 <b>Event Management</b>
 - [Meetup](https://www.meetup.com/)
@@ -290,10 +261,7 @@ I am familiar with a wide variety of health problems and how they physically man
 - [Home Theater Installation](/)
 - [Surround Sound Speaker Installation](/)
 
-- PGP Key:
-
 - [Technical Writing](/)
-
 - [Law Offices Of Zoe Courtney](/)
 - [User Testing](/)
 - [Try My User Interface](/)

@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+<header></header><br>
+<div id="health">
+<ul class="nav_menu"><br>
+</div>
 ### <u><b><center>Health And Fitness Skills</u></b></center><br>
 <b>Physical Education Coaching Skills</b><br>
 I can coach individuals in any age group techniques in the following areas.<br>
@@ -57,3 +61,5 @@ I am familiar with a wide variety of health problems and how they physically man
 - [Lie Detection](/)
 - [Investigation](/)
 - [In Home Caretaker](/)<br>
+
+<footer><center>[Top Of Page](#Top)<br></center></footer>

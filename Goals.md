@@ -1,13 +1,18 @@
 ---
 layout: default
 ---
-<header></header>
-<div id="top">
+<header>Goals</header><br>
+<div id="goals">
+<ul class="nav_menu">
+- Construction
+- Financial
+- Health and Fitness
+- IT
+- References
+- Resume<br>
 </div>
-<div id="desiredskills">
-</div>
-### <u><b><center>Goals</u></b></center><br>
 
+### <u><b><center>Goals</u></b></center><br>
 ## <u><b><center>Desired Skills</u></b></center><br>
 <b>Transportation</b>
 - Pilots License
@@ -27,8 +32,8 @@ layout: default
 - [HubSpot Training](https://gsuite.google.com/products/gsuite-training/)<br>
 
 <b>Other</b>
-- [Real Estate License](/)
 - [Notary License](/)
+- [Real Estate License](/)
 - [MakerBot Certification](https://store.makerbot.com/training/makerbot-university-online/)
 - [Welding Certification](/)
 - [Long Range Marksmanship Certification](/)<br>
@@ -36,7 +41,8 @@ layout: default
 * * *
 ## <u><b><center>General Goals list</u></b></center>
 Physical Endurance
-- Win a boxing or kickboxing title
+- Win a boxing title
+- Win a kickboxing title
 - Run a marathon
 - Participate in a triathlon
 - Black Belt<br>
@@ -57,3 +63,5 @@ Visit Before I Die:
 ## <u><b><center>Purchase List</u></b></center>
 - [Download Link To Excel Document With All Items](/)
 - [Link To Amazon Profile With All Wish List Items](/)<br>
+
+<footer><center>[Top Of Page](#Top)<br></center></footer>

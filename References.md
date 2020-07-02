@@ -1,10 +1,21 @@
 ---
 layout: default
 ---
+<<<<<<< HEAD
 <header></header>
 <div id="top">
 </div>
 <div id="refs">
+=======
+<header></header><br>
+<div id="Top">
+<ul class="nav_menu"><br>
+</div>
+<center>[Top Of Page](#Top)<br></center>
+<center>[Table of Contents](#Desired Skills)<br></center>
+<div id="References">
+</div>
+>>>>>>> b031e1eef64af013d3597b097019e28bf4859544
 ## <u><b><center>References</b></u></center><br>
 <center><b><u>[Philosophy](http://philosophy.okstate.edu/people/faculty)</b></u></center><br>
 [Marty Heitz, Ph.D.](http://philosophy.okstate.edu/people/faculty/20-faculty-directory/22-marty-heitz)<br>
@@ -28,9 +39,16 @@ layout: default
 <center><b><u>Construction</u></b></u></center><br>
 [Earl Williams](/) - Earl Williams and Associates Remodeling<br>
 [Karl Stefansson](blindandshutterguys.com/) - Entrepreneur owner of Blind and Shutter Guys<br>
+<<<<<<< HEAD
 
 <center><b><u>Music</b></u></center><br>
 [David Hall](http://hallmusicproductions.com/) - Owner and Maestro of Hall Music Productions<br>
+=======
+[Law Offices Of Zoe Courtney](http://courtneylaw.pro/)<br>
+
+<center><b><u>Music</b></u></center><br>
+[David Hall](http://hallmusicproductions.com/) - Maestro of Hall Music Productions<br>
+>>>>>>> b031e1eef64af013d3597b097019e28bf4859544
 
 <center><b><u>Computer Science</b></u></center><br>
 [Roy Hodge](https://royhodge.github.io) - Certified Bitcoin Professional and Blockchain Developer<br>
@@ -39,6 +57,7 @@ layout: default
 [Dixie Waldo](https://books.google.com/books?id=AwgrpoWfJDoC&pg=PA46&lpg=PA46&dq=dixie+waldo+forensics+team&source=bl&ots=auf133AbR3&sig=ACfU3U0Gxux4RJ0cCxMQv1YCsp-ltqyC1Q&hl=en&sa=X&ved=2ahUKEwi_2dGan9_hAhUDWq0KHWwbAHwQ6AEwB3oECAgQAQ#v=onepage&q=dixie%20waldo%20forensics%20team&f=false) - Southlake Carroll Dragon Forensics Team Teacher [1](https://www.southlakecarroll.edu/Page/350)<br>
 
 <center><b><u>Southlake Carroll Dragon Football</b></u></center><br>
+<<<<<<< HEAD
 - [Todd Dodge](/) - Head Coach 2006
 - [Riley Dodge](https://www.dragonyouthfootball.net/page/show/3312854-dragon-football-camps-by-coach-dodge), [2](https://www.dragonyouthfootball.net/page/show/3312857-dragon-youth-football-camp-powered-by-fasst-performance)
 - [Greg McElroy](/)<br>
@@ -47,3 +66,11 @@ layout: default
 <div id="bottom">
 </div>
 <footer></footer>
+=======
+- [Todd Dodge](https://en.wikipedia.org/wiki/Todd_Dodge) - Head Coach 2006
+- [Riley Dodge](https://www.dragonyouthfootball.net/page/show/3312854-dragon-football-camps-by-coach-dodge), [2](https://www.dragonyouthfootball.net/page/show/3312857-dragon-youth-football-camp-powered-by-fasst-performance)
+- [Greg McElroy](https://en.wikipedia.org/wiki/Greg_McElroy)<br>
+</div>
+
+<footer><center>[Top Of Page](#Top)</center></footer>
+>>>>>>> b031e1eef64af013d3597b097019e28bf4859544
