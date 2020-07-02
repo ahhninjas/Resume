@@ -6,20 +6,25 @@ layout: default
 <ul class="nav_menu"><br>
 </div>
 <section>
+<div id="it">
+</div>
+</section>
+<section>
 ### <u><b><center>Information Technology Skills</u></b></center><br>
-
 <b>Web Development Applications</b>
 - [Atom](https://atom.io/)
 - [GitHub](https://github.com/ahhninjas)
 - [GitPitch](https://gitpitch.com/)
 - [WordPress](https://wordpress.com/)<br>
-
+</section>
+<section>
 <b>Hosting</b>
 - [Domain](/)
 - [Bluehost](https://www.bluehost.com/)<br>
 - [File Transfer Protocol (FTP)](/)
 - [FileZilla](/)
-
+</section>
+<section>
 <b>[Coding Languages](/)</b></br>
 - [HTML](https://en.wikipedia.org/wiki/HTML) - Advanced
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Advanced
@@ -34,39 +39,35 @@ layout: default
 - [Microsoft Excel](https://products.office.com/en-us/excel)
 - [Microsoft Power Point](https://products.office.com/en-us/powerpoint)
 - [Microsoft Publisher](https://products.office.com/en-us/publisher)
-<<<<<<< HEAD
 - [Microsoft Access](/)
-- [Microsoft Outlook](/)
 - [Microsoft OneDrive](https://products.office.com/en-us/onedrive-for-business/online-cloud-storage)
 - [Microsoft Outlook](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook)<br>
-
+</section>
+<section>
 <b>[Windows System Tools](https://products.office.com/en-us/products)</b>
 - [Disk Defragmenter](/)
 - [Windows Defender](https://en.wikipedia.org/wiki/Windows_Defender)<br>
 - [Windows Registry](https://en.wikipedia.org/wiki/Windows_Registry)
 - [Windows Services](https://en.wikipedia.org/wiki/Windows_service)
 - [MS-DOS Prompt](https://en.wikipedia.org/wiki/MS-DOS)<br>
-
+</section>
+<section>
 <b>[Google Suite And Products](https://gsuite.google.com/features/)</b>
 - [Android Operating System](https://en.wikipedia.org/wiki/Android_(operating_system))
-=======
-- [Microsoft OneDrive](https://products.office.com/en-us/onedrive-for-business/online-cloud-storage)
-- [Microsoft Outlook](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook)
-- [Microsoft Access](/)<br>
-
+</section>
+<section>
 <b>[Windows System Tools](/)</b>
 - [Windows Defender](https://en.wikipedia.org/wiki/Windows_Defender)<br>
 - [Windows Registry](https://en.wikipedia.org/wiki/Windows_Registry)
 - [Windows Services](https://en.wikipedia.org/wiki/Windows_service)
 - [MS-DOS Prompt](https://en.wikipedia.org/wiki/MS-DOS)
-- [group Policy](/)
+- [Group Policy](/)
 - [Startup Edit](/)
 - [Disk Defragmenter](/)<br>
 </section>
 <section>
 <b>[Google Suite And Products](https://gsuite.google.com/features/)</b></br>
 - [Android](https://en.wikipedia.org/wiki/Android_(operating_system))
->>>>>>> 34108310ba38be4150c0a176440eb742dad8a2c1
 - [Google Suite](https://gsuite.google.com/features/)
 - [Google Cloud](https://cloud.google.com/)
 - [Google Drive](https://www.google.com/drive/)
@@ -96,12 +97,14 @@ layout: default
 - [Steemit](https://www.steemit.com/)
 - [Minds](https://www.minds.com/)
 - [BitChute](https://www.bitchute.com/)<br>
-
-
-Debain Linux
-Tails
-Kali Linux
-
+</section>
+<section>
+<b>Linux</b>
+- [Debian Linux](/)
+- [Tails](/)
+- [Kali Linux](/)
+</section>
+<section>
 <b>[Messenger Applications](/)</b>
 - [Signal](https://signal.org/)
 - [Wickr](https://wickr.com/home/)
@@ -111,19 +114,22 @@ Kali Linux
 - [Wickr](https://wickr.com/home/)
 - [Kik](https://www.kik.com/)
 - [WhatsApp](/)<br>
-
+</section>
+<section>
 <b>Group Meeting Applications</b>
 - [Slack](https://slack.com/)
 - [Discord](https://discordapp.com/)
 - [GoToMeeting](https://www.gotomeeting.com/)
 - [Zoom](/)<br>
-
+</section>
+<section>
 <b>General Computer Skills</b>
 - [Drive Formatting](/)
 - [Partition Magic](/)
 - [Burning CD, DVDs, and Blu Rays](/)
 - Hardware Installation, Maintenance and Troubleshooting
-
+</section>
+<section>
 <b>[Networking](/)</b>
 - [Local Area Networking](/)
 - [WIFI Networks](/)
@@ -139,37 +145,13 @@ Kali Linux
 - [RequestPolicy](/)
 - [Tamper Data](/)
 - [HTTPS Everywhere](https://en.wikipedia.org/wiki/HTTPS_Everywhere)<br>
-<<<<<<< HEAD
-
-<b>[Media](/)</b>
-- [K-Lite Codec Pack](/)/)<br>
-
+</section>
+<b>Apple Products</b>
+- [iOS](/))
+<section>
 <b>Antivirus And Antimalware Software<b>
 - [Malwarebytes](https://www.malwarebytes.com/)
 - [Spybot Search And Destroy](https://www.safer-networking.org/compare-spybot-editions/)<br>
-
-
-
-- [Google Play Store](https://play.google.com/store?hl=en)
-- [IFTTT](https://ifttt.com/)
-- [Reddit](https://www.reddit.com/)
-- [Adobe Acrobat Reader](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
-Confluence
-MailChimp
-Google AdSense
-
-
-
-
-
-
-
-
-
-
-
-<footer><center>[Top Of Page](#Top)<br></center></footer>
-=======
 </section>
 <section>
 [Search Engine Optimization](/)
@@ -177,15 +159,10 @@ Google AdSense
 - [RSS](https://en.wikipedia.org/wiki/RSS)<br>
 </section>
 <section>
-<b>Antivirus And Antimalware Software<b>
-- [Malwarebytes](https://www.malwarebytes.com/)
-- [Spybot Search And Destroy](https://www.safer-networking.org/compare-spybot-editions/)<br>
+- [Typing Speed](/) - 263 net characters per minute which equals 53 net words per minute.<br>
 </section>
 <section>
-- [Typing Speed](/) - 263 net characters per minute which equals 53 net words per minute.<br>
-
 - [K-Lite Codec Pack](/)
 <section><div>
 <footer><center>[Top Of Page](#top)<br></center></footer>
 </div></section>
->>>>>>> 34108310ba38be4150c0a176440eb742dad8a2c1

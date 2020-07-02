@@ -36,13 +36,15 @@ layout: default
 <center><b><u>Music</b></u></center><br>
 [David Hall](http://hallmusicproductions.com/) - Owner and Maestro of Hall Music Productions<br>
 
-<center><b><u>National Forensics League</b></u></center><br>
-[Dixie Waldo](https://books.google.com/books?id=AwgrpoWfJDoC&pg=PA46&lpg=PA46&dq=dixie+waldo+forensics+team&source=bl&ots=auf133AbR3&sig=ACfU3U0Gxux4RJ0cCxMQv1YCsp-ltqyC1Q&hl=en&sa=X&ved=2ahUKEwi_2dGan9_hAhUDWq0KHWwbAHwQ6AEwB3oECAgQAQ#v=onepage&q=dixie%20waldo%20forensics%20team&f=false) - Southlake Carroll Dragon Forensics Team Teacher [1](https://www.southlakecarroll.edu/Page/350)<br>
+[Law Offices Of Zoe Courtney](http://courtneylaw.pro/)<br>
 
 <center><b><u>Southlake Carroll Dragon Football</b></u></center><br>
 - [Todd Dodge](/) - Head Coach 2006
 - [Riley Dodge](https://www.dragonyouthfootball.net/page/show/3312854-dragon-football-camps-by-coach-dodge), [2](https://www.dragonyouthfootball.net/page/show/3312857-dragon-youth-football-camp-powered-by-fasst-performance)
 - [Greg McElroy](/)<br>
-</section>
+
+<center><b><u>National Forensics League (NFL)</b></u></center><br>
+[Dixie Waldo](https://books.google.com/books?id=AwgrpoWfJDoC&pg=PA46&lpg=PA46&dq=dixie+waldo+forensics+team&source=bl&ots=auf133AbR3&sig=ACfU3U0Gxux4RJ0cCxMQv1YCsp-ltqyC1Q&hl=en&sa=X&ved=2ahUKEwi_2dGan9_hAhUDWq0KHWwbAHwQ6AEwB3oECAgQAQ#v=onepage&q=dixie%20waldo%20forensics%20team&f=false) - Southlake Carroll Dragon Forensics Team Teacher [1](https://www.southlakecarroll.edu/Page/350)<br>
+</div></section>
 <section><div>
-<footer><center>[Top Of Page](#top)</center></footer></div></section>
+<footer><center>[Top Of Page](#Top)</center></footer></div></section>

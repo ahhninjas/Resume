@@ -25,7 +25,6 @@ layout: default
 <a href="top">Top of Page/a><br>
 
 * * *
-
 ## <b><u><center>Sean Mills</b></u></center>
 <center>[Download My Resume]()</center>
 <center>[Email: ](mailto:)</center>
@@ -48,7 +47,7 @@ layout: default
 - Honorable Discharge<br>
 </div>
 * * *
-<div id="exp">
+<div id="exp"
 ### <u><b><center>Experience</u></b></center>
 #### <u><b><center>Web Developer</u></b></center>
 <u><center><b>[Universal Bit Project](/)</b></center></u>
@@ -64,7 +63,6 @@ layout: default
 </div>
 
 * * *
-<div id="hack">
 #### <b><u><center>Hackathon Participation</b></u></center><br>
 <b><center><u>Factom Hackathon</u></b></center><br>
 Participant<br>
@@ -127,15 +125,13 @@ Web Developer, And Customer Resource Management<br>
 - [Door To Door Sales](https://en.wikipedia.org/wiki/Door-to-door)
 - [Business To Business Sales](https://en.wikipedia.org/wiki/Business-to-business)
 - [Solicitation](https://en.wikipedia.org/wiki/Solicitation)<br>
-</div>
-<div id="distribution"
+
 <b>[Product Sales And Distribution](https://en.wikipedia.org/wiki/Goods_and_services)</b>
 - [Garage and Estate Sales](https://www.gsalr.com)
 - [OfferUp](https://www.offerup.com)
 - [LetGo](https://www.letgo.com)
 - [Craigslist](https://www.craigslist.org/about/sites)<br>
-</div>
-<div id="profile"
+
 <b>Psychological Profile</b>
 - [Meyers Briggs Institute (MBTI)](https://www.myersbriggs.org/home.htm?bhcp=1) - [ENTJ](https://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.htm) - Extroverted Intuitive Thinking Judging
  - "Frank, decisive, assume leadership readily. Quickly see illogical and inefficient procedures and policies, develop and implement comprehensive systems to solve organizational problems. Enjoy long-term planning and goal setting. Usually well informed, well read, enjoy expanding their knowledge and passing it on to others. Forceful in presenting their ideas.""
@@ -190,7 +186,6 @@ Web Developer, And Customer Resource Management<br>
 <b>Spanish Proficiency</b><br>
 - Intermediate Proficiency: 10+ Years Without Complete Immersion<br>
 
-<<<<<<< HEAD
 Sport Skills<br>
 [Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)<br>
 [College For Kids](https://www.tccd.edu/academics/cie/lifelong-learning/youth-programs/college-for-kids/)<br>
@@ -208,42 +203,10 @@ Sport Skills<br>
 - [Cat Boarding](/)
 - [Animal Sitting](/)<br>
 
-<b>Event Management</b>
-- [Meetup](https://www.meetup.com/)
-- [EventBrite](https://www.evenbrite.com/)<br>
-
 <b>User Interface Experience</b>
 - [TryMyUI](https://www.trymyui.com/)
 - [User Testing](https://www.usertesting.com/)<br>
 
-=======
-<b>Sport Skills</b>
-- [Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)<br>
-- [College For Kids](https://www.tccd.edu/academics/cie/lifelong-learning/youth-programs/college-for-kids/)<br>
-- [University of North Texas Soccer Camp](https://www.meangreensoccercamps.com/)<br>
-- [Carroll Ice Hockey Camp](https://www.southlakehockey.com/)<br>
-- [Khru Ty Pilgrim Boxing Camp](https://www.muskogeephoenix.com/sports/muay-thai-means-my-time-for-local-pair/article_3355684e-b424-500b-aef5-6ccd39c24c87.html)<br>
-- [Diaz Martial Arts Combat Shooting Course](http://diazma.com/)<br>
-- [Performance Course](https://www.performancecourse.com/)<br>
-
-* * *
->>>>>>> 34108310ba38be4150c0a176440eb742dad8a2c1
-
-<b>UX Review</b>
-- [Technical Writing](/)
-- [User Testing](/)
-- [Try My User Interface](/)
-
-<<<<<<< HEAD
-- [Weight Management](/)
-- [Smart TV Setup](/)
-- [Home Theater Installation](/)
-- [Surround Sound Speaker Installation](/)
-- [Technical Writing](/)
-
-
-<footer><center>[Top Of Page](#Top)<br></center></footer>
-=======
 Sort and Review Section
 - [IFTTT](https://ifttt.com/)
 - [Reddit](https://www.reddit.com/)
@@ -258,4 +221,10 @@ Sort and Review Section
 - [Amazon Reseller](https://www./)
 - [TeamViewer](https://www./)
 - [POP Email Accounts](/)<br>
->>>>>>> 34108310ba38be4150c0a176440eb742dad8a2c1
+- [Weight Management](/)
+- [Smart TV Setup](/)
+- [Home Theater Installation](/)
+- [Surround Sound Speaker Installation](/)
+- [Technical Writing](/)
+
+<footer><center>[Top Of Page](#Top)<br></center></footer>

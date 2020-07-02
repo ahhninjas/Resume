@@ -6,8 +6,6 @@ layout: default
 <ul class="nav_menu">
 </div>
 <div id="financial">
-</div>
-<section>
 ### <u><b><center>Financial Skills</u></b></center><br>
 <b>Financial Skills</b>
 - [Stock Market Game 2004 3rd Place](https://www.stockmarketgame.org/)
