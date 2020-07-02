@@ -1,28 +1,28 @@
 ---
 layout: default
 ---
-<div id="Top Of Page">
+<div id="top">
 </div>
 <header></header>
 <div id="resume"></div>
 <ul class="nav_menu"><br>
 </div>
 ### <b><u><center>Table of Contents</b></u></center>
-<center>[Education](#Education)<br></center>
-<center>[Experience](#Experience)<br></center>
+<center>[Education](#edu)<br></center>
+<center>[Experience](#exp)<br></center>
 <center>[Hackathon](#Hackathons)<br></center>
-<center>[References](#References)<br></center>
+<center>[References](#refs)<br></center>
 <center>[Bucket List](#Bucket List)<br></center>
 <center>[Skills](#Skills)<br></center>
 <center>[Desired Skills](#Desired Skills)<br></center>
 
-<a href="Education">Education</a><br>
-<a href="Experience">Experience</a><br>
+<a href="edu">Education</a><br>
+<a href="exp">Experience</a><br>
 <a href="Hackathon">Hackathon</a><br>
-<a href="References">References</a><br>
+<a href="Refs">References</a><br>
 <a href="Bucket List">Bucket List</a><br>
 <a href="Desired Skills">Desired Skills</a><br>
-<a href="Top of Page">Top of Page/a><br>
+<a href="top">Top of Page/a><br>
 
 * * *
 
@@ -33,7 +33,7 @@ layout: default
 <center>[Skype: ](<a href="skype:(USERNAME)?call">Call Me</a>)</center><br>
 
 * * *
-<div id="education">
+<div id="edu">
 ### <u><b><center>Education</u></b></center><br>
 <b>[Carroll High School, Southlake, Texas - 2002 - 2006](https://en.wikipedia.org/wiki/Carroll_Senior_High_School)</b><br>
 <b>[Oklahoma State University, Stillwater, Oklahoma - 2006 - 2010](http://okstate.edu)</b><br>
@@ -131,7 +131,7 @@ Web Developer, And Customer Resource Management<br>
 <div id="marketing">
 <b>[Marketing](https://en.wikipedia.org/wiki/Marketing)</b>
 - [Social Media Marketing](https://en.wikipedia.org/wiki/Social_media_marketing)
-- [Advertising - B2B, Solicitation, Digital, Mailer, Guerilla Marketing](https://en.wikipedia.org/wiki/Advertising)
+- [Advertising: B2B, Solicitation, Digital, Mailer, Guerilla Marketing](https://en.wikipedia.org/wiki/Advertising)
 
 <b>Sales Skills(https://en.wikipedia.org/wiki/Sales)</b>
 - [Cold Calling](https://en.wikipedia.org/wiki/Cold_calling/)
@@ -161,23 +161,13 @@ Web Developer, And Customer Resource Management<br>
 - [Buffer](https://www.buffer.com/)
 - [Disqus](https://disqus.com)<br>
 </div>
+
 <div id="quicklinks">
 <b>Quick Link Generation and Analytics</b>
 - [Bit.ly Quick Links](https://www./)
 - [Google Analytics](https://www./)
 - [Google AdWords](https://www./)<br>
 </div>
-- [Cam Studio](https://camstudio.org/)
-- [Dropbox](https://www.dropbox.com/)
-- [WinRAR](https://www.winrar.com/)
-- [MagicISO](https://www.magiciso.com/)
-- [Ebay](https://www.ebay.com/)
-- [Join.me](https://www.join.me/)
-- [Jing](https://www.techsmith.com/screen-capture.html)
-- [Amazon Reseller](https://www./)
-- [TeamViewer](https://www./)
-- [TeamWork](https://www.teamwork.com/)
-- [POP Email Accounts](/)
 
 <b>[Mozilla Products](https://support.mozilla.org/en-US/products)</b>
 - [Firefox Quantum](https://www.mozilla.org/en-US/)
@@ -185,7 +175,7 @@ Web Developer, And Customer Resource Management<br>
 - [Firefox Sync](https://en.wikipedia.org/wiki/Firefox_Sync)
 - [Firefox Send](https://send.firefox.com/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=homepage&utm_content=card)
 - [Thunderbird](https://www.thunderbird.net/)
-- [Firebug](https://web.archive.org/web/20120330103011/http://getfirebug.com/)
+- [Firebug](https://web.archive.org/web/20120330103011/http://getfirebug.com/)<br>
 
 <b>Email</b>
 - [ProtonMail](https://www.protonmail.com/)
@@ -196,7 +186,7 @@ Web Developer, And Customer Resource Management<br>
 - [IPConfig](https://en.wikipedia.org/wiki/Ipconfig)
 - [IPCheck](http://ip-check.info/?lang=en)<br>
 
-<b>Information Technology Security</b><br>
+<b>Information Technology Security</b>
 - [Dark Web](https://en.wikipedia.org/wiki/Dark_web)
 - [Dark Net](https://en.wikipedia.org/wiki/Darknet)
 - [Proxy Server](https://en.wikipedia.org/wiki/Proxy_server)
@@ -206,13 +196,14 @@ Web Developer, And Customer Resource Management<br>
 - [Onion Routing](https://en.wikipedia.org/wiki/Onion_routing)
 - [PeerGuardian](http://www.phoenixlabs.org/)
 - [PeerBlock](https://peerblock.en.uptodown.com/windows)
-- [Block Lists and Black Listing](https://en.wikipedia.org/wiki/Blacklist_(computing))<br>
+- [Block Lists and Black Listing](https://en.wikipedia.org/wiki/Blacklist_(computing))
 - [Multifactor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)</b>
 - [Authy](https://www.authy.com/)<br>
 
 <b>Torrenting</b>
-- [Deluge](https://www.deluge.com/)<br>
-- [ThePirateBay](https://en.wikipedia.org/wiki/The_Pirate_Bay)
+- [Deluge](https://www.deluge.com/)
+- [ThePirateBay](https://en.wikipedia.org/wiki/The_Pirate_Bay)<br>
+
 <div id="mining">
 <b>Mining</b>
 - [NiceHash Miner](www.nicehash.com/)
@@ -220,26 +211,27 @@ Web Developer, And Customer Resource Management<br>
 - [Mining Pools](https://en.wikipedia.org/wiki/Mining_pool)
 - [Cloud Mining](https://en.wikipedia.org/wiki/Cloud_mining)<br>
 </div>
-<div id="streaming"
+
+<div id="streaming">
 <b>Streaming</b>
 - [StreamLabs](https://www.streamlabs.com/)
 - [Twitch](https://www.twitch.com/)
-- [YouTube](https://www.youtube.com/)
+- [YouTube](https://www.youtube.com/)<br>
+</div>
 
 <b>Spanish Proficiency</b><br>
 - Intermediate Proficiency: 10+ Years Without Complete Immersion<br>
 
-Sport Skills<br>
-[Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)<br>
-[College For Kids](https://www.tccd.edu/academics/cie/lifelong-learning/youth-programs/college-for-kids/)<br>
-[University of North Texas Soccer Camp](https://www.meangreensoccercamps.com/)<br>
-[Carroll Ice Hockey Camp](https://www.southlakehockey.com/)<br>
-[Khru Ty Pilgrim Boxing Camp](https://www.muskogeephoenix.com/sports/muay-thai-means-my-time-for-local-pair/article_3355684e-b424-500b-aef5-6ccd39c24c87.html)<br>
-[Diaz Martial Arts Combat Shooting Course](http://diazma.com/)<br>
-[Performance Course](https://www.performancecourse.com/)<br>
-
-
+<b>Sport Skills</b>
+- [Air Force Academy Ice Hockey Camp](https://goairforcefalcons.com/sports/2018/6/21/camps-hockey-html.aspx)<br>
+- [College For Kids](https://www.tccd.edu/academics/cie/lifelong-learning/youth-programs/college-for-kids/)<br>
+- [University of North Texas Soccer Camp](https://www.meangreensoccercamps.com/)<br>
+- [Carroll Ice Hockey Camp](https://www.southlakehockey.com/)<br>
+- [Khru Ty Pilgrim Boxing Camp](https://www.muskogeephoenix.com/sports/muay-thai-means-my-time-for-local-pair/article_3355684e-b424-500b-aef5-6ccd39c24c87.html)<br>
+- [Diaz Martial Arts Combat Shooting Course](http://diazma.com/)<br>
+- [Performance Course](https://www.performancecourse.com/)<br>
 * * *
+
 <b>Animal Training And Boarding</b>
 - [Dog Behavior Training](/)
 - [Dog Boarding](/)
@@ -251,7 +243,13 @@ Sport Skills<br>
 - [Meetup](https://www.meetup.com/)
 - [EventBrite](https://www.evenbrite.com/)<br>
 
+<b>UX Review and Design</b>
+- [Technical Writing](/)
+- [User Testing](/)
+- [Try My User Interface](/)
 
+
+Sort and Review Section
 - [Google Play Store](https://play.google.com/store?hl=en)
 - [IFTTT](https://ifttt.com/)
 - [Reddit](https://www.reddit.com/)
@@ -261,9 +259,14 @@ Sport Skills<br>
 - [Home Theater Installation](/)
 - [Surround Sound Speaker Installation](/)
 
-- [Technical Writing](/)
-- [Law Offices Of Zoe Courtney](/)
-- [User Testing](/)
-- [Try My User Interface](/)
-
-UX Review and Design
+- [Cam Studio](https://camstudio.org/)
+- [Dropbox](https://www.dropbox.com/)
+- [WinRAR](https://www.winrar.com/)
+- [MagicISO](https://www.magiciso.com/)
+- [Ebay](https://www.ebay.com/)
+- [Join.me](https://www.join.me/)
+- [Jing](https://www.techsmith.com/screen-capture.html)
+- [Amazon Reseller](https://www./)
+- [TeamViewer](https://www./)
+- [TeamWork](https://www.teamwork.com/)
+- [POP Email Accounts](/)<br>

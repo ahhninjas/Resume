@@ -17,7 +17,7 @@ layout: default
 </div>
 </section>
 <section>
-<div id="code">
+<div id="languages">
 <b>[Coding Languages](/)</b></br>
 - [HTML](https://en.wikipedia.org/wiki/HTML) - Advanced
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Advanced
@@ -90,7 +90,7 @@ layout: default
 <b>[Messenger Applications](/)</b>
 - [Telegram](https://telegram.org/)
 - [Signal](https://signal.org/)
-- [Wickr.Me](https://wickr.com/home/)
+- [Wickr](https://wickr.com/home/)
 - [Skype](https://www.skype.com/en/)
 - [SnapChat](https://www.snapchat.com/)<br>
 
