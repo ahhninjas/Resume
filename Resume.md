@@ -99,17 +99,11 @@ Web Developer<br>
 Web Developer, And Customer Resource Management<br>
 [Insightful Automation](http://www.InsightfulAutomation.com)<br>
 * * *
-
 <b>[National Forensic League](https://www.speechanddebate.org/)</b>
 - [National Forensics League Texas State Champions 2006](https://www.southlakecarroll.edu/Page/350)
 - [Domestic Extemporaneous Speaking](https://en.wikipedia.org/wiki/United_States_Extemporaneous_Speaking)
 - [Foreign Extemporaneous Speaking](https://en.wikipedia.org/wiki/Foreign_Extemporaneous_Speaking)
-- [Lincoln Douglas Debate](https://en.wikipedia.org/wiki/Foreign_Extemporaneous_Speaking)
-- [Current Events Documentation](/)
-- [Speech and Presentation Analysis](/)
-- [Business Attire Analysis](/)
-- [Debate Judging](/)
-- [Contention Analysis And Rebuttal](/)<br>
+- [Lincoln Douglas Debate](https://en.wikipedia.org/wiki/Foreign_Extemporaneous_Speaking)<br>
 
 <b>Volunteering</b>
 - [Southside Church Food Distribution](http://www.southsidecommunitycenter.org/homeless-shelter-sscc)
@@ -214,7 +208,7 @@ Web Developer, And Customer Resource Management<br>
 <b>Streaming</b>
 - [StreamLabs](https://www.streamlabs.com/)
 - [Twitch](https://www.twitch.com/)
-- [YouTube](https://www.youtube.com/)
+- [YouTube](https://www.youtube.com/)<br>
 
 <b>Spanish Proficiency</b><br>
 - Intermediate Proficiency: 10+ Years Without Complete Immersion<br>
@@ -228,58 +222,29 @@ Sport Skills<br>
 [Diaz Martial Arts Combat Shooting Course](http://diazma.com/)<br>
 [Performance Course](https://www.performancecourse.com/)<br>
 
-
 * * *
 <b>Animal Training And Boarding</b>
 - [Dog Behavior Training](/)
 - [Dog Boarding](/)
 - [Dog Grooming](/)
 - [Cat Boarding](/)
-- [In Home Animal Sitting](/)<br>
+- [Animal Sitting](/)<br>
 
 <b>Event Management</b>
 - [Meetup](https://www.meetup.com/)
 - [EventBrite](https://www.evenbrite.com/)<br>
 
-<b>Antivirus And Antimalware Software<b>
-- [Malwarebytes](https://www.malwarebytes.com/)
-- [Spybot Search And Destroy](https://www.safer-networking.org/compare-spybot-editions/)<br>
+<b>User Interface Experience</b>
+- [TryMyUI](https://www.trymyui.com/)
+- [User Testing](https://www.usertesting.com/)<br>
 
 
-- [Google Play Store](https://play.google.com/store?hl=en)
-- [IFTTT](https://ifttt.com/)
-- [Reddit](https://www.reddit.com/)
-- [Adobe Acrobat Reader](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
+
 - [Weight Management](/)
 - [Smart TV Setup](/)
 - [Home Theater Installation](/)
 - [Surround Sound Speaker Installation](/)
-
-add my pgp key to download on my registry
-publish my public PGP key on my github page
-add technical writing to skillset
-
-[TryMyUI](https://www.trymyui.com/)
-[User Testing](https://www.usertesting.com/)
-
-
-Confluence
-
-Microsoft Outlook
-Microsoft Word
-Microsoft PowerPoint
-Microsoft Access
-Microsoft Excel
-
-MailChimp
-Google AdSense
-Google AdWords
-
-
-
-HTML
-CSS
-Markdown
+- [Technical Writing](/)
 
 
 <footer><center>[Top Of Page](#Top)<br></center></footer>

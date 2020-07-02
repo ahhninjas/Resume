@@ -19,9 +19,8 @@ layout: default
 - Motorcycle License
 - Commercial Drivers License
 - Captains License
-- Drone License
 - Skydiving License
-- SCUBA License
+- SCUBA License<br>
 
 <b>Web Development</b>
 - [Hootsuite Certifications](https://www.hootsuite.com/)
@@ -53,11 +52,11 @@ Visit Before I Die:
 - Off Planet
 - Burning Man
 - Japan
-- Antarctica
+- Antarctica<br>
 
 ## <u><b><center>Financial Goals</u></b></center>
 - [Ability to work anywhere on the planet to earn money](/)
-- [Create off grid housing/van house/tiny house/sustainable housing](/)
+- [Create off grid housing/van house/tiny house/sustainable housing](/)<br>
 
 * * *
 ## <u><b><center>Purchase List</u></b></center>

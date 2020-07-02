@@ -10,30 +10,28 @@ layout: default
 I can coach individuals in any age group techniques in the following areas.<br>
 
 Sport Specific Skills<br>
- - Martial Arts
- - Football
- - Soccer
- - Hockey<br>
+- Martial Arts
+- Football
+- Soccer
+- Hockey<br>
 
 Overall Sport Skills<br>
- - Running And Agility
- - Strength And Conditioning Training
- - Flexibility Enhancement
- - Olympic And Power Lifting Training
- - Oxygen Deprivation Training<br>
+- Running And Agility
+- Strength And Conditioning Training
+- Flexibility Enhancement
+- Olympic And Power Lifting Training
+- Oxygen Deprivation Training<br>
 
-
- Nutrition
- - Vitamin Supplementation
- - Food Supplementation
- - Recipe Construction
- - Smoothie
- - Juicing
- - [Excipient Identification](/)
- - [Nootropic Supplementation](https://en.wikipedia.org/wiki/Nootropic)
- - [Cooking Skills](/)
- - [Herbalism](/)<br>
-
+Nutrition
+- Vitamin Supplementation
+- Food Supplementation
+- Recipe Construction
+- Smoothie
+- Juicing
+- [Excipient Identification](/)
+- [Nootropic Supplementation](https://en.wikipedia.org/wiki/Nootropic)
+- [Cooking Skills](/)
+- [Herbalism](/)<br>
 
 <b>Medical</b><br>
 - [First Aid](/)
@@ -48,18 +46,11 @@ I am familiar with a wide variety of health problems and how they physically man
 - [Alzheimer's Disease](/)
 - [Depression](/)
 - [Alcoholism](/)
-- [Stimulant Addiction](/)
-- [Depressant Addiction](/)
-- [Smoking Addiction](/)
 - [Stroke](/)
 - [Cancer](/)<br>
 
 <b>Psychological Skills</b>
 - [Neuro Linguistic Processing (NLP)](/)
-- [Negotiation and Compromise](/)
-- [Body Language Analysis](/)
-- [Lie Detection](/)
-- [Investigation](/)
-- [In Home Caretaker](/)<br>
+- [Caretaker](/)<br>
 
 <footer><center>[Top Of Page](#Top)<br></center></footer>
