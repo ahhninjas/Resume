@@ -2,54 +2,48 @@
 layout: default
 ---
 <header></header><br>
-<div id="it">
+<div id="top">
 <ul class="nav_menu"><br>
 </div>
+<section>
 ### <u><b><center>Information Technology Skills</u></b></center><br>
 <b>Web Development Applications</b>
 - [GitHub](https://github.com/ahhninjas)
 - [GitPitch](https://gitpitch.com/)
 - [Atom](https://atom.io/)
-- [WordPress](https://wordpress.com/)
+- [WordPress](https://wordpress.com/)<br>
 
 <b>Hosting</b>
 - [Bluehost](https://www.bluehost.com/)<br>
-</div>
-</section>
-<section>
-<div id="languages">
+
 <b>[Coding Languages](/)</b></br>
 - [HTML](https://en.wikipedia.org/wiki/HTML) - Advanced
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Advanced
 - [Markdown](https://www.markdownguide.org/) - Expert
 - [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [1](http://catalog.okstate.edu/search/?P=CS%201113) - Novice<br>
-
-<b>[Microsoft Suite Products, and Windows System Tools](https://products.office.com/en-us/products)</b>
+</section>
+<section>
+<b>[Microsoft Suite](https://products.office.com/en-us/products)</b>
 - [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
 - [Microsoft Windows Media Player](https://www.microsoft.com/en-us/download/windows-media-player-details.aspx)
 - [Microsoft Word](https://products.office.com/en-us/word)
 - [Microsoft Excel](https://products.office.com/en-us/excel)
 - [Microsoft Power Point](https://products.office.com/en-us/powerpoint)
 - [Microsoft Publisher](https://products.office.com/en-us/publisher)
-- [Microsoft One Drive](https://products.office.com/en-us/onedrive-for-business/online-cloud-storage)
+- [Microsoft OneDrive](https://products.office.com/en-us/onedrive-for-business/online-cloud-storage)
 - [Microsoft Outlook](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook)
 - [Microsoft Access](/)<br>
-</div>
-</section>
-<section>
-<div id="systemtools">
+
 <b>[Windows System Tools](/)</b>
 - [Windows Defender](https://en.wikipedia.org/wiki/Windows_Defender)<br>
 - [Windows Registry](https://en.wikipedia.org/wiki/Windows_Registry)
 - [Windows Services](https://en.wikipedia.org/wiki/Windows_service)
 - [MS-DOS Prompt](https://en.wikipedia.org/wiki/MS-DOS)
-- [GPedit](/)
+- [group Policy](/)
 - [Startup Edit](/)
 - [Disk Defragmenter](/)<br>
-</div>
 </section>
 <section>
-<div id="gsuite">
 <b>[Google Suite And Products](https://gsuite.google.com/features/)</b></br>
 - [Android](https://en.wikipedia.org/wiki/Android_(operating_system))
 - [Google Suite](https://gsuite.google.com/features/)
@@ -69,11 +63,9 @@ layout: default
 - [Google Identity Protection](https://developers.google.com/identity/)
 - [Google Hangouts](https://tools.google.com/dlpage/hangoutplugin)
 - [Google Voice](https://voice.google.com/about)<br>
-</div>
 </section>
 <section>
-<div id="socialmedia">
-<b>Social Media Platforms</b>
+<b>Social Media</b>
 - [Instagram](https://www.instagram.com/)
 - [Facebook](https://www.facebook.com/)
 - [Twitter](https://twitter.com/NinjaInvestingX)
@@ -83,10 +75,7 @@ layout: default
 - [Steemit](https://www.steemit.com/)
 - [Minds](https://www.minds.com/)
 - [BitChute](https://www.bitchute.com/)<br>
-</div>
-</section>
-<section>
-<div id="messengers">
+
 <b>[Messenger Applications](/)</b>
 - [Telegram](https://telegram.org/)
 - [Signal](https://signal.org/)
@@ -98,10 +87,8 @@ layout: default
 - [Slack](https://slack.com/)
 - [Discord](https://discordapp.com/)
 - [GoToMeeting](https://www.gotomeeting.com/)<br>
-</div>
 </section>
 <section>
-<div id="general">
 <b>General Computer Skills</b>
 - [Drive Formatting](/)
 - [Partition Magic](/)
@@ -112,11 +99,8 @@ layout: default
 - [Local Area Networking](/)
 - [WIFI Networks](/)
 - [WIFI Security](/)<br>
-</div>
 </section>
-<div id="">ion>
 <section>
-<div id="mozaddons">
 <b>[Mozilla Addons](https://en.wikipedia.org/wiki/Category:Firefox_add-ons)</b>
 - [Ghostery](https://www.ghostery.com/)
 - [LastPass](https://www.lastpass.com/)
@@ -126,25 +110,21 @@ layout: default
 - [RequestPolicy](/)
 - [Tamper Data](/)
 - [HTTPS Everywhere](https://en.wikipedia.org/wiki/HTTPS_Everywhere)<br>
-</div>
 </section>
 <section>
-<div id="seo">
 [Search Engine Optimization](/)
 - [Meta Tags](/)
 - [RSS](https://en.wikipedia.org/wiki/RSS)<br>
-</div>
 </section>
 <section>
-<div id="virus">
 <b>Antivirus And Antimalware Software<b>
 - [Malwarebytes](https://www.malwarebytes.com/)
 - [Spybot Search And Destroy](https://www.safer-networking.org/compare-spybot-editions/)<br>
-</div>
 </section>
 <section>
-<div id="">
 - [Typing Speed](/) - 263 net characters per minute which equals 53 net words per minute.<br>
 
 - [K-Lite Codec Pack](/)
-<footer><center>[Top Of Page](#Top)<br></center></footer>
+<section><div>
+<footer><center>[Top Of Page](#top)<br></center></footer>
+</div></section>

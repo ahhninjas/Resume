@@ -12,16 +12,16 @@ layout: default
 <center>[Experience](#exp)<br></center>
 <center>[Hackathon](#hack)<br></center>
 <center>[References](#refs)<br></center>
-<center>[Bucket List](#Bucket List)<br></center>
-<center>[Skills](#Skills)<br></center>
-<center>[Desired Skills](#Desired Skills)<br></center>
+<center>[Bucket List](#bucket)<br></center>
+<center>[Skills](#skill)<br></center>
+<center>[Desired Skills](#desire)<br></center>
 
 <a href="edu">Education</a><br>
 <a href="exp">Experience</a><br>
-<a href="Hackathon">Hackathon</a><br>
-<a href="Refs">References</a><br>
-<a href="Bucket List">Bucket List</a><br>
-<a href="Desired Skills">Desired Skills</a><br>
+<a href="hack">Hackathon</a><br>
+<a href="refs">References</a><br>
+<a href="bucket">Bucket List</a><br>
+<a href="desire">Desired Skills</a><br>
 <a href="top">Top of Page/a><br>
 
 * * *
@@ -105,15 +105,9 @@ Web Developer, And Customer Resource Management<br>
 - [National Forensics League Texas State Champions 2006](https://www.southlakecarroll.edu/Page/350)
 - [Domestic Extemporaneous Speaking](https://en.wikipedia.org/wiki/United_States_Extemporaneous_Speaking)
 - [Foreign Extemporaneous Speaking](https://en.wikipedia.org/wiki/Foreign_Extemporaneous_Speaking)
-- [Lincoln Douglas Debate](https://en.wikipedia.org/wiki/Foreign_Extemporaneous_Speaking)
-- [Current Events Documentation](/)
-- [Speech and Presentation Analysis](/)
-- [Business Attire Analysis](/)
-- [Debate Judging](/)
-- [Contention Analysis And Rebuttal](/)<br>
+- [Lincoln Douglas Debate](https://en.wikipedia.org/wiki/Foreign_Extemporaneous_Speaking)<br>
 </div>
 
-<div id="volunteering"
 <b>Volunteering</b>
 - [Southside Church Food Distribution](http://www.southsidecommunitycenter.org/homeless-shelter-sscc)
 - [Carroll Dragon Debate Tournament Judge And Event Management](/)
@@ -124,7 +118,6 @@ Web Developer, And Customer Resource Management<br>
 - [San Marcos River Cleanup Day](https://www.facebook.com/GreatTexasRiverCleanUp/)
 - [Altrusa International Silent Auction Raffle Sales](https://www.altrusa.org/)
 </div>
-
 
 [Oklahoma State University Philosophy Club](https://philosophy.okstate.edu/undergraduate/philosophy-club)
 
@@ -155,21 +148,18 @@ Web Developer, And Customer Resource Management<br>
 - Sense of Humor - [Affiliative](https://www.thecut.com/article/whats-your-humor-style.html)
  - "Everyone's sense of humor is a mix of all four styles, but yours leans most heavily toward affiliative, meaning you're good at cracking jokes and trading banter to build connections with other people."
 </div>
-<div id="social"
+
 <b>Social Media Management Systems</b>
 - [Hootsuite](https://www.hootsuite.com/)
 - [Buffer](https://www.buffer.com/)
 - [Disqus](https://disqus.com)<br>
-</div>
 
-<div id="quicklinks">
 <b>Quick Link Generation and Analytics</b>
 - [Bit.ly Quick Links](https://www./)
 - [Google Analytics](https://www./)
 - [Google AdWords](https://www./)<br>
-</div>
 
-<b>[Mozilla Products](https://support.mozilla.org/en-US/products)</b>
+<b>[Mozilla](https://support.mozilla.org/en-US/products)</b>
 - [Firefox Quantum](https://www.mozilla.org/en-US/)
 - [Firefox Accounts](https://www.mozilla.org/en-US/firefox/accounts/)
 - [Firefox Sync](https://en.wikipedia.org/wiki/Firefox_Sync)
@@ -178,13 +168,7 @@ Web Developer, And Customer Resource Management<br>
 - [Firebug](https://web.archive.org/web/20120330103011/http://getfirebug.com/)<br>
 
 <b>Email</b>
-- [ProtonMail](https://www.protonmail.com/)
-- [Gmail](http://www.gmail.com)<br>
-
-<b>Internet Connectivity Troubleshooting</b>
-- [SpeedTest](https://www.speedtest.net/)
-- [IPConfig](https://en.wikipedia.org/wiki/Ipconfig)
-- [IPCheck](http://ip-check.info/?lang=en)<br>
+- [ProtonMail](https://www.protonmail.com/)<br>
 
 <b>Information Technology Security</b>
 - [Dark Web](https://en.wikipedia.org/wiki/Dark_web)
@@ -193,9 +177,6 @@ Web Developer, And Customer Resource Management<br>
 - [Tor](https://www.torproject.org/)
 - [Virtual Private Network](https://en.wikipedia.org/wiki/Virtual_private_network)
 - [Virtual Private Server](https://en.wikipedia.org/wiki/Virtual_private_server)
-- [Onion Routing](https://en.wikipedia.org/wiki/Onion_routing)
-- [PeerGuardian](http://www.phoenixlabs.org/)
-- [PeerBlock](https://peerblock.en.uptodown.com/windows)
 - [Block Lists and Black Listing](https://en.wikipedia.org/wiki/Blacklist_(computing))
 - [Multifactor Authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)</b>
 - [Authy](https://www.authy.com/)<br>
@@ -204,20 +185,13 @@ Web Developer, And Customer Resource Management<br>
 - [Deluge](https://www.deluge.com/)
 - [ThePirateBay](https://en.wikipedia.org/wiki/The_Pirate_Bay)<br>
 
-<div id="mining">
 <b>Mining</b>
-- [NiceHash Miner](www.nicehash.com/)
-- [MinerGate](http://bit.ly/Miner_GateX/)
-- [Mining Pools](https://en.wikipedia.org/wiki/Mining_pool)
-- [Cloud Mining](https://en.wikipedia.org/wiki/Cloud_mining)<br>
-</div>
+- [MinerGate](http://bit.ly/Miner_GateX/)<br>
 
-<div id="streaming">
 <b>Streaming</b>
 - [StreamLabs](https://www.streamlabs.com/)
 - [Twitch](https://www.twitch.com/)
 - [YouTube](https://www.youtube.com/)<br>
-</div>
 
 <b>Spanish Proficiency</b><br>
 - Intermediate Proficiency: 10+ Years Without Complete Immersion<br>
@@ -230,35 +204,18 @@ Web Developer, And Customer Resource Management<br>
 - [Khru Ty Pilgrim Boxing Camp](https://www.muskogeephoenix.com/sports/muay-thai-means-my-time-for-local-pair/article_3355684e-b424-500b-aef5-6ccd39c24c87.html)<br>
 - [Diaz Martial Arts Combat Shooting Course](http://diazma.com/)<br>
 - [Performance Course](https://www.performancecourse.com/)<br>
+
 * * *
 
-<b>Animal Training And Boarding</b>
-- [Dog Behavior Training](/)
-- [Dog Boarding](/)
-- [Dog Grooming](/)
-- [Cat Boarding](/)
-- [In Home Animal Sitting](/)<br>
-
-<b>Event Management</b>
-- [Meetup](https://www.meetup.com/)
-- [EventBrite](https://www.evenbrite.com/)<br>
-
-<b>UX Review and Design</b>
+<b>UX Review</b>
 - [Technical Writing](/)
 - [User Testing](/)
 - [Try My User Interface](/)
 
-
 Sort and Review Section
-- [Google Play Store](https://play.google.com/store?hl=en)
 - [IFTTT](https://ifttt.com/)
 - [Reddit](https://www.reddit.com/)
 - [Adobe Acrobat Reader](https://acrobat.adobe.com/us/en/acrobat/pdf-reader.html)
-- [Weight Management](/)
-- [Smart TV Setup](/)
-- [Home Theater Installation](/)
-- [Surround Sound Speaker Installation](/)
-
 - [Cam Studio](https://camstudio.org/)
 - [Dropbox](https://www.dropbox.com/)
 - [WinRAR](https://www.winrar.com/)
@@ -268,5 +225,4 @@ Sort and Review Section
 - [Jing](https://www.techsmith.com/screen-capture.html)
 - [Amazon Reseller](https://www./)
 - [TeamViewer](https://www./)
-- [TeamWork](https://www.teamwork.com/)
 - [POP Email Accounts](/)<br>

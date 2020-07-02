@@ -4,62 +4,41 @@ layout: default
 <header>Goals</header><br>
 <div id="goals">
 <ul class="nav_menu">
-- Financial
-- Health and Fitness
-- IT
-- References
-- Resume<br>
 </div>
-
 ### <u><b><center>Goals</u></b></center><br>
 ## <u><b><center>Desired Skills</u></b></center><br>
-<b>Transportation</b>
-- Pilots License
+<b>Transportation Based</b><br>
+Land<br>
 - Motorcycle License
 - Commercial Drivers License
-- Captains License
-- Drone License
+Sea<br>
+- SCUBA License
+- Captains License<br>
+Air<br>
 - Skydiving License
-- SCUBA License<br>
-
-<b>Web Development</b>
-- [Hootsuite Certifications](https://www.hootsuite.com/)
-- [Buffer Certifications](https://www.buffer.com/)
-- [Google AdWords](https://support.google.com/google-ads/answer/9029201?hl=en)
-- [YouTube Certification](https://support.google.com/youtube/answer/6145895?hl=en&ref_topic=6145903)
-- [HubSpot Training](https://gsuite.google.com/products/gsuite-training/)<br>
-
-<b>Other</b>
-- [Notary License](/)
-- [Real Estate License](/)
-- [MakerBot Certification](https://store.makerbot.com/training/makerbot-university-online/)
-- [Welding Certification](/)
-- [Long Range Marksmanship Certification](/)<br>
+- Pilots License<br>
 
 * * *
-## <u><b><center>General Goals list</u></b></center>
-Physical Endurance
+## <u><b><center>Physical Goals</u></b></center>
+<b>Limitations of Physical Endurance I wish to push before I die:</b>
 - Win a boxing title
 - Win a kickboxing title
 - Run a marathon
 - Participate in a triathlon
 - Black Belt<br>
 
-Visit Before I Die:
+<b>Places I wish to see before I die:</b>
+- Burning Man
+- Antarctica
 - Hallow Earth
 - Northern Lights
-- Off Planet
-- Burning Man
-- Japan
-- Antarctica
+- Off Planet<br>
 
 ## <u><b><center>Financial Goals</u></b></center>
-- [Ability to work anywhere on the planet to earn money](/)
-- [Create off grid housing/van house/tiny house/sustainable housing](/)
-
-* * *
-## <u><b><center>Purchase List</u></b></center>
-- [Download Link To Excel Document With All Items](/)
-- [Link To Amazon Profile With All Wish List Items](/)<br>
+- [Work anywhere to earn money](/)
+- [Create sustainable off grid house](/)
+- [Create a tiny home from a bus, van or RV](/)
+- [Create a floating sustainable off grid house](/)
+- [All the items I want to buy](/)<br>
 
 <footer><center>[Top Of Page](#Top)<br></center></footer>
