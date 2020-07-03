@@ -6,26 +6,29 @@ layout: default
 <div id="top">
 <ul class="nav_menu"><br>
 </div>
-</section>
 <div id="it">
 </div>
+</section>
 <section>
 ### <u><b><center>Information Technology Skills</u></b></center><br>
 <b>Web Development Applications</b>
+- [Atom](https://atom.io/)
 - [GitHub](https://github.com/ahhninjas)
 - [GitPitch](https://gitpitch.com/)
-- [Atom](https://atom.io/)
 - [WordPress](https://wordpress.com/)<br>
 </section>
 <section>
 <b>Hosting</b>
+- [Domain](/)
 - [Bluehost](https://www.bluehost.com/)<br>
+- [File Transfer Protocol (FTP)](/)
+- [FileZilla](/)
 </section>
 <section>
 <b>[Coding Languages](/)</b></br>
 - [HTML](https://en.wikipedia.org/wiki/HTML) - Advanced
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Advanced
-- [Markdown](https://www.markdownguide.org/) - Expert
+- [Markdown](https://www.markdownguide.org/) - Advanced
 - [Java](https://en.wikipedia.org/wiki/Java_(programming_language)), [1](http://catalog.okstate.edu/search/?P=CS%201113) - Novice<br>
 </section>
 <section>
@@ -36,9 +39,17 @@ layout: default
 - [Microsoft Excel](https://products.office.com/en-us/excel)
 - [Microsoft Power Point](https://products.office.com/en-us/powerpoint)
 - [Microsoft Publisher](https://products.office.com/en-us/publisher)
+- [Microsoft Access](/)
 - [Microsoft OneDrive](https://products.office.com/en-us/onedrive-for-business/online-cloud-storage)
-- [Microsoft Outlook](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook)
-- [Microsoft Access](/)<br>
+- [Microsoft Outlook](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook)<br>
+</section>
+<section>
+<b>[Windows System Tools](https://products.office.com/en-us/products)</b>
+- [Disk Defragmenter](/)
+- [Windows Defender](https://en.wikipedia.org/wiki/Windows_Defender)<br>
+- [Windows Registry](https://en.wikipedia.org/wiki/Windows_Registry)
+- [Windows Services](https://en.wikipedia.org/wiki/Windows_service)
+- [MS-DOS Prompt](https://en.wikipedia.org/wiki/MS-DOS)<br>
 </section>
 <section>
 <b>[Windows System Tools](/)</b>
@@ -46,7 +57,7 @@ layout: default
 - [Windows Registry](https://en.wikipedia.org/wiki/Windows_Registry)
 - [Windows Services](https://en.wikipedia.org/wiki/Windows_service)
 - [MS-DOS Prompt](https://en.wikipedia.org/wiki/MS-DOS)
-- [group Policy](/)
+- [Group Policy](/)
 - [Startup Edit](/)
 - [Disk Defragmenter](/)<br>
 </section>
@@ -84,18 +95,28 @@ layout: default
 - [BitChute](https://www.bitchute.com/)<br>
 </section>
 <section>
+<b>Linux</b>
+- [Debian Linux](/)
+- [Tails](/)
+- [Kali Linux](/)
+</section>
+<section>
 <b>[Messenger Applications](/)</b>
-- [Telegram](https://telegram.org/)
 - [Signal](https://signal.org/)
 - [Wickr](https://wickr.com/home/)
 - [Skype](https://www.skype.com/en/)
-- [SnapChat](https://www.snapchat.com/)<br>
+- [SnapChat](https://www.snapchat.com/)
+- [Telegram](https://telegram.org/)
+- [Wickr](https://wickr.com/home/)
+- [Kik](https://www.kik.com/)
+- [WhatsApp](/)<br>
 </section>
 <section>
 <b>Group Meeting Applications</b>
 - [Slack](https://slack.com/)
 - [Discord](https://discordapp.com/)
-- [GoToMeeting](https://www.gotomeeting.com/)<br>
+- [GoToMeeting](https://www.gotomeeting.com/)
+- [Zoom](/)<br>
 </section>
 <section>
 <b>General Computer Skills</b>
@@ -121,20 +142,24 @@ layout: default
 - [Tamper Data](/)
 - [HTTPS Everywhere](https://en.wikipedia.org/wiki/HTTPS_Everywhere)<br>
 </section>
-<section>
-[Search Engine Optimization](/)
-- [Meta Tags](/)
-- [RSS](https://en.wikipedia.org/wiki/RSS)<br>
-</section>
+<b>Apple Products</b>
+- [iOS](/))
 <section>
 <b>Antivirus And Antimalware Software<b>
 - [Malwarebytes](https://www.malwarebytes.com/)
 - [Spybot Search And Destroy](https://www.safer-networking.org/compare-spybot-editions/)<br>
 </section>
 <section>
+[Search Engine Optimization](/)
+- [Meta Tags](/)
+- [RSS](https://en.wikipedia.org/wiki/RSS)<br>
+</section>
+<section>
 - [Typing Speed](/) - 263 net characters per minute which equals 53 net words per minute.<br>
 </section>
 <section>
+<b>Media</b>
 - [K-Lite Codec Pack](/)
+<section>
 <section><div>
 <footer><center>[Top Of Page](#top)<br></center></footer></div></section>

@@ -32,7 +32,7 @@ layout: default
 </section>
 <section>
 <center><b><u>Hospitality</b></u></center><br>
-[Adam Higdon - Manager Gumby's Pizza](http://www.gumbyspizza.com/)<br>
+[Adam Higdon General Manager Gumby's Pizza](http://www.gumbyspizza.com/)<br>
 </section>
 <section>
 <center><b><u>Construction</u></b></u></center><br>
@@ -58,4 +58,3 @@ layout: default
 </section>
 <section><div>
 <footer><center>[Top Of Page](#top)</center></footer></div></section>
->>>>>>> b031e1eef64af013d3597b097019e28bf4859544
