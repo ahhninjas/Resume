@@ -1,9 +1,13 @@
 ---
 layout: default
 ---
-<header></header><br>
+<section>
+<header>Information Technology</header><br>
 <div id="top">
 <ul class="nav_menu"><br>
+</div>
+</section>
+<div id="it">
 </div>
 <section>
 ### <u><b><center>Information Technology Skills</u></b></center><br>
@@ -12,10 +16,12 @@ layout: default
 - [GitPitch](https://gitpitch.com/)
 - [Atom](https://atom.io/)
 - [WordPress](https://wordpress.com/)<br>
-
+</section>
+<section>
 <b>Hosting</b>
 - [Bluehost](https://www.bluehost.com/)<br>
-
+</section>
+<section>
 <b>[Coding Languages](/)</b></br>
 - [HTML](https://en.wikipedia.org/wiki/HTML) - Advanced
 - [CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets) - Advanced
@@ -33,7 +39,8 @@ layout: default
 - [Microsoft OneDrive](https://products.office.com/en-us/onedrive-for-business/online-cloud-storage)
 - [Microsoft Outlook](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook)
 - [Microsoft Access](/)<br>
-
+</section>
+<section>
 <b>[Windows System Tools](/)</b>
 - [Windows Defender](https://en.wikipedia.org/wiki/Windows_Defender)<br>
 - [Windows Registry](https://en.wikipedia.org/wiki/Windows_Registry)
@@ -75,14 +82,16 @@ layout: default
 - [Steemit](https://www.steemit.com/)
 - [Minds](https://www.minds.com/)
 - [BitChute](https://www.bitchute.com/)<br>
-
+</section>
+<section>
 <b>[Messenger Applications](/)</b>
 - [Telegram](https://telegram.org/)
 - [Signal](https://signal.org/)
 - [Wickr](https://wickr.com/home/)
 - [Skype](https://www.skype.com/en/)
 - [SnapChat](https://www.snapchat.com/)<br>
-
+</section>
+<section>
 <b>Group Meeting Applications</b>
 - [Slack](https://slack.com/)
 - [Discord](https://discordapp.com/)
@@ -94,7 +103,8 @@ layout: default
 - [Partition Magic](/)
 - [Burning CD, DVDs, and Blu Rays](/)
 - Hardware Installation, Maintenance and Troubleshooting
-
+</section>
+<section>
 <b>[Networking](/)</b>
 - [Local Area Networking](/)
 - [WIFI Networks](/)
@@ -123,8 +133,8 @@ layout: default
 </section>
 <section>
 - [Typing Speed](/) - 263 net characters per minute which equals 53 net words per minute.<br>
-
+</section>
+<section>
 - [K-Lite Codec Pack](/)
 <section><div>
-<footer><center>[Top Of Page](#top)<br></center></footer>
-</div></section>
+<footer><center>[Top Of Page](#top)<br></center></footer></div></section>
