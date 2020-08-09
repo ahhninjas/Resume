@@ -25,18 +25,9 @@ Air<br>
 * * *
 <section>
 ## <u><b><center>Physical Goals</u></b></center>
-<b>Limitations of Physical Endurance I wish to push before I die:</b>
-- Win a boxing title
-- Win a kickboxing title
-- Run a marathon
-- Participate in a triathlon
-- Black Belt<br>
-</section>
-<section>
 <b>Places I wish to see before I die:</b>
 - Burning Man
 - Antarctica
-- Hallow Earth
 - Northern Lights
 - Off Planet<br>
 </section>
