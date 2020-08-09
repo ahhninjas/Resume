@@ -14,7 +14,6 @@ layout: default
 <b>Web Development Applications</b>
 - [Atom](https://atom.io/)
 - [GitHub](https://github.com/ahhninjas)
-- [GitPitch](https://gitpitch.com/)
 - [WordPress](https://wordpress.com/)<br>
 </section>
 <section>
@@ -34,26 +33,10 @@ layout: default
 <section>
 <b>[Microsoft Suite](https://products.office.com/en-us/products)</b>
 - [Microsoft Windows](https://en.wikipedia.org/wiki/Microsoft_Windows)
-- [Microsoft Windows Media Player](https://www.microsoft.com/en-us/download/windows-media-player-details.aspx)
-- [Microsoft Word](https://products.office.com/en-us/word)
-- [Microsoft Excel](https://products.office.com/en-us/excel)
-- [Microsoft Power Point](https://products.office.com/en-us/powerpoint)
-- [Microsoft Publisher](https://products.office.com/en-us/publisher)
-- [Microsoft Access](/)
-- [Microsoft OneDrive](https://products.office.com/en-us/onedrive-for-business/online-cloud-storage)
-- [Microsoft Outlook](https://products.office.com/en-us/outlook/email-and-calendar-software-microsoft-outlook)<br>
-</section>
-<section>
-<b>[Windows System Tools](https://products.office.com/en-us/products)</b>
-- [Disk Defragmenter](/)
-- [Windows Defender](https://en.wikipedia.org/wiki/Windows_Defender)<br>
-- [Windows Registry](https://en.wikipedia.org/wiki/Windows_Registry)
-- [Windows Services](https://en.wikipedia.org/wiki/Windows_service)
-- [MS-DOS Prompt](https://en.wikipedia.org/wiki/MS-DOS)<br>
 </section>
 <section>
 <b>[Windows System Tools](/)</b>
-- [Windows Defender](https://en.wikipedia.org/wiki/Windows_Defender)<br>
+- [Windows Defender](https://en.wikipedia.org/wiki/Windows_Defender)
 - [Windows Registry](https://en.wikipedia.org/wiki/Windows_Registry)
 - [Windows Services](https://en.wikipedia.org/wiki/Windows_service)
 - [MS-DOS Prompt](https://en.wikipedia.org/wiki/MS-DOS)
@@ -63,24 +46,7 @@ layout: default
 </section>
 <section>
 <b>[Google Suite And Products](https://gsuite.google.com/features/)</b></br>
-- [Android](https://en.wikipedia.org/wiki/Android_(operating_system))
-- [Google Suite](https://gsuite.google.com/features/)
-- [Google Cloud](https://cloud.google.com/)
-- [Google Drive](https://www.google.com/drive/)
-- [Google Docs](https://www.google.com/docs/about/)
-- [Google Sheets](https://www.google.com/sheets/about/)
-- [Google Forms](https://www.google.com/forms/about/)
-- [Google Slides](https://www.google.com/slides/about/)
-- [Google Charts](https://developers.google.com/chart/)
-- [Google Mail](https://gsuite.google.com/products/gmail/)
-- [Google Chat](https://gsuite.google.com/products/chat/)
-- [Google Calendar](https://gsuite.google.com/products/calendar/)
-- [Google Keep](https://gsuite.google.com/products/keep/)
-- [Google Maps](https://cloud.google.com/maps-platform/products/)
-- [Google Places](https://cloud.google.com/maps-platform/places/)
-- [Google Identity Protection](https://developers.google.com/identity/)
-- [Google Hangouts](https://tools.google.com/dlpage/hangoutplugin)
-- [Google Voice](https://voice.google.com/about)<br>
+- [Android](https://en.wikipedia.org/wiki/Android_(operating_system))<br>
 </section>
 <section>
 <b>Social Media</b>
@@ -90,30 +56,23 @@ layout: default
 - [Tumblr](https://www.tumblr.com/)
 - [YouTube](https://www.youtube.com/)
 - [LinkedIn](https://www.linkedin.com/)
-- [Steemit](https://www.steemit.com/)
-- [Minds](https://www.minds.com/)
 - [BitChute](https://www.bitchute.com/)<br>
 </section>
 <section>
 <b>Linux</b>
-- [Debian Linux](/)
 - [Tails](/)
 - [Kali Linux](/)
 </section>
 <section>
 <b>[Messenger Applications](/)</b>
 - [Signal](https://signal.org/)
-- [Wickr](https://wickr.com/home/)
 - [Skype](https://www.skype.com/en/)
 - [SnapChat](https://www.snapchat.com/)
 - [Telegram](https://telegram.org/)
-- [Wickr](https://wickr.com/home/)
-- [Kik](https://www.kik.com/)
-- [WhatsApp](/)<br>
+- [Wickr](https://wickr.com/home/)<br>
 </section>
 <section>
 <b>Group Meeting Applications</b>
-- [Slack](https://slack.com/)
 - [Discord](https://discordapp.com/)
 - [GoToMeeting](https://www.gotomeeting.com/)
 - [Zoom](/)<br>
@@ -142,8 +101,6 @@ layout: default
 - [Tamper Data](/)
 - [HTTPS Everywhere](https://en.wikipedia.org/wiki/HTTPS_Everywhere)<br>
 </section>
-<b>Apple Products</b>
-- [iOS](/))
 <section>
 <b>Antivirus And Antimalware Software<b>
 - [Malwarebytes](https://www.malwarebytes.com/)

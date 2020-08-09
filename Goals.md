@@ -36,7 +36,6 @@ Air<br>
 <b>Places I wish to see before I die:</b>
 - Burning Man
 - Antarctica
-- Hallow Earth
 - Northern Lights
 - Off Planet<br>
 </section>
